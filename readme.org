@@ -1,0 +1,9 @@
+#+TITLE: The Stoics Library
+#+AUTHOR: Benjamin Zaporzan
+#+DATE: 2018-04-27
+#+EMAIL: benzaporzan@gmail.com
+#+LANGUAGE: en
+#+OPTIONS: H:2 num:t toc:t \n:nil ::t |:t ^:t f:t tex:t
+
+Includes library resources on stoic texts. Almost all of the content is
+courtesy of *stoics.com*.
