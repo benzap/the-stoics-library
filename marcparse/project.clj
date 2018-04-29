@@ -7,7 +7,10 @@
                  [org.clojure/core.async "0.4.474"]
                  [enlive "1.1.6"]
                  [stasis "2.3.0"]
-                 [org.xerial/sqlite-jdbc "3.21.0.1"]]
+                 [com.rpl/specter "1.1.1"]
+                 [clj-http "3.9.0"]
+                 [org.xerial/sqlite-jdbc "3.21.0.1"]
+                 [funcool/cuerdas "2.0.5"]]
   :plugins [[lein-ancient "0.6.15"]]
   :main ^:skip-aot marcparse.core
   :target-path "target/%s"
