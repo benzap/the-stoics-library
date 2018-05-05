@@ -135,6 +135,7 @@
     (delete-char 1)
     (delete-blank-lines)))
 
+
 (defun format-paragraphs-plutarch-vol-4 ()
   (interactive)
   (setq case-fold-search nil)
@@ -144,4 +145,22 @@
     (next-line))
   (setq case-fold-search t))
 
-(setq case-fold-search t)
+
+(defun remove-line-beginning-with (text)
+  (interactive "sText: ")
+  (setq case-fold-search nil)
+  (when (re-search-forward (format "^%s" text))
+    (beginning-of-line)
+    (kill-line)
+    (delete-char 1))
+  (setq case-fold-search t))
+
+
+(defun remove-line-castig-1 ()
+  (interactive)
+  (remove-line-beginning-with "CASTIGLIONE"))
+
+
+(defun remove-line-castig-2 ()
+  (interactive)
+  (remove-line-beginning-with "THE COURTIER"))
