@@ -164,3 +164,35 @@
 (defun remove-line-castig-2 ()
   (interactive)
   (remove-line-beginning-with "THE COURTIER"))
+
+
+(defun remove-line-erasmus-1 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|THE EDUCATION OF A CHRISTIAN PRINCE"))
+
+
+(defun remove-line-erasmus-2 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|THE PRINCE MUST AVOID FLATTERERS"))
+
+(defun remove-line-erasmus-3 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|THE ARTS OF PEACE"))
+
+(defun remove-line-erasmus-4 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|ON TRIBUTES AND TAXES"))
+
+(defun remove-line-erasmus-5 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|ON ENACTING OR"))
+
+(defun remove-line-erasmus-6 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|ON MAGISTRATES AND THEIR"))
