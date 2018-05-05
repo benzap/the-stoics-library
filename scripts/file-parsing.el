@@ -125,3 +125,12 @@
 (defun remove-book-marker ()
   (interactive)
   (remove-from-within "<.*>"))
+
+
+(defun remove-line-plutarch-vol-3 ()
+  (interactive)
+  (when (re-search-forward "<.*>")
+    (beginning-of-line)
+    (kill-line)
+    (delete-char 1)
+    (delete-blank-lines)))
