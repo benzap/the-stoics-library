@@ -127,10 +127,21 @@
   (remove-from-within "<.*>"))
 
 
-(defun remove-line-plutarch-vol-3 ()
+(defun remove-line-plutarch-vols ()
   (interactive)
   (when (re-search-forward "<.*>")
     (beginning-of-line)
     (kill-line)
     (delete-char 1)
     (delete-blank-lines)))
+
+(defun format-paragraphs-plutarch-vol-4 ()
+  (interactive)
+  (setq case-fold-search nil)
+  (when (re-search-forward "^[A-Z]")
+    (beginning-of-line)
+    (insert "\n")
+    (next-line))
+  (setq case-fold-search t))
+
+(setq case-fold-search t)
