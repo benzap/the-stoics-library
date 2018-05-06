@@ -155,6 +155,15 @@
     (delete-char 1))
   (setq case-fold-search t))
 
+(defun remove-line-ending-with (text)
+  (interactive "sText: ")
+  (setq case-fold-search nil)
+  (when (re-search-forward (format "%s$" text))
+    (beginning-of-line)
+    (kill-line)
+    (delete-char 1))
+  (setq case-fold-search t))
+
 
 (defun remove-line-castig-1 ()
   (interactive)
@@ -196,3 +205,24 @@
   (interactive)
   (remove-line-beginning-with
    "<.*>\\|ON MAGISTRATES AND THEIR"))
+
+
+(defun remove-line-elyot-1 ()
+  (interactive)
+  (remove-line-beginning-with
+   "Introduction"))
+
+(defun remove-line-elyot-2 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>"))
+
+(defun remove-line-elyot-3 ()
+  (interactive)
+  (remove-line-ending-with
+   "<.*>"))
+
+(defun remove-line-elyot-4 ()
+  (interactive)
+  (remove-line-beginning-with
+   "II.  The Best Governance"))
