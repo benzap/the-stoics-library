@@ -155,6 +155,7 @@
     (delete-char 1))
   (setq case-fold-search t))
 
+
 (defun remove-line-ending-with (text)
   (interactive "sText: ")
   (setq case-fold-search nil)
@@ -186,20 +187,24 @@
   (remove-line-beginning-with
    "<.*>\\|THE PRINCE MUST AVOID FLATTERERS"))
 
+
 (defun remove-line-erasmus-3 ()
   (interactive)
   (remove-line-beginning-with
    "<.*>\\|THE ARTS OF PEACE"))
+
 
 (defun remove-line-erasmus-4 ()
   (interactive)
   (remove-line-beginning-with
    "<.*>\\|ON TRIBUTES AND TAXES"))
 
+
 (defun remove-line-erasmus-5 ()
   (interactive)
   (remove-line-beginning-with
    "<.*>\\|ON ENACTING OR"))
+
 
 (defun remove-line-erasmus-6 ()
   (interactive)
@@ -212,17 +217,32 @@
   (remove-line-beginning-with
    "Introduction"))
 
+
 (defun remove-line-elyot-2 ()
   (interactive)
   (remove-line-beginning-with
    "<.*>"))
+
 
 (defun remove-line-elyot-3 ()
   (interactive)
   (remove-line-ending-with
    "<.*>"))
 
+
 (defun remove-line-elyot-4 ()
   (interactive)
   (remove-line-beginning-with
    "II.  The Best Governance"))
+
+
+(defun re-poem-9-verse ()
+  (interactive)
+  (re-search-forward "\\(.+\n\\)\\{9\\}"))
+
+
+(defun format-next-poem-9-verse ()
+  (interactive)
+  (when (re-poem-9-verse)
+    (match-beginning 0)))
+
