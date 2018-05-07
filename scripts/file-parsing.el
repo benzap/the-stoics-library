@@ -246,3 +246,11 @@
   (when (re-poem-9-verse)
     (match-beginning 0)))
 
+
+(defun remove-line-montaigne-1 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|THE FIRST BOOKE\\|MONTAIGNE'S ESSAYES")
+  (delete-blank-lines)
+  (previous-line)
+  (delete-blank-lines))
