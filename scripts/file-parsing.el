@@ -254,3 +254,29 @@
   (delete-blank-lines)
   (previous-line)
   (delete-blank-lines))
+
+
+(defun remove-line-montaigne-2 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|THE SECONDE BOOKE\\|THE SECOND BOOKE\\|MONTAIGNE'S ESSAYES")
+  (delete-blank-lines)
+  (previous-line)
+  (delete-blank-lines))
+
+
+(defun format-poem-line ()
+  (interactive)
+  (when (re-search-forward "^[a-zA-Z].\\{5,140\\}$")
+    (beginning-of-line)
+    (insert "  ")
+    (end-of-line)
+    (insert "\n")
+    (next-line)
+    (beginning-of-line)))
+
+
+(defun format-dashed-poem-line ()
+  (interactive)
+  (when (re-search-forward "^ +-+")
+    (replace-match "  -----")))
