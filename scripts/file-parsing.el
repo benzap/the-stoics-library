@@ -313,3 +313,12 @@
   (delete-blank-lines)
   (previous-line)
   (delete-blank-lines))
+
+
+(defun remove-lines-kelso-1 ()
+  (interactive)
+  (remove-line-beginning-with
+   "\\[?[0-9]+\\]? \\{4,\\}")
+  (delete-blank-lines)
+  (previous-line)
+  (delete-blank-lines))
