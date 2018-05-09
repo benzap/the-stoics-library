@@ -304,3 +304,12 @@
   (delete-blank-lines)
   (previous-line)
   (delete-blank-lines))
+
+
+(defun remove-lines-hall-1 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|Book .+\\] Characters of Vi")
+  (delete-blank-lines)
+  (previous-line)
+  (delete-blank-lines))
