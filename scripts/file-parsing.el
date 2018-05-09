@@ -280,3 +280,19 @@
   (interactive)
   (when (re-search-forward "^ +-+")
     (replace-match "  -----")))
+
+
+(defun format-dashed-footnote ()
+  (interactive)
+  (when (re-search-forward "^-+")
+    (beginning-of-line)
+    (insert "\n")
+    (next-line 1)))
+
+(defun remove-line-montaigne-3 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|THE THIRD BOOK\\|THE THIRD DOOKE\\|MONTAIGNE'S ESSAYES")
+  (delete-blank-lines)
+  (previous-line)
+  (delete-blank-lines))
