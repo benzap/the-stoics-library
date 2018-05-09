@@ -3,225 +3,1472 @@
  
 Hall's Characters
 
-CHARACTERS OF VIRTUES AND VICES. 
+CHARACTERS OF VIRTUES AND VICES.
 
-IN TWO BOOKS. 
+IN TWO BOOKS.
 
 BY JOS. HALL.
 
-TO THE RIGHT HONOURABLE MY SINGULAR GOOD LORDS, EDWARD LORD DENNY, BARON OF WALTHAM, AND JAMES LORD HAY, HIS RIGHT NOBLE AND WORTHY SON-IN-LAW: J H HUMBLY DEDICATES HIS LABOUR, DEVOTETH HIMSELF, WISHETH ALL HAPPINESS.
+TO THE RIGHT HONOURABLE MY SINGULAR GOOD LORDS, EDWARD LORD DENNY,
+BARON OF WALTHAM, AND JAMES LORD HAY, HIS RIGHT NOBLE AND WORTHY
+SON-IN-LAW: J H HUMBLY DEDICATES HIS LABOUR, DEVOTETH HIMSELF, WISHETH
+ALL HAPPINESS.
 
 A PREMONITION OF THE TITLE AND USE OF CHARACTERS.
 
-Reader, - The divines of the old heathens were their moral philosophers.{Stoics+} These received the acts of an inbred law in the Sinai of nature; and delivered them, with many expositions, to the multitude.  These were the overseers of manners, correctors of vices, directors of lives, doctors of virtue, which yet taught their people the body of their natural divinity not after one manner: while some spent themselves in deep discourses of human felicity, and the way to it in common; others thought best to apply the general precepts of goodness or decency to particular conditions and persons: a third sort, in a mean course betwixt the two other, and compounded of them both, bestowed their time in drawing out the true lineaments of every virtue and vice, so lively, that who saw the medals might know the face: which art they significantly termed charactery.  Their papers were so many tables, their writings so many speaking pictures, or living images; whereby the ruder multitude might, even
-by their sense, learn to know virtue, and discern what to detest.  I am deceived, if any course could be more likely to prevail: for herein the gross conceit is led on with pleasure; and informed, while it feels nothing but delight. {Dulce_Utile+} And if pictures have been accounted the books of idiots, behold here the benefit of an image without the offence.  It is no shame for us to learn wit of heathens; {Stoics+} neither is it material in whose school we take out a good lesson: yea, it is more shame not to follow their good than not to lead them better.  As one therefore, that, in worthy examples, holds imitation better than invention, I have trod in their paths, but with an higher and wider step; and out of their tablets have drawn these larger portraitures of both sorts.  More might be said, I deny not, of every virtue, of every vice:  I desired not to say all, but enough.  If thou do but read or like these, I have spent good hours ill; but, if thou shalt hence abjure those vices which before thou thoughtest not ill-favoured, or fall in love with any of these goodly faces of virtue; or shalt hence find, where thou hast any little touch of these evils, to clear thyself, or where any defect in these graces to supply it; neither of us shall need to repent of our labour.
+Reader, - The divines of the old heathens were their moral
+philosophers.{Stoics+} These received the acts of an inbred law in the
+Sinai of nature; and delivered them, with many expositions, to the
+multitude.  These were the overseers of manners, correctors of vices,
+directors of lives, doctors of virtue, which yet taught their people
+the body of their natural divinity not after one manner: while some
+spent themselves in deep discourses of human felicity, and the way to
+it in common; others thought best to apply the general precepts of
+goodness or decency to particular conditions and persons: a third
+sort, in a mean course betwixt the two other, and compounded of them
+both, bestowed their time in drawing out the true lineaments of every
+virtue and vice, so lively, that who saw the medals might know the
+face: which art they significantly termed charactery.  Their papers
+were so many tables, their writings so many speaking pictures, or
+living images; whereby the ruder multitude might, even by their sense,
+learn to know virtue, and discern what to detest.  I am deceived, if
+any course could be more likely to prevail: for herein the gross
+conceit is led on with pleasure; and informed, while it feels nothing
+but delight. {Dulce_Utile+} And if pictures have been accounted the
+books of idiots, behold here the benefit of an image without the
+offence.  It is no shame for us to learn wit of heathens; {Stoics+}
+neither is it material in whose school we take out a good lesson: yea,
+it is more shame not to follow their good than not to lead them
+better.  As one therefore, that, in worthy examples, holds imitation
+better than invention, I have trod in their paths, but with an higher
+and wider step; and out of their tablets have drawn these larger
+portraitures of both sorts.  More might be said, I deny not, of every
+virtue, of every vice: I desired not to say all, but enough.  If thou
+do but read or like these, I have spent good hours ill; but, if thou
+shalt hence abjure those vices which before thou thoughtest not
+ill-favoured, or fall in love with any of these goodly faces of
+virtue; or shalt hence find, where thou hast any little touch of these
+evils, to clear thyself, or where any defect in these graces to supply
+it; neither of us shall need to repent of our labour.
 
 ---------------------
 
-~BOOK_I+ 
+~BOOK_I+
 
-CHARSCTERS OF VIRTUES 
+CHARSCTERS OF VIRTUES
 
 The Proem.
 
-Virtue is not loved enough, because she is not seen; and vice loseth much detestation, because her ugliness is secret.  Certainly, my lords, there are so many beauties and so many graces in the face of goodness, that no eye can possibly see it without affection, without ravishment: and the visage of evil is so monstrous through loathsome deformities, that if her lovers were not ignorant they would be mad with disdain and astonishment. What need we more than to discover these two to the world?  This work shall save the labour of exhorting and dissuasion.  I have here done it as I could; following that ancient master of morality/a, who thought this the fittest task for the ninety and ninth year of his age, and the profitablest monument that he could leave for a fare well to his Grecians.  Lo here, then, virtue and vice stript naked to the open view, and despoiled, one of her rags, the other of her ornaments; and nothing left them but bare presence to plead for affection: see now whether shall find more suitors.  And if still the vain minds of lewd men shall dote upon their old mistress, it will appear to be, not because she is not foul, but for that they are blind and bewitched.  And first, behold the goodly features of wisdom, an amiable virtue, and worthy to lead this stage; 
+Virtue is not loved enough, because she is not seen; and vice loseth
+much detestation, because her ugliness is secret.  Certainly, my
+lords, there are so many beauties and so many graces in the face of
+goodness, that no eye can possibly see it without affection, without
+ravishment: and the visage of evil is so monstrous through loathsome
+deformities, that if her lovers were not ignorant they would be mad
+with disdain and astonishment. What need we more than to discover
+these two to the world?  This work shall save the labour of exhorting
+and dissuasion.  I have here done it as I could; following that
+ancient master of morality/a, who thought this the fittest task for
+the ninety and ninth year of his age, and the profitablest monument
+that he could leave for a fare well to his Grecians.  Lo here, then,
+virtue and vice stript naked to the open view, and despoiled, one of
+her rags, the other of her ornaments; and nothing left them but bare
+presence to plead for affection: see now whether shall find more
+suitors.  And if still the vain minds of lewd men shall dote upon
+their old mistress, it will appear to be, not because she is not foul,
+but for that they are blind and bewitched.  And first, behold the
+goodly features of wisdom, an amiable virtue, and worthy to lead this
+stage;
 
------ 
-a Theophrastus+.
+----- a Theophrastus+.
 
-wbich, as she extends herself to all the following graces, so, amongst the rest, is for her largeness most conspicuous. 
+wbich, as she extends herself to all the following graces, so, amongst
+the rest, is for her largeness most conspicuous.
 
 The character of the wise man.
 
-THERE is nothing that be desires not to know; but most and first, himself:{know_thyself+} and not so much his own strength as his weaknesses.  Neither is his knowledge reduced to discourse, but practice.  He is a skilful logician, not by nature so much as use; his working mind doth nothing all his time but make syllogisms and draw out conclusions; everything that he sees and hears serves for one of the premises; with these he cares, first, to inform himself, then to direct others.  Both his eyes are never at once from home, but one keeps house while the other roves abroad for intelligence.  In material and weighity points, he abides not his mind suspended in uncertainties, but hates doubting where he may, where he should be resolute.  And first, he makes sure work for his soul; accounting it no safety to be unsettled in the foreknowledge of his final estate: the best is first regarded; and vain is that regard which endeth not in security.  Every care hath his just order; neither is there any one either neglected or misplaced.  He is seldom overseen with credulity: for, knowing the falseness of the world, he hath learned to trust himself always; others, so far as he may not be damaged by their disappointment.  He seeks his quietness in secresy; and is wont, both to hide himself in retiredness, and his tongue in himself.  He loves to be guessed at, not known; and to see the world, unseen; and when he is forced into the light, shows, by his actions, that his obscurity was neither from affectation nor weakness.  His purposes are neither so variable as may argue inconstancy, nor obstinately unchangeable, but framed according to his afterwits, or the strength of new occasions.  He is both an apt scholar and an excellent master; for both every thing he sees informs him, and his mind, enriched with plentiful observation, can give the best precepts. His free discourse runs back to the ages past, and recovers events out of memory; and then preventeth time in flying forward to future things; and, comparing one with the other, can give a verdict well near prophetical, wherein his conjectures are better than another's judgments.  His passions are so many good servants, which stand in a diligent attendance, ready to be commanded by reason, by religion; and if at any time, forgetting their duty, they be miscarried to rebel, he can first {Reason_passion+}
-conceal their mutiny, tben suppress it.  In all his just and worthy designs he is never at a loss, but hath so projected all his courses that a second begins where the first failed, and fetcheth strength from that which succeeded not.  There be wrongs which be will not see; neither doth he always look that way which be meanetb, nor take notice of his secret smarts when they come from great ones.  In good turns he loves not to owe more than he must; in evil, to owe and not pay. {stingy_mean+} Just censures he deserves not, for he lives without the compass of an adversary; unjust he contemneth, and had rather suffer false infamy to die alone, than lay hands upon it in an open violence. {other_cheek+} He confineth himself in the circle of his own affairs, and lists not to thrust his finger into a needless fire.  He stands like a centre, unmoved, while the circumference of his estate is drawn above, beneath, about him. Finally, his wit hath cost him much, and he can both keep and value and employ it.  He is his own lawyer, the treasury of knowledge, the oracle of counsel; blind in no man's cause, best sighted in his own. 
-Of the honest+ man {PlainDealer+}.
+THERE is nothing that be desires not to know; but most and first,
+himself:{know_thyself+} and not so much his own strength as his
+weaknesses.  Neither is his knowledge reduced to discourse, but
+practice.  He is a skilful logician, not by nature so much as use; his
+working mind doth nothing all his time but make syllogisms and draw
+out conclusions; everything that he sees and hears serves for one of
+the premises; with these he cares, first, to inform himself, then to
+direct others.  Both his eyes are never at once from home, but one
+keeps house while the other roves abroad for intelligence.  In
+material and weighity points, he abides not his mind suspended in
+uncertainties, but hates doubting where he may, where he should be
+resolute.  And first, he makes sure work for his soul; accounting it
+no safety to be unsettled in the foreknowledge of his final estate:
+the best is first regarded; and vain is that regard which endeth not
+in security.  Every care hath his just order; neither is there any one
+either neglected or misplaced.  He is seldom overseen with credulity:
+for, knowing the falseness of the world, he hath learned to trust
+himself always; others, so far as he may not be damaged by their
+disappointment.  He seeks his quietness in secresy; and is wont, both
+to hide himself in retiredness, and his tongue in himself.  He loves
+to be guessed at, not known; and to see the world, unseen; and when he
+is forced into the light, shows, by his actions, that his obscurity
+was neither from affectation nor weakness.  His purposes are neither
+so variable as may argue inconstancy, nor obstinately unchangeable,
+but framed according to his afterwits, or the strength of new
+occasions.  He is both an apt scholar and an excellent master; for
+both every thing he sees informs him, and his mind, enriched with
+plentiful observation, can give the best precepts. His free discourse
+runs back to the ages past, and recovers events out of memory; and
+then preventeth time in flying forward to future things; and,
+comparing one with the other, can give a verdict well near
+prophetical, wherein his conjectures are better than another's
+judgments.  His passions are so many good servants, which stand in a
+diligent attendance, ready to be commanded by reason, by religion; and
+if at any time, forgetting their duty, they be miscarried to rebel, he
+can first {Reason_passion+} conceal their mutiny, tben suppress it.
+In all his just and worthy designs he is never at a loss, but hath so
+projected all his courses that a second begins where the first failed,
+and fetcheth strength from that which succeeded not.  There be wrongs
+which be will not see; neither doth he always look that way which be
+meanetb, nor take notice of his secret smarts when they come from
+great ones.  In good turns he loves not to owe more than he must; in
+evil, to owe and not pay. {stingy_mean+} Just censures he deserves
+not, for he lives without the compass of an adversary; unjust he
+contemneth, and had rather suffer false infamy to die alone, than lay
+hands upon it in an open violence. {other_cheek+} He confineth himself
+in the circle of his own affairs, and lists not to thrust his finger
+into a needless fire.  He stands like a centre, unmoved, while the
+circumference of his estate is drawn above, beneath, about
+him. Finally, his wit hath cost him much, and he can both keep and
+value and employ it.  He is his own lawyer, the treasury of knowledge,
+the oracle of counsel; blind in no man's cause, best sighted in his
+own.  Of the honest+ man {PlainDealer+}.
 
-HE looks not to what he might do, but what he should.  Justice is his first guide: the second law of his actions is expedience. {Cicero+} He had rather complain than offend: and hates sin more for the indignity of it than the danger.  His simple uprightness works in him that confidence which ofttimes wrongs him, and gives advantage to the subtle, when he rather pities their faithlessness than repents of his credulity. {Othello+} He hath but one heart, and that lies open to sight; and, were it not for discretion, he never thinks aught whereof he would avoid a witness.  His word is his parchment, and his yea bis oath; which he will not violate for fear or for loss.  The mishaps of following events may cause him to blame his providence, can never cause him to eat his promise: neither saith he, "This I saw not," but, "This I said." When he is made his friend's executor, he defrays debts, pays legacies; and scorneth to gain by orphans or to ransack graves: and therefore will be true to a dead friend, because he sees him not.  All his dealings are square and above the board: he bewrays the fault of what he sells, and restores the overseen gain of a false reckoning. He esteems a bribe venomous, though it come gilded over with the colour of gratuity.  His cheeks are never stained with the blushes of recantation, neither doth his tongue falter, to make good a lie with the secret glosses of double or
-reserved senses: and when his name is traduced, his innocency bears him out with courage: then, lo, be goes on the plain+ way of truth, and will either triumph in his integrity+ or suffer with it.  His conscience overrules his providence: so as in all things, good or ill, he respects the nature of the actions, not the sequel.  If he see what he must do, let God see what shall follow. He never loadeth himself with burdens above his strength, beyond his will; and once bound, what he can he will do; neither doth he will but what he can do.  His ear is the sanctuary of his absent friend's name, of his present friend's secret: neither of them can miscarry in his trust.  He remembers the wrongs of his youth, and repays them with that usury which he himself would not take.  He would rather want than borrow, and beg than not pay. His fair conditions are without dissembling: and he loves actions+ above words.  Finally, be hates falsehood worse than death: he is a faithful client of truth; no man's enemy; and it is a question, whether more another man's friend or his own.  And if there were no heaven, yet he would be virtuous. 
-Of the faithful+ man.
+HE looks not to what he might do, but what he should.  Justice is his
+first guide: the second law of his actions is expedience. {Cicero+} He
+had rather complain than offend: and hates sin more for the indignity
+of it than the danger.  His simple uprightness works in him that
+confidence which ofttimes wrongs him, and gives advantage to the
+subtle, when he rather pities their faithlessness than repents of his
+credulity. {Othello+} He hath but one heart, and that lies open to
+sight; and, were it not for discretion, he never thinks aught whereof
+he would avoid a witness.  His word is his parchment, and his yea bis
+oath; which he will not violate for fear or for loss.  The mishaps of
+following events may cause him to blame his providence, can never
+cause him to eat his promise: neither saith he, "This I saw not," but,
+"This I said." When he is made his friend's executor, he defrays
+debts, pays legacies; and scorneth to gain by orphans or to ransack
+graves: and therefore will be true to a dead friend, because he sees
+him not.  All his dealings are square and above the board: he bewrays
+the fault of what he sells, and restores the overseen gain of a false
+reckoning. He esteems a bribe venomous, though it come gilded over
+with the colour of gratuity.  His cheeks are never stained with the
+blushes of recantation, neither doth his tongue falter, to make good a
+lie with the secret glosses of double or reserved senses: and when his
+name is traduced, his innocency bears him out with courage: then, lo,
+be goes on the plain+ way of truth, and will either triumph in his
+integrity+ or suffer with it.  His conscience overrules his
+providence: so as in all things, good or ill, he respects the nature
+of the actions, not the sequel.  If he see what he must do, let God
+see what shall follow. He never loadeth himself with burdens above his
+strength, beyond his will; and once bound, what he can he will do;
+neither doth he will but what he can do.  His ear is the sanctuary of
+his absent friend's name, of his present friend's secret: neither of
+them can miscarry in his trust.  He remembers the wrongs of his youth,
+and repays them with that usury which he himself would not take.  He
+would rather want than borrow, and beg than not pay. His fair
+conditions are without dissembling: and he loves actions+ above words.
+Finally, be hates falsehood worse than death: he is a faithful client
+of truth; no man's enemy; and it is a question, whether more another
+man's friend or his own.  And if there were no heaven, yet he would be
+virtuous.  Of the faithful+ man.
 
 
-His eyes have no other objects but absent and invisible; which they see so clearly, as that to them sense is blind: that which is present they see not; if I may not rather say, that what is past or future is present to them.  Herein he exceeds all others, that to him nothing is impossible, nothing difficult, whether to bear or undertake. He walks every day with his Maker; and talks with him familiarly; and lives ever in heaven; and sees all earthly things beneath him.  When he goes in to converse with God, be wears not his own clothes, but takes them still out of the rich wardrobe of his Redeemer; and then dare boldly press in, and challenge a blessing.  The celestial spirits do not scorn his company, yea, his service.  He deals in these worldly affairs as a stranger, and hath his heart ever at home.  Without a written warrant he dare do nothing, and with it any thing.  His war is perpetual; without truce, without intermission: and his victory certain: he meets with the infernal powers, and tramples them under feet: the shield that he ever bears before him can neither be missed nor pierced: if his band be wounded, yet his heart is safe: he is often tripped, seldom foiled; and if sometimes foiled, never vanquished. He hath white hands and a clean soul, fit to lodge God in, all the rooms whereof are 
-. set apart for his holiness.  Iniquity hath oft called at the door, and craved entertainment, but with a repulse: or if sin of force will be his tenant, his lord he cannot.  His faults are few, and those he hath, God will not see.  He is allied so high, that he dare call God Father; his Saviour, Brother; heaven, his patrimony: and thinks it no presumption to trust to the attendance of angels.  His understanding is enlightened with the beams of divine truth:  God hath acquainted him with his will; and what be knows he dare confess: there is not more love in his heart than liberty in his tongue.  If torments stand betwixt him and Christ, if death, be contemns them; and if his own parents lie in his way to God, his holy carelessness makes them his footsteps.  His experiments have drawn forth rules of confidence, which he dares oppose against all the fears of distrust: wherein he thinks it safe to charge God with what he bath done, with what be hath promised. Examples are his proofs, and instances his demonstrations: what hath God given which he cannot give? what have others suffered wbich he may not be enabled to endure?  Is he threatened banishment? there he sees the dear evangelist in Patmos: cutting in pieces? he sees Isaiah under the saw: drowning? he sees Jonas diving into the living gulf: burning? he sees the three children in the hot walk of the furnace: devouring? he sees Daniel in the sealed den, amidst his terrible companions: stoning? he sees the first martyr under his heap of many gravestones: heading? lo there the Baptist's neck, bleeding, in Herodias' platter: he emulates their pain, their strength, their glory.  He wearies not himself with cares; for he knows he lives not of his own cost, not idly omitting means, but not using them with diffidence.  In the midst of ill rumours and amazements, his countenance changeth not; for he knows both whom he bath trusted, and whither death can lead him.  He is not so sure he shall die, as that he shall be restored; and outfaceth his death with his resurrection.  Finally, he is rich in works; busy in obedience; cheerful and unmoved in expectation; better with evils; in common opinion, miserable; but in true judgment, more than a man. 
-Of the humble+ man.
+His eyes have no other objects but absent and invisible; which they
+see so clearly, as that to them sense is blind: that which is present
+they see not; if I may not rather say, that what is past or future is
+present to them.  Herein he exceeds all others, that to him nothing is
+impossible, nothing difficult, whether to bear or undertake. He walks
+every day with his Maker; and talks with him familiarly; and lives
+ever in heaven; and sees all earthly things beneath him.  When he goes
+in to converse with God, be wears not his own clothes, but takes them
+still out of the rich wardrobe of his Redeemer; and then dare boldly
+press in, and challenge a blessing.  The celestial spirits do not
+scorn his company, yea, his service.  He deals in these worldly
+affairs as a stranger, and hath his heart ever at home.  Without a
+written warrant he dare do nothing, and with it any thing.  His war is
+perpetual; without truce, without intermission: and his victory
+certain: he meets with the infernal powers, and tramples them under
+feet: the shield that he ever bears before him can neither be missed
+nor pierced: if his band be wounded, yet his heart is safe: he is
+often tripped, seldom foiled; and if sometimes foiled, never
+vanquished. He hath white hands and a clean soul, fit to lodge God in,
+all the rooms whereof are . set apart for his holiness.  Iniquity hath
+oft called at the door, and craved entertainment, but with a repulse:
+or if sin of force will be his tenant, his lord he cannot.  His faults
+are few, and those he hath, God will not see.  He is allied so high,
+that he dare call God Father; his Saviour, Brother; heaven, his
+patrimony: and thinks it no presumption to trust to the attendance of
+angels.  His understanding is enlightened with the beams of divine
+truth: God hath acquainted him with his will; and what be knows he
+dare confess: there is not more love in his heart than liberty in his
+tongue.  If torments stand betwixt him and Christ, if death, be
+contemns them; and if his own parents lie in his way to God, his holy
+carelessness makes them his footsteps.  His experiments have drawn
+forth rules of confidence, which he dares oppose against all the fears
+of distrust: wherein he thinks it safe to charge God with what he bath
+done, with what be hath promised. Examples are his proofs, and
+instances his demonstrations: what hath God given which he cannot
+give? what have others suffered wbich he may not be enabled to endure?
+Is he threatened banishment? there he sees the dear evangelist in
+Patmos: cutting in pieces? he sees Isaiah under the saw: drowning? he
+sees Jonas diving into the living gulf: burning? he sees the three
+children in the hot walk of the furnace: devouring? he sees Daniel in
+the sealed den, amidst his terrible companions: stoning? he sees the
+first martyr under his heap of many gravestones: heading? lo there the
+Baptist's neck, bleeding, in Herodias' platter: he emulates their
+pain, their strength, their glory.  He wearies not himself with cares;
+for he knows he lives not of his own cost, not idly omitting means,
+but not using them with diffidence.  In the midst of ill rumours and
+amazements, his countenance changeth not; for he knows both whom he
+bath trusted, and whither death can lead him.  He is not so sure he
+shall die, as that he shall be restored; and outfaceth his death with
+his resurrection.  Finally, he is rich in works; busy in obedience;
+cheerful and unmoved in expectation; better with evils; in common
+opinion, miserable; but in true judgment, more than a man.  Of the
+humble+ man.
 
 
-HE is a friendly enemy to himself: for, though he be not out of his own favour, no man sets so low a value of his worth as himself; not out of ignorance or carelessness, but of a voluntary and meek dejectedness.  He admires every thing in another,
-while the same or better in himself he thinks not unworthily contemned: his eyes are full of his own wants and others' perfections.  He loves rather to give than take honour; not in a fashion of complimental courtesy, but in simplicity of his judgment: neither doth he fret at those on whom he forceth precedency, as one that hoped their modesty would have refused; but holds his mind unfeignedly below his place, and is ready to go lower, if need be, without discontentment.  When he hath but his due, he magnifieth courtesy, and disclaims his deserts.  He can be more ashamed of honour than grieved with contempt; because he thinks that causeless, this deserved.  His face, his carriage, his habit, savour of lowliness, without affectation, and yet he is much under that he seemeth.  His words are few and soft; never either peremptory or censorious; because he thinks both each man more wise, and none more faulty than himself; and when he approacheth to the throne of God, he is so taken up with the divine greatness, that in his own eyes he is either vile or nothing.  Places of public charge are fain to sue to him, and hale him out of his chosen obscurity: which he holds off; not cunningly, to cause importunity, but sincerely, in the conscience of his defects.  He frequenteth not the stages of common resorts, and then alone thinks himself in his natural element when he is shrouded within his own walls.  He is ever jealous over himself, and still suspecteth that which others applaud. There is no better object of beneficence: for what he receives he ascribes merely to the bounty of the giver, nothing to merit.  He emulates no man in any thing but goodness, and that with more desire than hope to overtake. No man is so contented with his little, and so patient under miseries; because he knows the greatest evils are below his sins, and the least favours above his deservings.  He walks ever in awe, and dare not but subject every word and action to a high and just censure.  He is a lowly valley, sweetly planted and well watered: the proud man's earth, where he trampleth; but secretly full of wealthy mines, more worth than he that walks over them: a rich stone, set in lead {caskets+}: and, lastly, a true temple of God, built with a low roof. 
-Of a valiant+ man.
+HE is a friendly enemy to himself: for, though he be not out of his
+own favour, no man sets so low a value of his worth as himself; not
+out of ignorance or carelessness, but of a voluntary and meek
+dejectedness.  He admires every thing in another, while the same or
+better in himself he thinks not unworthily contemned: his eyes are
+full of his own wants and others' perfections.  He loves rather to
+give than take honour; not in a fashion of complimental courtesy, but
+in simplicity of his judgment: neither doth he fret at those on whom
+he forceth precedency, as one that hoped their modesty would have
+refused; but holds his mind unfeignedly below his place, and is ready
+to go lower, if need be, without discontentment.  When he hath but his
+due, he magnifieth courtesy, and disclaims his deserts.  He can be
+more ashamed of honour than grieved with contempt; because he thinks
+that causeless, this deserved.  His face, his carriage, his habit,
+savour of lowliness, without affectation, and yet he is much under
+that he seemeth.  His words are few and soft; never either peremptory
+or censorious; because he thinks both each man more wise, and none
+more faulty than himself; and when he approacheth to the throne of
+God, he is so taken up with the divine greatness, that in his own eyes
+he is either vile or nothing.  Places of public charge are fain to sue
+to him, and hale him out of his chosen obscurity: which he holds off;
+not cunningly, to cause importunity, but sincerely, in the conscience
+of his defects.  He frequenteth not the stages of common resorts, and
+then alone thinks himself in his natural element when he is shrouded
+within his own walls.  He is ever jealous over himself, and still
+suspecteth that which others applaud. There is no better object of
+beneficence: for what he receives he ascribes merely to the bounty of
+the giver, nothing to merit.  He emulates no man in any thing but
+goodness, and that with more desire than hope to overtake. No man is
+so contented with his little, and so patient under miseries; because
+he knows the greatest evils are below his sins, and the least favours
+above his deservings.  He walks ever in awe, and dare not but subject
+every word and action to a high and just censure.  He is a lowly
+valley, sweetly planted and well watered: the proud man's earth, where
+he trampleth; but secretly full of wealthy mines, more worth than he
+that walks over them: a rich stone, set in lead {caskets+}: and,
+lastly, a true temple of God, built with a low roof.  Of a valiant+
+man.
 
 
-He undertakes without rashness, and performs without fear.  He seeks not for dangers; but when they find him, he hears them over with courage, with success.  He hath ofttimes looked death in the face, and passed by it with a smile; and when he
-ks. sees he must yield, doth at once welcome and contemn it.  He
-forecasts the worst of all events, and encounters them before they
-come, in a secret and mental war: and if the suddenness of an
-unexpected evil have surprised his thoughts, and infected his cheeks
-with paleness, he hath no sooner digested it in his conceit, than he
-gathers up himself and insults over mischief.  He is the master of
-himself, and subdues his passions+ to reason+; and by this inward
-victory works his own peace.  He is afraid of nothing but the
-displeasure of the Highest, and runs away from nothing but sin. He
-looks not on his hands, but his cause; not how strong he is, but bow
-innocent: and where goodness is his warrant, he may be overmastered,
-he cannot be foiled.  The sword is to him the last of all trials,
-which he draws forth still as defendant, not as challenger, with a
-willing kind of unwillingness; no man can better manage it with nore
-safety, with more favour.  He had rather have his blood seen than his
-back, and disdains life upon base conditions.  No man is more mild to
-a relenting or vanquished adversary, or more hates to set his foot on
-a carcass: he had rather smother an injury than revenge himself of the
-impotent; and I know not whether more detests cowardliness or
-cruelty. {other_cheek+} He talks little, andbrags+ less; and loves
-rather the silent language of the hand; to be seen than heard.  He
-lies ever close within himself, armed with wise resolution; and will
-not be discovered but by death or danger.  He is neither prodigal of
-blood, to misspend it idly; nor niggardly, to grudge it, when either
-God calls for it, or his country+, neither is he more liberal of his
-own life than of others'.  His power is limited by his will, and he
-holds it the noblest revenge, that he might hurt and doth
-not. {other_cheek+} He commands, without tyranny and imperiousness;
-obeys, without servility: and changes not his mind with his estate.
-The height of his spirits overlooks all casualties, and his boldness
-proceeds neither from ignorance nor senselessness; but first he values
-evils, and then despises them.  He is so ballaced/b with wisdom, that
-he floats steadily in the midst of all tempests.  Deliberate in his
-purposes; firm in resolution; bold in enterprising; unwearied in
-achieving; and, howsoever, happy in success: and if ever he be
-overcome, his heart yields last. 
+He undertakes without rashness, and performs without fear.  He seeks
+not for dangers; but when they find him, he hears them over with
+courage, with success.  He hath ofttimes looked death in the face, and
+passed by it with a smile; and when he ks. sees he must yield, doth at
+once welcome and contemn it.  He forecasts the worst of all events,
+and encounters them before they come, in a secret and mental war: and
+if the suddenness of an unexpected evil have surprised his thoughts,
+and infected his cheeks with paleness, he hath no sooner digested it
+in his conceit, than he gathers up himself and insults over mischief.
+He is the master of himself, and subdues his passions+ to reason+; and
+by this inward victory works his own peace.  He is afraid of nothing
+but the displeasure of the Highest, and runs away from nothing but
+sin. He looks not on his hands, but his cause; not how strong he is,
+but bow innocent: and where goodness is his warrant, he may be
+overmastered, he cannot be foiled.  The sword is to him the last of
+all trials, which he draws forth still as defendant, not as
+challenger, with a willing kind of unwillingness; no man can better
+manage it with nore safety, with more favour.  He had rather have his
+blood seen than his back, and disdains life upon base conditions.  No
+man is more mild to a relenting or vanquished adversary, or more hates
+to set his foot on a carcass: he had rather smother an injury than
+revenge himself of the impotent; and I know not whether more detests
+cowardliness or cruelty. {other_cheek+} He talks little, andbrags+
+less; and loves rather the silent language of the hand; to be seen
+than heard.  He lies ever close within himself, armed with wise
+resolution; and will not be discovered but by death or danger.  He is
+neither prodigal of blood, to misspend it idly; nor niggardly, to
+grudge it, when either God calls for it, or his country+, neither is
+he more liberal of his own life than of others'.  His power is limited
+by his will, and he holds it the noblest revenge, that he might hurt
+and doth not. {other_cheek+} He commands, without tyranny and
+imperiousness; obeys, without servility: and changes not his mind with
+his estate.  The height of his spirits overlooks all casualties, and
+his boldness proceeds neither from ignorance nor senselessness; but
+first he values evils, and then despises them.  He is so ballaced/b
+with wisdom, that he floats steadily in the midst of all tempests.
+Deliberate in his purposes; firm in resolution; bold in enterprising;
+unwearied in achieving; and, howsoever, happy in success: and if ever
+he be overcome, his heart yields last.
 
 The patient+ man.
 
-THE patient man is made of metal not so hard as flexible.  His 
+THE patient man is made of metal not so hard as flexible.  His
 
-------------- 
-b [ballasted: see Minshew, v. ballace.]
+------------- b [ballasted: see Minshew, v. ballace.]
 
-shoulders are large, fit for a load of injuries; which he bears, not out of baseness and cowardliness, because he dare not revenge, but out of Christian fortitude, because he may not: he bath so conquered himself, that wrongs cannot conquer him and herein alone finds that victory consists in yielding.  He is above nature, while he seems below himself.  The vilest creature knows how to turn again, but to command himself not to resist, being urged, is more than heroical. {other_cheek+} His constructions are ever full of charity and favour; either this wrong was not done, or not with intent of wrong, or if that, upon misinformation, or if none of these, rashness, though a fault, shall serve for an excuse. Himself craves the offender's pardon before his confession, and a slight answer contents where the offended desires to forgive.  He is God's best witness; and when he stands before the bar for truth, his tongue is calmly free, his forehead firm, and he, with erect and settled countenance, hears his unjust sentence, and rejoices in it.  The gaolers that attend him are to him his pages of honour; his dungeon, the lower part of the vault of heaven; his rack or wheel, the stairs of his ascent to glory: he challengeth his executioners, and encounters the fiercest pains with strength of resolution; and, while he suffers, the beholders pity him, the tormentors complain of weariness, and both of them wonder.  No anguish can master him, whether by violence or by lingering.  He accounts expectation no punishment, and can abide to have his hopes adjourned till a new day.  Good laws+ serve for his protection, not for his revenge+; and his own power, to avoid indignities not to return them. His hopes, are so strong, that they can insult over the greatest discouragements, and his apprehensions so deep, that when he hath once fastened, he sooner leaveth his life than his hold.  Neither time nor perverseness can make him cast off his charitable endeavours, and despair of prevailing; but, in spite of all crosses and all denials, he redoubleth his beneficial offers of love.  He trieth the sea after many shipwrecks, and beats still at that door which he never saw opened.  Contrariety of events doth but exercise, not dismay him; and when crosses afflict him, he sees a divine band invisibly striking with these sensible scourges, against which he dares not rebel or murmur.  Hence all things befall him alike, and he goes with the same mind to the shambles and to the fold.  His recreations are calm and gentle, and not more full of relaxation than void of fury.  This man only can turn necessity into virtue, and put evil to good use.  He is the surest friend, the latest and easiest
-enemy, the greatest conqueror; and so much more happy than others, by how much he could abide to be more miserable. {Stoic+} 
-Of the true friend+.
+shoulders are large, fit for a load of injuries; which he bears, not
+out of baseness and cowardliness, because he dare not revenge, but out
+of Christian fortitude, because he may not: he bath so conquered
+himself, that wrongs cannot conquer him and herein alone finds that
+victory consists in yielding.  He is above nature, while he seems
+below himself.  The vilest creature knows how to turn again, but to
+command himself not to resist, being urged, is more than
+heroical. {other_cheek+} His constructions are ever full of charity
+and favour; either this wrong was not done, or not with intent of
+wrong, or if that, upon misinformation, or if none of these, rashness,
+though a fault, shall serve for an excuse. Himself craves the
+offender's pardon before his confession, and a slight answer contents
+where the offended desires to forgive.  He is God's best witness; and
+when he stands before the bar for truth, his tongue is calmly free,
+his forehead firm, and he, with erect and settled countenance, hears
+his unjust sentence, and rejoices in it.  The gaolers that attend him
+are to him his pages of honour; his dungeon, the lower part of the
+vault of heaven; his rack or wheel, the stairs of his ascent to glory:
+he challengeth his executioners, and encounters the fiercest pains
+with strength of resolution; and, while he suffers, the beholders pity
+him, the tormentors complain of weariness, and both of them wonder.
+No anguish can master him, whether by violence or by lingering.  He
+accounts expectation no punishment, and can abide to have his hopes
+adjourned till a new day.  Good laws+ serve for his protection, not
+for his revenge+; and his own power, to avoid indignities not to
+return them. His hopes, are so strong, that they can insult over the
+greatest discouragements, and his apprehensions so deep, that when he
+hath once fastened, he sooner leaveth his life than his hold.  Neither
+time nor perverseness can make him cast off his charitable endeavours,
+and despair of prevailing; but, in spite of all crosses and all
+denials, he redoubleth his beneficial offers of love.  He trieth the
+sea after many shipwrecks, and beats still at that door which he never
+saw opened.  Contrariety of events doth but exercise, not dismay him;
+and when crosses afflict him, he sees a divine band invisibly striking
+with these sensible scourges, against which he dares not rebel or
+murmur.  Hence all things befall him alike, and he goes with the same
+mind to the shambles and to the fold.  His recreations are calm and
+gentle, and not more full of relaxation than void of fury.  This man
+only can turn necessity into virtue, and put evil to good use.  He is
+the surest friend, the latest and easiest enemy, the greatest
+conqueror; and so much more happy than others, by how much he could
+abide to be more miserable. {Stoic+} Of the true friend+.
 
 
-His affections are both united and divided; united, to him he loveth; divided, betwixt another and himself: and his own heart is so parted, that while he hath some, his friend hath all.  His choice is led by virtue, or by the best of virtues, religion; not by gain, not by pleasure; yet not without respect of equal condition, of disposition not unlike; which, once made, admits of no change; except he whom he loveth, be changed quite from himself; nor that suddenly, but after long expectation. Extremity doth but fasten him, while he, like a well wrought vault, lies the stronger by bow much more weight he bears.  When necessity calls him to it, he can be a servant to his equal, with the same will wherewith he can command his inferior; and though he rise to honour, forgets not his familiarity, nor suffers inequality of estate to work strangeness of countenance: on the other side, he lifts up his friend to advancement with a willing hand, without envy, without dissimulation.  When his mate is dead, he accounts himself but half alive; then his love, not dissolved by death, derives itself to those orphans which never knew the price of their father; they become the heirs of his affection and the burden of his cares.  He embraces a free community {common+} of all things, save those which either honesty reserves proper, or nature; and hates to enjoy that which would do his friend more good.  His charity serves to cloak noted infirmities, not by untruth, not by flattery, but by diserect secresy, neither is he more favourable in concealment than round in his private reprehensions; and when another's simple fidelity shows itself in his reproof, he loves his monitor so much the more by how much more he smarteth.  His bosom is his friend's closet, where he may safely lay up his complaints, his doubts, his cares; and look, how he leaves so he finds them, save for some addition of seasonable counsel for redress.  If some unhappy suggestion shall either disjoint his affection or break it, it soon knits again, and grows the stronger by that stress.  He is so sensible of another's injuries, that when his friend is stricken he cries out, and equally smarteth untouched, as one affected, not with sympathy, but with a real feeling of pain; and in what mischief may be prevented he interposeth his aid, and offers to redeem his friend with himself; no hour can be unseasonable, no business difficult, nor pain grievous, in condition of his ease; and what either he doth or suffereth, he neither cares nor desires to have known, lest he should seem to look for thanks.  If he can therefore steal the performance of a good office unseen, the conscience of his faithfulness herein is so much sweeter as it is more secret.  In favours+ done, his memory+ is frail; in benefits+ received, eternal: he scorneth either to regard recompense, or not to offer it.  He is the comfort of miseries, the guide of difficulties, the joy of life, the treasure of earth, and no other than a good angel clothed in flesh. 
+His affections are both united and divided; united, to him he loveth;
+divided, betwixt another and himself: and his own heart is so parted,
+that while he hath some, his friend hath all.  His choice is led by
+virtue, or by the best of virtues, religion; not by gain, not by
+pleasure; yet not without respect of equal condition, of disposition
+not unlike; which, once made, admits of no change; except he whom he
+loveth, be changed quite from himself; nor that suddenly, but after
+long expectation. Extremity doth but fasten him, while he, like a well
+wrought vault, lies the stronger by bow much more weight he bears.
+When necessity calls him to it, he can be a servant to his equal, with
+the same will wherewith he can command his inferior; and though he
+rise to honour, forgets not his familiarity, nor suffers inequality of
+estate to work strangeness of countenance: on the other side, he lifts
+up his friend to advancement with a willing hand, without envy,
+without dissimulation.  When his mate is dead, he accounts himself but
+half alive; then his love, not dissolved by death, derives itself to
+those orphans which never knew the price of their father; they become
+the heirs of his affection and the burden of his cares.  He embraces a
+free community {common+} of all things, save those which either
+honesty reserves proper, or nature; and hates to enjoy that which
+would do his friend more good.  His charity serves to cloak noted
+infirmities, not by untruth, not by flattery, but by diserect secresy,
+neither is he more favourable in concealment than round in his private
+reprehensions; and when another's simple fidelity shows itself in his
+reproof, he loves his monitor so much the more by how much more he
+smarteth.  His bosom is his friend's closet, where he may safely lay
+up his complaints, his doubts, his cares; and look, how he leaves so
+he finds them, save for some addition of seasonable counsel for
+redress.  If some unhappy suggestion shall either disjoint his
+affection or break it, it soon knits again, and grows the stronger by
+that stress.  He is so sensible of another's injuries, that when his
+friend is stricken he cries out, and equally smarteth untouched, as
+one affected, not with sympathy, but with a real feeling of pain; and
+in what mischief may be prevented he interposeth his aid, and offers
+to redeem his friend with himself; no hour can be unseasonable, no
+business difficult, nor pain grievous, in condition of his ease; and
+what either he doth or suffereth, he neither cares nor desires to have
+known, lest he should seem to look for thanks.  If he can therefore
+steal the performance of a good office unseen, the conscience of his
+faithfulness herein is so much sweeter as it is more secret.  In
+favours+ done, his memory+ is frail; in benefits+ received, eternal:
+he scorneth either to regard recompense, or not to offer it.  He is
+the comfort of miseries, the guide of difficulties, the joy of life,
+the treasure of earth, and no other than a good angel clothed in
+flesh.
   
 Of the truly Noble+{Wyf+}.
 
-HE stands not upon what he borrowed of ancestors, but thinks he must work out his own honour+; and if he cannot reach the virtue of them that gave them outward glory by inheritance, he is more abashed of his impotency than transported with a great name.  Greatness doth not make him scornful and imperious, but rather like the fixed stars; the higher he is, the less he desires to seem; neither cares he so much for pomp and frothy ostentation as for the solid truth of nobleness. {PlainDealer+} Courtesy and sweet affability can be no more severed from him than life from his soul; not out of a base and servile popularity, and desire of ambitious insinuation; but of a native gentleness of disposition, and true value of himself.  His hand is open and bounteous, {liberality+} yet not so as that he should rather respect his glory than his estate; wherein his wisdom can distinguish betwixt parasites and friends, betwixt changing. of favours and expending them.  He scorneth to make his height a privilege of looseness; but accounts his titles vain, if he be inferior to others in goodness; and thinks he should be more strict the more eminent he is, because he is more observed, and now his offences are become exemplar. There is no virtue tbat he holds unfit for ornament, for use; nor any vice which he condemns not as sordid, and a fit companion of baseness, and whereof he doth not more hate the blemish than affect the pleasure.  He so studies+, as one that knows ignorance can neither purchase honour nor wield it; and that knowledge must both guide and grace him.  His exercises are from his childhood ingenuous, manly, decent; and such as tend still to wit, valour, activity; and if, as seldom, he descend to disports of chance, his games shall never make him either pale with fear or hot with desire of gain.  He doth not so use his followers, as if he thought they were made for nothing but his servitude; whose felicity were only to be commanded and
-please; wearing them to the back, and then either finding or framing excuses to discard them empty; but upon all opportunities lets them feel the sweetness of their own serviceableness and his bounty.  Silence, in officious service, is the best oratory to plead for his respect; all diligence is but lent to him, none lost.  His wealth stands in receiving, his honour in giving+; he cares not either how many hold of his goodness, or to how few is beholden; and if he have cast away favours+, he hates either to upbraid them to his enemy or to challenge restitution.  None can be more pitiful to the distressed or more prone to succour, and then most, where is least means to solicit, least possibility of requital.  He is equally addressed to war and peace; and knows not more how to command others, than how to be his country+'s servant in both.  He is more careful to give true honour to his Maker, than to receive civil honour from men.  He knows that this service, free and noble, and ever loaded with sincere glory; and how vain it is to hunt after applause from the world, till he be sure of him that mouldeth all hearts, and poureth contempt on princes; and, shortly, so demeans himself, as one that accounts the body of nobility to consist in blood, the soul, in the eminence of virtue. {Wyf+} 
-Of the good_magistrate+.
+HE stands not upon what he borrowed of ancestors, but thinks he must
+work out his own honour+; and if he cannot reach the virtue of them
+that gave them outward glory by inheritance, he is more abashed of his
+impotency than transported with a great name.  Greatness doth not make
+him scornful and imperious, but rather like the fixed stars; the
+higher he is, the less he desires to seem; neither cares he so much
+for pomp and frothy ostentation as for the solid truth of
+nobleness. {PlainDealer+} Courtesy and sweet affability can be no more
+severed from him than life from his soul; not out of a base and
+servile popularity, and desire of ambitious insinuation; but of a
+native gentleness of disposition, and true value of himself.  His hand
+is open and bounteous, {liberality+} yet not so as that he should
+rather respect his glory than his estate; wherein his wisdom can
+distinguish betwixt parasites and friends, betwixt changing. of
+favours and expending them.  He scorneth to make his height a
+privilege of looseness; but accounts his titles vain, if he be
+inferior to others in goodness; and thinks he should be more strict
+the more eminent he is, because he is more observed, and now his
+offences are become exemplar. There is no virtue tbat he holds unfit
+for ornament, for use; nor any vice which he condemns not as sordid,
+and a fit companion of baseness, and whereof he doth not more hate the
+blemish than affect the pleasure.  He so studies+, as one that knows
+ignorance can neither purchase honour nor wield it; and that knowledge
+must both guide and grace him.  His exercises are from his childhood
+ingenuous, manly, decent; and such as tend still to wit, valour,
+activity; and if, as seldom, he descend to disports of chance, his
+games shall never make him either pale with fear or hot with desire of
+gain.  He doth not so use his followers, as if he thought they were
+made for nothing but his servitude; whose felicity were only to be
+commanded and please; wearing them to the back, and then either
+finding or framing excuses to discard them empty; but upon all
+opportunities lets them feel the sweetness of their own
+serviceableness and his bounty.  Silence, in officious service, is the
+best oratory to plead for his respect; all diligence is but lent to
+him, none lost.  His wealth stands in receiving, his honour in
+giving+; he cares not either how many hold of his goodness, or to how
+few is beholden; and if he have cast away favours+, he hates either to
+upbraid them to his enemy or to challenge restitution.  None can be
+more pitiful to the distressed or more prone to succour, and then
+most, where is least means to solicit, least possibility of requital.
+He is equally addressed to war and peace; and knows not more how to
+command others, than how to be his country+'s servant in both.  He is
+more careful to give true honour to his Maker, than to receive civil
+honour from men.  He knows that this service, free and noble, and ever
+loaded with sincere glory; and how vain it is to hunt after applause
+from the world, till he be sure of him that mouldeth all hearts, and
+poureth contempt on princes; and, shortly, so demeans himself, as one
+that accounts the body of nobility to consist in blood, the soul, in
+the eminence of virtue. {Wyf+} Of the good_magistrate+.
 
 
-HE is the faithful deputy of his Maker, whose obedience is the rule whereby he ruleth.  His breast is the ocean whereinto all the cares of private men empty themselves; which as he receives without complaint and overflowing, so he sends them forth again by a wise conveyance in the streams of justice.  His doors, his ears are ever open to suitors; and not who comes first speeds well, but whose cause is best.  His nigbts, his meals are short and interrupted; all which he bears well, because be knows himself made for a public servant of peace and justice+.  He sits quietly at the stern, and commands one to the topsail, another to the main, a third to the plummet, a fourth to the anchor, as he sees the need of their course and weather requires; and doth no less by his tongue than all the mariners with their hands.  On the bench, he is another from himself at home; now all private respects, of blood, alliance, amity, are forgotten; and if his own son come under trial {justice) {Hal+}, he knows him not.  Pity, which in all others is wont to be the best praise of humanity and the fruit of Christian love, is by him thrown over the bar for corruption.  As for Favour+, the false advocate of the gracious, he allows him neot to appear in the court; 
-there only causes are heard speak, not persons.  Eloquence is then only not discouraged when she serves for a client of truth; mere narrations are allowed in this oratory, not proems, not excursions, not glosses; truth must strip herself, and come in naked to his bar, without false bodies or colours, without disguises.  A bribe in his closet, or a letter on the bench, or the whispering and winks of a great neighbour, are answered with an angry and courageous repulse.  Displeasure, revenge, recompense, stand on both sides the bench, but he scorns to turn his eye towards them, looking only right forward at equity, which stands full before him.  His sentence is ever deliberate, and guided witb ripe wisdom; yet his hand is slower than his tongue; but when he is urged by occasion either to doom or execution, he shows how much he hateth merciful injustice; neither can his resolution or act be reversed with partial importunity.  His forehead is rugged and severe, able to discountenance villany; yet his words are more awful than his brow, and his hand than his words.  I know not whether he be more feared or loved, both affections are so sweetly contempered in all hearts: the good, fear him lovingly; the middle sort, love him fearfully; and only the wicked man fears him slavishly, without love.  He hates to pay private wrongs with the advantage of his office, and if ever be be partial, it is to his enemy. He is not more sage in his gown than valorous in arms, and increaseth in the rigour of his discipline as the times in danger.  His sword hath neither rusted for want of use, nor surfeiteth of blood; but after many threats is unsheathed, as the dreadful instrument of divine revenge.  He is the guard of good laws, the refuge of innocency, the comet of the guilty, the paymaster of good deserts, the champion of justice, the patron of peace, the tutor of the church, the father of his country, and, as it were, another god upon earth. 
-Of the penitent+.
+HE is the faithful deputy of his Maker, whose obedience is the rule
+whereby he ruleth.  His breast is the ocean whereinto all the cares of
+private men empty themselves; which as he receives without complaint
+and overflowing, so he sends them forth again by a wise conveyance in
+the streams of justice.  His doors, his ears are ever open to suitors;
+and not who comes first speeds well, but whose cause is best.  His
+nigbts, his meals are short and interrupted; all which he bears well,
+because be knows himself made for a public servant of peace and
+justice+.  He sits quietly at the stern, and commands one to the
+topsail, another to the main, a third to the plummet, a fourth to the
+anchor, as he sees the need of their course and weather requires; and
+doth no less by his tongue than all the mariners with their hands.  On
+the bench, he is another from himself at home; now all private
+respects, of blood, alliance, amity, are forgotten; and if his own son
+come under trial {justice) {Hal+}, he knows him not.  Pity, which in
+all others is wont to be the best praise of humanity and the fruit of
+Christian love, is by him thrown over the bar for corruption.  As for
+Favour+, the false advocate of the gracious, he allows him neot to
+appear in the court; there only causes are heard speak, not persons.
+Eloquence is then only not discouraged when she serves for a client of
+truth; mere narrations are allowed in this oratory, not proems, not
+excursions, not glosses; truth must strip herself, and come in naked
+to his bar, without false bodies or colours, without disguises.  A
+bribe in his closet, or a letter on the bench, or the whispering and
+winks of a great neighbour, are answered with an angry and courageous
+repulse.  Displeasure, revenge, recompense, stand on both sides the
+bench, but he scorns to turn his eye towards them, looking only right
+forward at equity, which stands full before him.  His sentence is ever
+deliberate, and guided witb ripe wisdom; yet his hand is slower than
+his tongue; but when he is urged by occasion either to doom or
+execution, he shows how much he hateth merciful injustice; neither can
+his resolution or act be reversed with partial importunity.  His
+forehead is rugged and severe, able to discountenance villany; yet his
+words are more awful than his brow, and his hand than his words.  I
+know not whether he be more feared or loved, both affections are so
+sweetly contempered in all hearts: the good, fear him lovingly; the
+middle sort, love him fearfully; and only the wicked man fears him
+slavishly, without love.  He hates to pay private wrongs with the
+advantage of his office, and if ever be be partial, it is to his
+enemy. He is not more sage in his gown than valorous in arms, and
+increaseth in the rigour of his discipline as the times in danger.
+His sword hath neither rusted for want of use, nor surfeiteth of
+blood; but after many threats is unsheathed, as the dreadful
+instrument of divine revenge.  He is the guard of good laws, the
+refuge of innocency, the comet of the guilty, the paymaster of good
+deserts, the champion of justice, the patron of peace, the tutor of
+the church, the father of his country, and, as it were, another god
+upon earth.  Of the penitent+.
 
 
-HE hath a wounded heart and a sad face; yet not so much for fear as for unkindness.  The wrong of his sin troubles him more than the danger.  None but he is the better for his sorrow, neither is any passion more hurtful to others than this is gainful to him.  The more he seeks to hide his grief, the less it will be hid; every man may read it, not only in his eyes, but in his bones.  While he is in charity with all others, he is so fallen out with himself, that none but God can reconcile him: he hath
-sued himself in all courts; accuseth, arraigneth, sentenceth, punisheth himself unpartially; and sooner may find mercy at any hand than at his own.  He only hath pulled off the fair visor of sin: so as that which appears not but masked unto others, is seen of him barefaced; and bewrays that fearful ugliness which none can conceive but he that hath viewed it.  He hath looked into the depth of the bottomless pit; and hath seen his own offence tormented in others, and the same brands shaken at him.  He hath seen the change of faces in that Evil one, as a tempter, as a tormenter, and hath heard the noise of a conscience; and is so frighted with all these, that be can never have rest till be have run out of himself to God; in whose face at first he finds rigour; but afterwards sweetness in his bosom: he bleeds first from the hand that heals him.  The law of God hath made work for mercy; which he hath no sooner apprehended than he forgets his wounds, and looks carelessly upon all these terrors of guiltiness.  When be casts his eye back upon himself, he wonders where he was, and how he came there; and grants, that if there were not some witchcraft in sin, he could not have been so sottishly graceless.  And now, in the issue, Satan finds, not without indignation and repentance, that he hath done him a good turn in tempting him; for he had never been so good if be had not sinned; he had never fought with such courage if he had not seen his blood, and been ashamed of his foil.  Now, he is seen and felt in the front of the spiritual battle; and can teach others how to fight, and encourage them in fighting.  His heart was never more taken up with the pleasure of sin, than now with care of avoiding it: the very sight of that cup, wherein such a fulsome potion was brought him, turns his stomach: the first offers of sin make him tremble more now, than he did before at the judgments of his sin; neither dares he so much as look towards Sodom.  All the powers and craft of hell cannot fetch him in for a customer to evil; his infirmity may yield once, his resolution never.  There is none of his senses or parts which he hath not within covenants for their good behaviour which they cannot ever break with impunity.  The wrongs of his sin he repays to men with recompense, as hating it should be said he owes anything to his offence; to God, what in him lies, with sighs, tears, vows. and endeavours of amendment. No heart is more waxen to the impressions of forgiveness; neither are his hands more open to receive than to give pardon.  All the injuries which are
-ofrered to him are swallowed up in his wrongs to his Maker and Redeemer: neither can be call for the arrearages of his farthings, when he looks upon the millions forgiven him: he feels not what he suffers from men, when he thinks of what he hath done and should have suffered.  He is a thankful herald of the mercies of his God; which if all the world hear not from his mouth, it is no fault, of his.  Neither did he so burn with the evil fires of concupiscence, as now with the holy flames of zeal to that glory which he hath blemished; and his eyes are full of moisture as his heart of heat.  The gates of heaven are not so knocked at by any suitor, whether for frequence or importunity. You shall find his cheeks furrowed his knees hard; his lips sealed up, save when he must accuse himself, or glorify God; his eyes humbly dejected; and sometimes you shall take him breaking off a sigh in the midst; as one that would steal an humiliation unknown, and would be offended with any part that should not keep his counsel.  When he finds his soul oppressed with the heavy guilt of a sin, he gives it vent through his mouth into the ear of his spiritual Physician, from whom he receives cordials answerable to his complaint.  He is a severe exacter of discipline; first, upon himself, on whom he imposes more than one Lent; then, upon others, as one that vowed to be revenged on sin wheresoever he finds it; and though but one hath offended him, yet his detestation is universal.  He is his own taskmaster for devotion; and if Christianity have any work more difficult or perilous than other, that he enjoins himself; and resolves contentment even in miscarriage.{Hal+} It is no marvel if the acquaintance of his wilder times know him not, for he is quite another from himself; and if his mind could have had any intermission of dwelling within his breast, it could not have known this was the lodging; nothing but an outside is the same it was, and that altered more with regeneration+ than with age. {Hal+} None but he can relish the promises of the gospel; which be finds so sweet, that he complains not his thirst after them is unsatiable.  And now that he hath found his Saviour, he hugs him so fast, and holds him so dear, that be feels not when his life is fetched away from him for his martyrdom. {Hal+} The latter part of his life is so led, as if he desired to unlive his youth: and his last testament is full of restitutions and legacies of piety.  In sum, he hath so lived and died, as that Satan hath no such match; sin hath no such enemy; God hath no such servant as he.
+HE hath a wounded heart and a sad face; yet not so much for fear as
+for unkindness.  The wrong of his sin troubles him more than the
+danger.  None but he is the better for his sorrow, neither is any
+passion more hurtful to others than this is gainful to him.  The more
+he seeks to hide his grief, the less it will be hid; every man may
+read it, not only in his eyes, but in his bones.  While he is in
+charity with all others, he is so fallen out with himself, that none
+but God can reconcile him: he hath sued himself in all courts;
+accuseth, arraigneth, sentenceth, punisheth himself unpartially; and
+sooner may find mercy at any hand than at his own.  He only hath
+pulled off the fair visor of sin: so as that which appears not but
+masked unto others, is seen of him barefaced; and bewrays that fearful
+ugliness which none can conceive but he that hath viewed it.  He hath
+looked into the depth of the bottomless pit; and hath seen his own
+offence tormented in others, and the same brands shaken at him.  He
+hath seen the change of faces in that Evil one, as a tempter, as a
+tormenter, and hath heard the noise of a conscience; and is so
+frighted with all these, that be can never have rest till be have run
+out of himself to God; in whose face at first he finds rigour; but
+afterwards sweetness in his bosom: he bleeds first from the hand that
+heals him.  The law of God hath made work for mercy; which he hath no
+sooner apprehended than he forgets his wounds, and looks carelessly
+upon all these terrors of guiltiness.  When be casts his eye back upon
+himself, he wonders where he was, and how he came there; and grants,
+that if there were not some witchcraft in sin, he could not have been
+so sottishly graceless.  And now, in the issue, Satan finds, not
+without indignation and repentance, that he hath done him a good turn
+in tempting him; for he had never been so good if be had not sinned;
+he had never fought with such courage if he had not seen his blood,
+and been ashamed of his foil.  Now, he is seen and felt in the front
+of the spiritual battle; and can teach others how to fight, and
+encourage them in fighting.  His heart was never more taken up with
+the pleasure of sin, than now with care of avoiding it: the very sight
+of that cup, wherein such a fulsome potion was brought him, turns his
+stomach: the first offers of sin make him tremble more now, than he
+did before at the judgments of his sin; neither dares he so much as
+look towards Sodom.  All the powers and craft of hell cannot fetch him
+in for a customer to evil; his infirmity may yield once, his
+resolution never.  There is none of his senses or parts which he hath
+not within covenants for their good behaviour which they cannot ever
+break with impunity.  The wrongs of his sin he repays to men with
+recompense, as hating it should be said he owes anything to his
+offence; to God, what in him lies, with sighs, tears, vows. and
+endeavours of amendment. No heart is more waxen to the impressions of
+forgiveness; neither are his hands more open to receive than to give
+pardon.  All the injuries which are ofrered to him are swallowed up in
+his wrongs to his Maker and Redeemer: neither can be call for the
+arrearages of his farthings, when he looks upon the millions forgiven
+him: he feels not what he suffers from men, when he thinks of what he
+hath done and should have suffered.  He is a thankful herald of the
+mercies of his God; which if all the world hear not from his mouth, it
+is no fault, of his.  Neither did he so burn with the evil fires of
+concupiscence, as now with the holy flames of zeal to that glory which
+he hath blemished; and his eyes are full of moisture as his heart of
+heat.  The gates of heaven are not so knocked at by any suitor,
+whether for frequence or importunity. You shall find his cheeks
+furrowed his knees hard; his lips sealed up, save when he must accuse
+himself, or glorify God; his eyes humbly dejected; and sometimes you
+shall take him breaking off a sigh in the midst; as one that would
+steal an humiliation unknown, and would be offended with any part that
+should not keep his counsel.  When he finds his soul oppressed with
+the heavy guilt of a sin, he gives it vent through his mouth into the
+ear of his spiritual Physician, from whom he receives cordials
+answerable to his complaint.  He is a severe exacter of discipline;
+first, upon himself, on whom he imposes more than one Lent; then, upon
+others, as one that vowed to be revenged on sin wheresoever he finds
+it; and though but one hath offended him, yet his detestation is
+universal.  He is his own taskmaster for devotion; and if Christianity
+have any work more difficult or perilous than other, that he enjoins
+himself; and resolves contentment even in miscarriage.{Hal+} It is no
+marvel if the acquaintance of his wilder times know him not, for he is
+quite another from himself; and if his mind could have had any
+intermission of dwelling within his breast, it could not have known
+this was the lodging; nothing but an outside is the same it was, and
+that altered more with regeneration+ than with age. {Hal+} None but he
+can relish the promises of the gospel; which be finds so sweet, that
+he complains not his thirst after them is unsatiable.  And now that he
+hath found his Saviour, he hugs him so fast, and holds him so dear,
+that be feels not when his life is fetched away from him for his
+martyrdom. {Hal+} The latter part of his life is so led, as if he
+desired to unlive his youth: and his last testament is full of
+restitutions and legacies of piety.  In sum, he hath so lived and
+died, as that Satan hath no such match; sin hath no such enemy; God
+hath no such servant as he.
 
 He is an happy_man+,
 
-{Stoicism+} THAT hath learned to read himself more than all books, and hath so taken out this lesson, that he can never forget it; that knows the world, and cares not for it; that, after many traverses of thoughts, is grown to know what he may trust to, and stands now equally armed for all events; that hath got the mastery at home; so as he can cross his will without a mutiny, and so please it, that he makes it not a wanton: that in earthly things wishes no more than nature; in spiritual, is ever graciously ambitious: that for his condition, stands on his own feet, not needing to lean upon the great; and can so frame his thoughts to his estate, that when he hath least he cannot want, because he is as free from desire as superfluity: that hath seasonably broken the headstrong restiness of prosperity, and can now manage it at pleasure; upon whom all smaller crosses light as hailstones upon a roof; and for the greater calamities, he can take them as tributes of life and tokens of love; and if his ship he tossed, yet he is sure his anchor is fast.  If all the world were his, he could be no other than he is; no whit gladder of himself, no whit higher in his carriage; because he knows contentment lies not in the things he hath, but in the mind that values them.  The powers of his resolution can either multiply or subtract at pleasure.  He can make his cottage a manor or a palace when he lists; and his home-close a large dominion; his stained cloth, arras; his earth, plate; and can see state in the attendance of one servant: as one that hath learned, a man's greatness or baseness is in himself; {Wyf+} and in this he may even contest with the proud, that he thinks his own the best. Or, if he must be outwardly great, he can but turn the other end of the glass, and make his stately manor a low and strait cottage; and in all his costly furniture, he can see, not richness, but use: he can see dross in the best metal; and earth through the best clothes: and in all his troop he can see himself his own servant.  He lives quietly at home, out of the noise of the world; and loves to enjoy himself always; and sometimes his friend: and hath as full scope to his thoughts as to his eyes.  He walks ever even, in the midway betwixt hopes and fears; resolved to fear nothing but God, to hope for nothing but that which he must have.  He hath a wise and virtuous mind in a serviceable body, which that better part affects as a present servant and a future companion; so cherishing his flesh, as one that would scorn to be all flesh.  He
-hath no enemies; not for that all love him, but because he knows to make a gain of malice. He is not so engaged to any earthly thing that they two cannot part on even terms; there is neither laughter in their meeting, nor in their shaking of hands, tears.  He keeps ever the best company; the God of spirits, and the spirits of that God; whom he entertains continually in an awful familiarity; not being hindered, either with too much light, or with none at all.  His conscience and his hand are friends, and, what devil soever tempt him, will not fall out: that divine part goes ever uprightly and freely; not stooping under the burden of a willing sin, not fettered with the gives of unjust scruples.  He would not, if he could, run away from himself or from God; not caring from whom he lies hid, so he may look these two in the face.  Censures and applauses are passengers to him, not guests; his ear is their thoroughfare, not their harbour; he hath learned to fetch both his counsel and his sentence from his own breast.  He doth not lay weight upon his own shoulders, as one that loves to torment himself, with the honour of much employment; but, as he makes work his game, so doth he not list to make himself work.  His strife is ever to redeem, and not to spend time.  It is his trade to do good, and to think of it his recreation. He hath hands enow for himself and others; which are ever stretched forth for beneficence+, not for need.  He walks cheerfully in the way that God hath chalked, and never wishes it more wide or more smooth.  Those very temptations whereby he is foiled strengthen him: he comes forth crowned and triumphing out of the spiritual battles; and those scars that he hath, make him beautiful.  His soul is every day dilated to receive that God in whom he is; and hath attained to love himself for God, and God for his own sake.  His eyes stick so fast in heaven, that no earthly object can remove them: yea, his whole self is there before his time; and sees with Stephen, and hears with Paul, and enjoys with Lazarus, the glory that he shall have; and takes possession beforehand of his room amongst the saints.  And these heavenly contentments have so taken him up, that now he looks down displeasedly upon the earth, as the region of his sorrow and banishment: yet, joying more in hope than troubled with the sense of evils, he holds it no great matter to live, and his greatest business to die; and is so well acquainted with his last guest, that he fears no unkindness from him: neither makes he any other of dying+ than of walking home when he is abroad; or of going to
-bed when he is weary of the day.  He is well provided for both worlds; and is sure of peace here, of glory hereafter; and therefore hath a light heart and a cheerful face.  All his fellow-creatures rejoice to serve him: his betters, the angels, love to observe him:  God himself takes pleasure to converse with him; and hath sainted him afore his death, and in his death crowned him.
+{Stoicism+} THAT hath learned to read himself more than all books, and
+hath so taken out this lesson, that he can never forget it; that knows
+the world, and cares not for it; that, after many traverses of
+thoughts, is grown to know what he may trust to, and stands now
+equally armed for all events; that hath got the mastery at home; so as
+he can cross his will without a mutiny, and so please it, that he
+makes it not a wanton: that in earthly things wishes no more than
+nature; in spiritual, is ever graciously ambitious: that for his
+condition, stands on his own feet, not needing to lean upon the great;
+and can so frame his thoughts to his estate, that when he hath least
+he cannot want, because he is as free from desire as superfluity: that
+hath seasonably broken the headstrong restiness of prosperity, and can
+now manage it at pleasure; upon whom all smaller crosses light as
+hailstones upon a roof; and for the greater calamities, he can take
+them as tributes of life and tokens of love; and if his ship he
+tossed, yet he is sure his anchor is fast.  If all the world were his,
+he could be no other than he is; no whit gladder of himself, no whit
+higher in his carriage; because he knows contentment lies not in the
+things he hath, but in the mind that values them.  The powers of his
+resolution can either multiply or subtract at pleasure.  He can make
+his cottage a manor or a palace when he lists; and his home-close a
+large dominion; his stained cloth, arras; his earth, plate; and can
+see state in the attendance of one servant: as one that hath learned,
+a man's greatness or baseness is in himself; {Wyf+} and in this he may
+even contest with the proud, that he thinks his own the best. Or, if
+he must be outwardly great, he can but turn the other end of the
+glass, and make his stately manor a low and strait cottage; and in all
+his costly furniture, he can see, not richness, but use: he can see
+dross in the best metal; and earth through the best clothes: and in
+all his troop he can see himself his own servant.  He lives quietly at
+home, out of the noise of the world; and loves to enjoy himself
+always; and sometimes his friend: and hath as full scope to his
+thoughts as to his eyes.  He walks ever even, in the midway betwixt
+hopes and fears; resolved to fear nothing but God, to hope for nothing
+but that which he must have.  He hath a wise and virtuous mind in a
+serviceable body, which that better part affects as a present servant
+and a future companion; so cherishing his flesh, as one that would
+scorn to be all flesh.  He hath no enemies; not for that all love him,
+but because he knows to make a gain of malice. He is not so engaged to
+any earthly thing that they two cannot part on even terms; there is
+neither laughter in their meeting, nor in their shaking of hands,
+tears.  He keeps ever the best company; the God of spirits, and the
+spirits of that God; whom he entertains continually in an awful
+familiarity; not being hindered, either with too much light, or with
+none at all.  His conscience and his hand are friends, and, what devil
+soever tempt him, will not fall out: that divine part goes ever
+uprightly and freely; not stooping under the burden of a willing sin,
+not fettered with the gives of unjust scruples.  He would not, if he
+could, run away from himself or from God; not caring from whom he lies
+hid, so he may look these two in the face.  Censures and applauses are
+passengers to him, not guests; his ear is their thoroughfare, not
+their harbour; he hath learned to fetch both his counsel and his
+sentence from his own breast.  He doth not lay weight upon his own
+shoulders, as one that loves to torment himself, with the honour of
+much employment; but, as he makes work his game, so doth he not list
+to make himself work.  His strife is ever to redeem, and not to spend
+time.  It is his trade to do good, and to think of it his
+recreation. He hath hands enow for himself and others; which are ever
+stretched forth for beneficence+, not for need.  He walks cheerfully
+in the way that God hath chalked, and never wishes it more wide or
+more smooth.  Those very temptations whereby he is foiled strengthen
+him: he comes forth crowned and triumphing out of the spiritual
+battles; and those scars that he hath, make him beautiful.  His soul
+is every day dilated to receive that God in whom he is; and hath
+attained to love himself for God, and God for his own sake.  His eyes
+stick so fast in heaven, that no earthly object can remove them: yea,
+his whole self is there before his time; and sees with Stephen, and
+hears with Paul, and enjoys with Lazarus, the glory that he shall
+have; and takes possession beforehand of his room amongst the saints.
+And these heavenly contentments have so taken him up, that now he
+looks down displeasedly upon the earth, as the region of his sorrow
+and banishment: yet, joying more in hope than troubled with the sense
+of evils, he holds it no great matter to live, and his greatest
+business to die; and is so well acquainted with his last guest, that
+he fears no unkindness from him: neither makes he any other of dying+
+than of walking home when he is abroad; or of going to bed when he is
+weary of the day.  He is well provided for both worlds; and is sure of
+peace here, of glory hereafter; and therefore hath a light heart and a
+cheerful face.  All his fellow-creatures rejoice to serve him: his
+betters, the angels, love to observe him: God himself takes pleasure
+to converse with him; and hath sainted him afore his death, and in his
+death crowned him.
 
 -------------------------------------------------
 
-~BOOK_II+.
-CHARACTERISTICS OF VICES.
-The Proem.
+~BOOK_II+.  CHARACTERISTICS OF VICES.  The Proem.
 
 
-I HAVE showed you many fair virtues.  I speak not for them: if their sight cannot command affection, let them lose it. They shall please yet better after you have troubled your eyes a little with the view of deformities; and by how much more they please, so much more odious and like themselves shall these deformities appear.  This light contraries give to each other in the Midst of their enmity, that one makes the other seem more good or ill. {Saussure_system+} Perhaps in some of these (which thing I do at once fear and hate) my style shall seem to some less grave, more satirical.  If you find me not without cause jealous, let it please you to impute it to the nature of those vices which will not be otherwise handled.  The fashions of some evils are, besides the odiousness, ridiculous; which to repeat is to seem bitterly merry. I abhor to make sport with wickedness, and forbid any laughter here but of disdain.  Hypocrisy shall lead this ring+: worthily, I think, because both she cometh nearest to virtue, and is the worst of vices. 
+I HAVE showed you many fair virtues.  I speak not for them: if their
+sight cannot command affection, let them lose it. They shall please
+yet better after you have troubled your eyes a little with the view of
+deformities; and by how much more they please, so much more odious and
+like themselves shall these deformities appear.  This light contraries
+give to each other in the Midst of their enmity, that one makes the
+other seem more good or ill. {Saussure_system+} Perhaps in some of
+these (which thing I do at once fear and hate) my style shall seem to
+some less grave, more satirical.  If you find me not without cause
+jealous, let it please you to impute it to the nature of those vices
+which will not be otherwise handled.  The fashions of some evils are,
+besides the odiousness, ridiculous; which to repeat is to seem
+bitterly merry. I abhor to make sport with wickedness, and forbid any
+laughter here but of disdain.  Hypocrisy shall lead this ring+:
+worthily, I think, because both she cometh nearest to virtue, and is
+the worst of vices.
   
   
 
 The hypocrite+.
 
 
-AN hypocrite is the worst kind of player, by so much as he acts the better part: which hath always two faces; ofttimes two hearts: that can compose his forehead to sadness and gravity, while he bids his heart be wanton and careless within; and in the mean time laughs within himself to think how smoothly he hath cozened the beholder: in whose silent face are written the characters of religion, which his tongue and gestures pronounce, but his hands recant: that hath a clean face and garment, with a foul soul: whose mouth belies his heart, and his fingers belie his
-mouth.  Walking early up into the city he turns into the great church, and salutes one of the pillars on one knee; worshipping that God, which at home he cares not for: while his eye is fixed on some window, on some passenger; and his heart knows not whither his lips go: he rises, and, looking about with admiration, complains of our frozen charity; commends the ancient.  At church he will ever sit where he may be seen best; and in the midst of the sermon pulls out his tables in haste, as if he feared to lose that note; when he writes, either his forgotten errand, or nothing: then he turns his Bible with a noise to seek an omitted quotation; and folds the leaf, as if he had found it; and asks aloud the name of the preacher, and repeats it; whom he publicly salutes, thanks, praises, invites, entertains with tedious good counsel, with good discourse, if it had come from an honester mouth. He can command tears when he speaks of his youth; indeed because it is past, not because it was sinful: himself is now better, but the times are worse.  All other sins he reckons up with detestation, while he loves and bides his darling in his bosom.  All his speech returns to himself, and every occurrent draws in a story to his own praise.  When he should give, he looks about him, and says, "Who sees me?" No alms, no prayers fall from him without a witness: belike, lest God should deny that he hath received them: and when he hath done, lest the world should not know it, his own mouth is his trumpet to proclaim it.  With the superiority of his usury+ he builds an hospital, and harbours them whom his extortion hath spoiled: so, while he makes many beggars, he keeps some.  He turneth all gnats into camels; and cares not to undo the world for a circumstance: flesh on a Friday is more abomination to him than his neighbour's bed: he abhors more, not to uncover at the name of Jesus, than to swear by the name of God.  When a rhymer reads his poem to him, he begs a copy, and persuades the press.  There is nothing that he dislikes in presence that in absence he censures not.  He comes to the sick bed of his stepmother and weeps, when he secretly fears her recovery.  He greets his friend in the street with so clear a countenance, so fast a closure, that the other thinks he reads his heart in his face; and shakes hands with an indefinite invitation of, "When will you come?" and when his back is turned, joys that he is so well rid of a guest: yet if that guest visit him unfeared/a he counterfeits a smiling 
+AN hypocrite is the worst kind of player, by so much as he acts the
+better part: which hath always two faces; ofttimes two hearts: that
+can compose his forehead to sadness and gravity, while he bids his
+heart be wanton and careless within; and in the mean time laughs
+within himself to think how smoothly he hath cozened the beholder: in
+whose silent face are written the characters of religion, which his
+tongue and gestures pronounce, but his hands recant: that hath a clean
+face and garment, with a foul soul: whose mouth belies his heart, and
+his fingers belie his mouth.  Walking early up into the city he turns
+into the great church, and salutes one of the pillars on one knee;
+worshipping that God, which at home he cares not for: while his eye is
+fixed on some window, on some passenger; and his heart knows not
+whither his lips go: he rises, and, looking about with admiration,
+complains of our frozen charity; commends the ancient.  At church he
+will ever sit where he may be seen best; and in the midst of the
+sermon pulls out his tables in haste, as if he feared to lose that
+note; when he writes, either his forgotten errand, or nothing: then he
+turns his Bible with a noise to seek an omitted quotation; and folds
+the leaf, as if he had found it; and asks aloud the name of the
+preacher, and repeats it; whom he publicly salutes, thanks, praises,
+invites, entertains with tedious good counsel, with good discourse, if
+it had come from an honester mouth. He can command tears when he
+speaks of his youth; indeed because it is past, not because it was
+sinful: himself is now better, but the times are worse.  All other
+sins he reckons up with detestation, while he loves and bides his
+darling in his bosom.  All his speech returns to himself, and every
+occurrent draws in a story to his own praise.  When he should give, he
+looks about him, and says, "Who sees me?" No alms, no prayers fall
+from him without a witness: belike, lest God should deny that he hath
+received them: and when he hath done, lest the world should not know
+it, his own mouth is his trumpet to proclaim it.  With the superiority
+of his usury+ he builds an hospital, and harbours them whom his
+extortion hath spoiled: so, while he makes many beggars, he keeps
+some.  He turneth all gnats into camels; and cares not to undo the
+world for a circumstance: flesh on a Friday is more abomination to him
+than his neighbour's bed: he abhors more, not to uncover at the name
+of Jesus, than to swear by the name of God.  When a rhymer reads his
+poem to him, he begs a copy, and persuades the press.  There is
+nothing that he dislikes in presence that in absence he censures not.
+He comes to the sick bed of his stepmother and weeps, when he secretly
+fears her recovery.  He greets his friend in the street with so clear
+a countenance, so fast a closure, that the other thinks he reads his
+heart in his face; and shakes hands with an indefinite invitation of,
+"When will you come?" and when his back is turned, joys that he is so
+well rid of a guest: yet if that guest visit him unfeared/a he
+counterfeits a smiling
 
------ 
-a [This word as it stands here is scarcely intelligible: may we not read unfared, without fare, unprovided with a meal?]
+----- a [This word as it stands here is scarcely intelligible: may we
+not read unfared, without fare, unprovided with a meal?]
 
-welcome; and excuses his cheer, when closely he frowns on his wife for too much.  He shows well, and says well; and himself is the worst thing he hath.  In brief, he is the stranger's saint; the neigbbour's disease; the blot of goodness; a rotten stick in a dark night; a poppy in a cornfield; an ill tempered candle, with a great snuff, that in going out smells ill; an angel abroad, a devil at home; and worse when an angel than when a devil. 
-The busybody+.
+welcome; and excuses his cheer, when closely he frowns on his wife for
+too much.  He shows well, and says well; and himself is the worst
+thing he hath.  In brief, he is the stranger's saint; the neigbbour's
+disease; the blot of goodness; a rotten stick in a dark night; a poppy
+in a cornfield; an ill tempered candle, with a great snuff, that in
+going out smells ill; an angel abroad, a devil at home; and worse when
+an angel than when a devil.  The busybody+.
 
 
-His estate is too narrow for his mind, and therefore he is fain to make himself room in others' affairs; yet ever, in pretence of love.  No news can stir but by his door; neither can he know that which he must not tell.  What every man ventures in Guiana voyage, and what they gained, he knows to a hair.  Whether Holland will have peace, he knows; and on what conditions, and with what success, is familiar to him, ere it be concluded.  No post can pass him without a question; and rather than he will lose the news, he rides back with him to appose him of tidings: and then to the next man he meets he supplies the wants of his hasty intelligence, and makes up a perfect tale; wherewith he so haunteth the patient auditor, that, after many excuses, he is fain to endure rather the censure of his manners in running away, than the tediousness of an impertinent discourse.  His speech is oft broken off with a succession of long parentheses, which he ever vows to fill up ere the conclusion; and perhaps would effect it, if the other's ear were as unweariable as his tongue.  If he see but two men talk, and read a letter in the street, he runs to them, and asks if he may not be partner of that secret relation; and if they deny it, he offers to tell, since he may not hear, wonders: and then falls upon the report of the Scottish mine, or of the great fish taken up at Lynn, or of the freezing of the Thames; and, after many thanks and dismissions, is hardly entreated silence.  He undertakes as much as he performs little.  This man will thrust himself forward, to be the guide of the way he knows not; and calls at his neighbour's window, and asks why his servants are not at work.  The market hath no commodity which he prizeth not, and which the next table shall not hear recited.  His tongue, like the tail of Samson's foxes, carries firebrands, and is enough to set the whole field of the world on a flame.  Himself begins tabletalk of his neighbour at another's board; to whom he bears the first news, and adjures him to conceal the reporter: whose choleric answer he returns to his first host,
-enlarged with a second edition: so, as it uses to be done in the fight of unwilling mastiffs, he claps each on the side apart, and provokes them to an eager conflict. There can no act pass without his comment; which is ever far- fetched, rash, suspicious, delatory.  His ears are long, and his eyes quick; but most of all to imperfections, which as he easily sees, so he increases with intermeddling.  He harbours another man's servant; and, amidst his entertainment, asks what fare is usual at home, what hours are kept, what talk passeth their meals, what his master's disposition is, what his government, what his guests: and when he hath by curious inquiries extracted all the juice and spirit of hoped intelligence, turns him out whence he came, and works on a new.  He hates constancy, as an earthen dulness, unfit for men of spirit; and loves to change his work and his place: neither yet can he be so soon weary of any place as every place is weary of him: for as he sets himself on work, so others pay him with hatred; and look, how many masters he hath, so many enemies; neither is it possible that any should not hate him but who know him not.  So then he labours without thanks; talks without credit; lives without love; dies without tears, without pity; save that some say, "It was pity he died no sooner." 
+His estate is too narrow for his mind, and therefore he is fain to
+make himself room in others' affairs; yet ever, in pretence of love.
+No news can stir but by his door; neither can he know that which he
+must not tell.  What every man ventures in Guiana voyage, and what
+they gained, he knows to a hair.  Whether Holland will have peace, he
+knows; and on what conditions, and with what success, is familiar to
+him, ere it be concluded.  No post can pass him without a question;
+and rather than he will lose the news, he rides back with him to
+appose him of tidings: and then to the next man he meets he supplies
+the wants of his hasty intelligence, and makes up a perfect tale;
+wherewith he so haunteth the patient auditor, that, after many
+excuses, he is fain to endure rather the censure of his manners in
+running away, than the tediousness of an impertinent discourse.  His
+speech is oft broken off with a succession of long parentheses, which
+he ever vows to fill up ere the conclusion; and perhaps would effect
+it, if the other's ear were as unweariable as his tongue.  If he see
+but two men talk, and read a letter in the street, he runs to them,
+and asks if he may not be partner of that secret relation; and if they
+deny it, he offers to tell, since he may not hear, wonders: and then
+falls upon the report of the Scottish mine, or of the great fish taken
+up at Lynn, or of the freezing of the Thames; and, after many thanks
+and dismissions, is hardly entreated silence.  He undertakes as much
+as he performs little.  This man will thrust himself forward, to be
+the guide of the way he knows not; and calls at his neighbour's
+window, and asks why his servants are not at work.  The market hath no
+commodity which he prizeth not, and which the next table shall not
+hear recited.  His tongue, like the tail of Samson's foxes, carries
+firebrands, and is enough to set the whole field of the world on a
+flame.  Himself begins tabletalk of his neighbour at another's board;
+to whom he bears the first news, and adjures him to conceal the
+reporter: whose choleric answer he returns to his first host, enlarged
+with a second edition: so, as it uses to be done in the fight of
+unwilling mastiffs, he claps each on the side apart, and provokes them
+to an eager conflict. There can no act pass without his comment; which
+is ever far- fetched, rash, suspicious, delatory.  His ears are long,
+and his eyes quick; but most of all to imperfections, which as he
+easily sees, so he increases with intermeddling.  He harbours another
+man's servant; and, amidst his entertainment, asks what fare is usual
+at home, what hours are kept, what talk passeth their meals, what his
+master's disposition is, what his government, what his guests: and
+when he hath by curious inquiries extracted all the juice and spirit
+of hoped intelligence, turns him out whence he came, and works on a
+new.  He hates constancy, as an earthen dulness, unfit for men of
+spirit; and loves to change his work and his place: neither yet can he
+be so soon weary of any place as every place is weary of him: for as
+he sets himself on work, so others pay him with hatred; and look, how
+many masters he hath, so many enemies; neither is it possible that any
+should not hate him but who know him not.  So then he labours without
+thanks; talks without credit; lives without love; dies without tears,
+without pity; save that some say, "It was pity he died no sooner."
 The superstitious+.
 
 
-SUPERSTITION is godless religion, devout impiety. The superstitious is fond in observation, servile in fear; he worships God but as he lists; he gives God what he asks not, more than he asks, and all but what he should give, and makes more sins than the Ten Commandments. This man dares not stir forth till his breast be crossed and his face sprinkled. If but an hare cross him the way, he returns; or if his journey began, unawares, on the dismal day; or, if he stumbled at the threshold.  If he see a snake unkilled, he fears a mischief; if the salt fall towards him, he looks pale and red, and is not quiet till one of the waiters bave poured wine on his lap; and when he sneezeth, thinks them not his friends that uncover not.  In the morning, he listens whether the crow crieth even or odd, and by that token presages of the weather.  If he hear but a raven croak from the next roof, he makes his will; or if a bittour fly over his head by night: but if his troubled fancy shall second his thoughts with the dream of a fair garden, or green rushes, or the salutation of a dead friend, he takes leave of the world, and says he cannot live.  He will never set to sea
-but on a Sunday, neither ever goes without an E rra Pater in his pocket. St.  Paul's day, and St.  Swithin's, with the twelve, are his oracles, which he dares believe, against the almanack.  When he lies sick on his deathbed, no sin troubles him so much, as that he did once eat flesh on a Friday: no repentance can expiate that; the rest need none.  There is no dream of his without an interpretation, without a prediction; and if the event answer not his exposition, he expounds it according to the event.  Every dark grove and pictured wall strikes him with an awful, but carnal devotion.  Old wives and stars are his counsellors: his nigbtspell is his guard; and charms, his physicians.  He wears Paracelsian characters for the toothache; and a little hallowed wax is his antidote for all evils.  This man is strangely credulous, and calls impossible things miraculous: if he hear that some sacred block speaks, moves, weeps, smiles, his bare feet carry him thither with an offering; and if a danger miss him in the way, his saint hath the thanks.  Some ways he will not go, and some he dares not; either there are bug/b, or he feigneth them; every lantern is a ghost, and every noise is of chains.  He knows not why, but his custom is to go a little about, and to leave the cross still on the right hand.  One event is enough to make a rule: out of these rules he concludes fashions, proper to himself; and nothing can turn him out of his own course.  If he have done his task, he is safe.  It matters not with what affection.  Finally, if God would let him be the carver of his own obedience, he could not have a better subject: as he is, he cannot have a worse. 
-The profane+ {Falstaff?}.
+SUPERSTITION is godless religion, devout impiety. The superstitious is
+fond in observation, servile in fear; he worships God but as he lists;
+he gives God what he asks not, more than he asks, and all but what he
+should give, and makes more sins than the Ten Commandments. This man
+dares not stir forth till his breast be crossed and his face
+sprinkled. If but an hare cross him the way, he returns; or if his
+journey began, unawares, on the dismal day; or, if he stumbled at the
+threshold.  If he see a snake unkilled, he fears a mischief; if the
+salt fall towards him, he looks pale and red, and is not quiet till
+one of the waiters bave poured wine on his lap; and when he sneezeth,
+thinks them not his friends that uncover not.  In the morning, he
+listens whether the crow crieth even or odd, and by that token
+presages of the weather.  If he hear but a raven croak from the next
+roof, he makes his will; or if a bittour fly over his head by night:
+but if his troubled fancy shall second his thoughts with the dream of
+a fair garden, or green rushes, or the salutation of a dead friend, he
+takes leave of the world, and says he cannot live.  He will never set
+to sea but on a Sunday, neither ever goes without an E rra Pater in
+his pocket. St.  Paul's day, and St.  Swithin's, with the twelve, are
+his oracles, which he dares believe, against the almanack.  When he
+lies sick on his deathbed, no sin troubles him so much, as that he did
+once eat flesh on a Friday: no repentance can expiate that; the rest
+need none.  There is no dream of his without an interpretation,
+without a prediction; and if the event answer not his exposition, he
+expounds it according to the event.  Every dark grove and pictured
+wall strikes him with an awful, but carnal devotion.  Old wives and
+stars are his counsellors: his nigbtspell is his guard; and charms,
+his physicians.  He wears Paracelsian characters for the toothache;
+and a little hallowed wax is his antidote for all evils.  This man is
+strangely credulous, and calls impossible things miraculous: if he
+hear that some sacred block speaks, moves, weeps, smiles, his bare
+feet carry him thither with an offering; and if a danger miss him in
+the way, his saint hath the thanks.  Some ways he will not go, and
+some he dares not; either there are bug/b, or he feigneth them; every
+lantern is a ghost, and every noise is of chains.  He knows not why,
+but his custom is to go a little about, and to leave the cross still
+on the right hand.  One event is enough to make a rule: out of these
+rules he concludes fashions, proper to himself; and nothing can turn
+him out of his own course.  If he have done his task, he is safe.  It
+matters not with what affection.  Finally, if God would let him be the
+carver of his own obedience, he could not have a better subject: as he
+is, he cannot have a worse.  The profane+ {Falstaff?}.
 
 
-THE superstitions hath too many gods: the profane man hath none at all; unless perhaps himself be his own deity, and the world his heaven.  To matter of religion his heart is a piece of dead flesh, without feeling of love, of fear, of care, or of pain from the deaf strokes of a revenging conscience.  Custom of sin hath wrought this senselessness; which now hath been so long entertained, that it pleads prescription, and knows not to be altered.  This is no sudden evil: we are born sinful, but have made ourselves profane; through many degrees we climb to this height of impiety.  At first, he sinned, and cared not; now he sinneth, and knoweth not.  Appetite is his lord, and reason his servant, and religion his drudge. Sense is the rule of his belief; and if piety may be an advantage, 
+THE superstitions hath too many gods: the profane man hath none at
+all; unless perhaps himself be his own deity, and the world his
+heaven.  To matter of religion his heart is a piece of dead flesh,
+without feeling of love, of fear, of care, or of pain from the deaf
+strokes of a revenging conscience.  Custom of sin hath wrought this
+senselessness; which now hath been so long entertained, that it pleads
+prescription, and knows not to be altered.  This is no sudden evil: we
+are born sinful, but have made ourselves profane; through many degrees
+we climb to this height of impiety.  At first, he sinned, and cared
+not; now he sinneth, and knoweth not.  Appetite is his lord, and
+reason his servant, and religion his drudge. Sense is the rule of his
+belief; and if piety may be an advantage,
 
------ 
-b [i. e. bugbears.]
+----- b [i. e. bugbears.]
 
-he can at once counterfeit and deride it.  When aught succeedeth to him, he r "sacrifices to his nets," and thanks either his fortune or his wit, and will rather make a false god than acknowledge the true; if contrary, he cries out of destiny, and blames Him to whom he will not be beholden.  His conscience would fain speak with him, but he will not hear it; sets the day, but he disappoints it; and when it cries loud for audience, he drowns the noise with good fellowship.  He never names God, but in his oaths; never thinks of him, but in extremity: and then he knows not how to think of him, because he begins but then.  He quarrels for the hard conditions of his pleasure, for his future damnation; and, from himself, lays all the fault upon his Maker; and from his decree fetcheth excuses of his wickedness.  The inevitable necessity of God's counsel makes him desperately careless; so, with good food he poisons himself.  Goodness is his minstrel; neither is any mirth so cordial to him as his sport with God's fools.  Every virtue hath his slander, and his jest to laugh it out of fashion; every vice, his colour. His usuallest theme is the boast of his young sins; which he can still joy in, though he cannot commit: and, if it may be, his speech makes him worse than he is.  He cannot think of death with patience, without terror; which he therefore fears worse than hell, because this he is sure of, the other be but doubts of.  He comes to church as to the theatre, (saving that not so willingly,) for company, for custom, for recreation; perhaps for sleep, or to feed his eyes or his ears: as for his soul, he cares no more than if he had none.  He loves none but himself, and that not enough to seek his true good; neither cares he on whom he treads, that he may rise. His life is full of license, and his practice of outrage.  He is hated of God as much as he hateth goodness; and differs little from a devil, but that he hath a body. 
-The malecontent+.
-
-
-HE is neither well, full nor fasting; and though he abound with complaints, yet nothing dislikes him but the present; for what he condemned while it was, once past he magnifies, and strives to recall it out of the jaws of time.  What he hath, he seeth not; his eyes are so taken up with what he wants: and what he sees, he cares not for; because be cares so much for that which is not.  When his friend carves him the best morsel, he murmurs, "That it is a happy feast wherein each one may cut for himself." When a present is sent him, he asks, "Is this all?" and "What! no
-s. better?" and so accepts it as if he would have his friend know how much he is bound to him for vouchsafing to receive it: it is hard to entertain him with a proportionable gift: if nothing, he cries out of unthankfulness; if little, that he is basely regarded; if much, he exclaims of flattery and expectation of a large requital. {benefits+} Every blessing hath somewhat to disparage and distaste it; children bring cares; single life is wild and solitary; eminency is envious; retiredness, obscure; fasting, painful; satiety, unwieldy; religion, nicely severe; liberty is lawless; wealth burdensome; mediocrity contemptible: every thing faulteth either in too much or too little.  This man is ever headstrong and self-willed; neither is he always tied to esteem or pronounce according to reason; some things be must dislike, he knows not wherefore, but he likes them not; and otherwhere, rather than not censure, he will accuse a man of virtue.  Every thing he meddleth with, he either findeth imperfect or maketh so; neither is there any thing that soundeth so harsh in his ear as the commendation of another; whereto yet perhaps he fashionably and coldly assenteth, but with such an afterclause of exception as doth more than mar his former allowance; and if he list not to give a verbal disgrace, yet he shakes his head and smiles, as if his silence should say, "I could, and will not." And when himself is praised without excess, he complains that such imperfect kindness hath not done him right.  If but an unseasonable shower cross his recreation, he is ready to fall out with Heaven; and thinks he is wronged if God will not take his times, when to rain, when to shine.  He is a slave to envy, and loseth flesh with fretting, not so much at his own infelicity as at others' good; neither hath he leisure to joy in his own blessings, whilst another prospereth.  Fain would he see some mutinies, but dares not raise them, and suffers his lawless tongue to walk through the dangerous paths of conceited alterations; but so, as, in good manners, he had rather thrust every man before him when it comes to acting.  Nothing but fear keeps him from conspiracies, and no man is more cruel when he is not manacled with danger.  He speaks nothing but satires and libels, and lodgeth no guests in his heart but rebels.  The inconstant and he agree well in their felicity, which both place in change; but herein they differ, the inconstant man affects that which will be, the malecontent commonly that which was.  Finally, he is a querulous cur, whom no horse can pass by without barking at; yea, in the deep silence of night, the very moonshine openeth his clamorous mouth; he is the wheel of
-a well couched firework, that flies out on all sides, not without scorching itself. Every ear was long ago weary of him, and he is now almost weary of himself: give him but a little respite, and he will die alone; of no other death than others' welfare. 
-The unconstant+.
-
-
-THE inconstant man treads upon a moving earth, and keeps no pace.  His proceedings are ever heady and peremptory: for he hath not the patience to consult with reason+, but determines merely uponfancy+.  No man is so hot in the pursuit of what he liketh, no man sooner weary.  He is fiery in his passions, which yet are not more violent than momentary: it is a wonder if his love or hatred last so many days as a wonder.  His heart is the inn of all good motions; wherein if they lodge for a night, it is well: by morning they are gone, and take no leave; and if they come that way again, they are entertained as guests, not as friends.  At first like another Ecebolius, he loved simple truth: thence diverting his eyes, he fell in love with idolatry; those heathenish shrines had never any more doting and besotted client; and now of late he is leaped from Rome to Munster, and is grown to giddy anabaptism.  What he will be next, as yet he knoweth not; but ere he have wintered his opinion, it will be manifest.  He is good to make an enemy of; ill, for a friend: because, as there is no trust in his affection, so no rancour in his displeasure.  The multitude of his changed purposes brings with it forgetfulness; and not of others more than of himself. He says, swears, renounces; because, what he promised, he meant not long enough to make an impression.  Herein alone he is good for a commonwealth, that he sets many on work, with building, ruining, altering; and makes more business than time itself: neither is he a greater enemy to thrift than to idleness.  Propriety is to him enough cause of dislike; each thing pleases him better that is not his own.  Even in the best things long continuance is a just quarrel: manna itself grows tedious with age; and novelty is the highest style of commendation to the meanest offers: neither doth he in books and fashions ask, "How good?" but, "How new?" Variety carries him away with delight; and no uniform pleasure can be without an irksome fulness.  He is so transformable into all opinions, manners, qualities, that he seems rather made immediately of the first matter, than of well tempered elements; and therefore is, in possibility, any thing or every thing; nothing, in present substance.  Finally,
-he is servile, in imitation; waxy, to persuasions; witty, to wrong himself; a guest, in his own house; an ape of others; and, in a word, any thing rather than himself. {integrity+} 
-The flatterer+.
-
-FLATTERY is nothing, but false friendship, {Lear+} fawning hypocrisy, dishonest civility, base merchandise of words, a plausible discord of the heart and lips.  The flatterer is blear-eyed to ill, and cannot see vices; and his tongue walks ever in one track of unjust praises, and can no more tell how to discommend than to speak true.  His speeches are full of wondering interjections, and all his titles are superlative; and both of them seldom ever but in presence.  His base mind is well matched with a mercenary tongue, which is a willing slave to another man's ear; neither regardeth he how true, but how pleasing.  His art is nothing but delightful cozenage; whose rules are smoothing and guarded with perjury; whose scope is, to make men fools in teaching them to overvalue themselves, and to tickle his friends to death.  This man is a porter of all good tales, and mends them in the carriage; one of fame's best friends, and his own; that helps to furnish her with those rumours that may advantage himself. Conscience hath no greater adversary; for when she is about to play her just part of accusation, he stops her mouth with good terms: and well-near strangleth her with shifts.  Like that subtle fish, he turns himself into the colour of every stone for a booty. {Oswald+} In himself he is nothing, but what pleaseth his great one; whose virtues he cannot more extol than imitate his imperfections, that he may think his worst graceful: let him say it is hot, he wipes his forehead, and unbraceth himself; if cold, he shivers, and calls for a warmer garment.  When he walks with his friend, he swears to him that no man else is looked at; no man talked of; and that, whomsoever he vouchsafes to look on and nod to is graced enough: that he knows not his own worth, lest he should be too happy; and when he tells what others say in his praise, he interrupts himself modestly, and dares not speak the rest: so his concealment is more insinuating than his speech. {Iago+} {Edmund+} He hangs upon the lips which he admireth, as if they could let fall nothing but oracles; and finds occasion to cite some approved sentence, under the name he honoureth; and when augbt is nobly spoken, both his hands are little enough to bless him.  Sometimes, even in absence, he extolleth his patron, where he may presume of safe
-conveyance to his ears; and in presence so whispereth his commendation to a common friend, that it may not be unheard where he meant it.  He hath salves for every sore, to hide them, not to heal them; complexion for every face. {Oswald+} Sin hath not any more artificial broker, or more impudent bawd.  There is no vice that hath not from him his colour, his allurement; and his best service is either to further guiltiness or smother it.  If he grant evil things inexpedient, or crimes errors, he hath yielded much: either thy estate gives privilege of liberty, or thy youth; or if neither, "What if it be ill, yet it is pleasant!" [H]onesty to him is nice singularity; repentance, superstitious melancholy; gravity, dulness; and all virtue, an innocent conceit of the base- minded.  In short, he is the moth of liberal men's coats; the earwig of the mighty; the bane of courts; a friend and a slave to the trencher; and good for nothing but to be a factor for the devil. 
-The slothful+.
-
-
-HE is a religious man, and wears the time in his cloister; and, as the cloak of his doing nothing, pleads contemplation: yet is he no whit the leaner for his thoughts; no whit learneder.  He takes no less care how to spend time, than others how to gain by the expense; and when business importunes him, is more troubled to forethink what he must do, than another to effect it.  Summer is out of his favour for nothing but long days, that make no haste to their even.  He loves still to have the sun witness of his rising; and lies long, more for loathness to dress him than will to sleep: and after some stretching and yawning, calls for dinner unwashed; which having digested with a sleep in his chair, he walks forth to the bench in the market-place, and looks for companions: whomsoever he meets, he stays with idle questions and lingering discourse: how the days are lengthened; how kindly the weather is; how false the clock; how forward the spring; and ends ever with, "What shall we do?" It pleases him no less to hinder others, than not to work himself.  When all the people are gone from church, he is left sleeping in his seat alone.  He enters bonds, and forfeits them by forgetting the day; and asks his neighbour when his own field was fallowed, whether the next piece of ground belong not to himself.  His care is either none, or too late; when winter is come, after some sharp visitations, he looks on his pile of wood, and asks how much was cropped the last spring.  Necessity drives him to every action; and
-what he cannot avoid he will yet defer.  Every change troubles him, although to the better; and his dulness counterfeits a kind of contentment.  When he is warned on a jury, he had rather pay the mulct than appear.  All but that which nature will not permit, he doth by a deputy: and counts it troublesome to do nothing; but, to do any thing, yet more.  He is witty in nothing but framing excuses to sit still; which, if the occasion yield not, he coineth with ease.  There is no work that is not either dangerous or thankless; and whereof he foresees not the inconvenience and gainlessness before he enters: which if it be verified in event, his next idleness hath found a reason to patronise it.  He had rather freeze than fetch wood; and chooses rather to steal than work; to beg, than take pains to steal; and, in many things, to want, than beg.  He is so loath to leave his neighbour's fire, that he is fain to walk home in the dark; and if he be not looked to, wears out the night in the chimney corner; or if not that, lies down in his clothes to save two labours.  He eats and prays himself asleep; and dreams of no other torment but work.  This man is a standing pool; and cannot choose but gather corruption: he is descried amongst a thousand neigbbours by a dry and nasty hand, that still savours of the sheet; a beard uncut, unkembed; an eye and ear yellow with their excretions; a coat, shaken on, ragged, unbrushed; by linen and face striving whether shall excel in uncleanness. For body, he hath a swollen leg, a dusky and swinish eye, a blown cheek, a drawling tongue, a heavy foot, and is nothing but a colder earth moulded with standing water: to conclude, is a man in nothing but in speech and shape. 
-The covetous+.
-
-
-HE is a servant to himself; yea, to his servant: and doth base homage to that which should be the worst drudge.  A lifeless piece of earth is his master; yea, his god: which he shrines in his coffer, and to which he sacrifices his heart.  Every face of his coin is a new image, which he adores with the highest veneration; yet takes upon him to be protector of that he worshippeth: which he fears to keep, and abhors to lose; not daring to trust+ either any other god or his own.  Like a true chemist, he turns every thing into silver; both what he should eat, and what he should wear: and that he keeps to look on, not to use.  When he returns from his field, he asks, not without much rage, what became of the loose crust in his cupboard, and who hath rioted
-amongst his leeks.  He never eats good meal, but on his neighbour's trencher; and there he makes amends to his complaining stomach for his former and future fasts. He bids his neighbours to dinner, and when they have done, sends in a trencher for the shot.  Once in a year, perhaps, he gives himself leave to feast; and, for the time, thinks no man more lavish; wherein he lists not to fetch his dishes from far; nor will he beholden to the shambles: his own provision shall furnish his board with an insensible cost; and when his guests are parted, talks how much every man devoured, and how many cups were emptied; and feeds his family with the mouldy remnants a month after.  If his servant break but an earthen dish for want of light, he abates it out of his quarter's wages.  He chips his bread, and sends it back to exchange for staler. {Shylock+} He lets money, and sells time for a price; and will not be importuned, either to prevent or defer his day; and in the mean time looks for secret gratuities, besides the main interest, which he sells and returns into the stock.  He breeds of money to the third generation, neither hath it sooner any being than he sets it to beget more.  In all things he affects secresy and propriety: he grudgeth his neighbour the water of his well{Cicero+}; and, next to stealing, he hates borrowing.  In his short and unquiet sleeps, he dreams of thieves, and runs to the door, and names more men than he hath.  The least sheaf he ever culls out for tithe; and to rob God, holds it the best pastime, the clearest gain.  This man cries out, above other, of the prodigality of our times; and tells of the thrift of our forefathers: how that great prince thought himself royally attired when he bestowed thirteen shillings and four pence on half a suit: how one wedding gown served our grandmothers, till they exchanged it for a winding sheet: and praises plainness, not for less sin, but for less cost.  For himself, he is still known by his forefathers' coat; which he means, with his blessing, to bequeath to the many descents of his heirs.  He neither would be poor nor be accounted rich.  No man complains so much of want, to avoid a subsidy: no man is so importunate in begging, so cruel in exaction:{Shylock+} and when he most complains of want, he fears that which he complains to have.  No way is indirect to wealth, whether of fraud or violence: gain is his godliness, which if conscience go about to prejudice, and grow troublesome by exclaiming against, he is condemned for a common barretor.  Like another Ahab, he is sick of the next field; and thinks he is ill seated, while he dwells
-by neigbbours.  Shortiy, his neighbours do not much more hate him than he himself.  He cares not, for no great advantage, to lose his friend, pine his body, damn his soul: and would despatch himself when corn falls, but that he is loath to cast away money onl a cord. 
-The vainglorious+.
-
-
-ALL his humour rises up into the froth of ostentation, which, if it once settle, falls down into a narrow room.  If the excess be in the understanding part, all his wit is in print: the press hath left his head empty; yea, not only what he had, but what he could borrow without leave.  If his glory be in his devotion, be gives not an alms but on record; and if he have once done well, God hears of it often; for upon every unkindness he is ready to upbraid him with his merits.  Over and above his own discharge, he hath some satisfactions to spare for the common treasure.  He can fulfil the law with ease, and earn God with superfluity.  If he have bestowed but a little sum in the glazing, paving, parieting of God's house, you shall find it in the church window.  Or if a more gallant humour possess him, he wears all his land on his back; {fop+} Sells all he has for clothes] and, walking high, looks over his left shoulder to see if the point of his rapier follow him with a grace.  He is proud of another man's horse; and, well-mounted, thinks every man wrongs him that looks not at him.  A bare head in the street doth him more good than a meal's meat.  He swears big at an ordinary; and talks of the court with a sharp accent: neither vouchsafes to name any not honourable, nor those without some term of familiarity; and likes well to see the hearer look upon him amazedly, as if he said, "How happy is this man, that is so great with great ones!" Under pretence of seeking for a scroll of news, he draws out a handful of letters, indorsed with his own style to the height, half reading every title, passes over the latter part with a murmur; not without signifying what lord sent this, what great lady the other, and for what suits: the last paper, as it happens, is his news from his honourable friend in the French court.  In the midst of dinner, his lackey comes sweating in with a sealed note from his creditor, who now threatens a speedy arrest; and whispers the ill news in his master's ear: when he aloud names a counsellor of state, and professes to know the employment.  The same messenger he calls with an imperious nod; and after expostulation, where he hath left his fellows, in his ear sends him for some new spur-leathers, or stockings by
-this time footed; and when he is gone half the room, recalls him, and saith aloud, "It is no matter; let the greater bag alone till I come:" and yet again calling him closer, whispers, so that all the table may hear, that if his crimson suit be ready against the day, the rest need no haste.  He picks his teeth when his stomach is empty, and calls for pheasants at a common inn.  You shall find him prizing the richest jewels and fairest horses, when his purse yields not money enough for earnest.  He thrusts himself into the prease before some great ladies; and loves to be seen near the head of a great train.  His talk is, how many mourners he furnished with gowns at his father's funerals, how many messes; how rich his coat is, and how ancient; how great his alliance; what challenges he hath made and answered; what exploits he did at Calais or Nieuport; and when he hath commended others' buildings, furnitures, suits, compares them with his own.  When he hath undertaken to be the broker for some rich diamond, he wears it; and pulling off his glove, to stroke up his hair, thinks no eye should have any other object.  Entertaining his friend, he chides his cook for no better cheer; and names the disbes he meant, and wants.  To conclude, he is ever on the stage, and acts a still glorious part abroad; when no man carries a baser heart, no man is more sordid and careless, at home.  He is a Spanish soldier on an Italian theatre; a bladder full of wind, a skin full of words; a fool's wonder, and a wise man's fool. 
-The presumptuous+.
+he can at once counterfeit and deride it.  When aught succeedeth to
+him, he r "sacrifices to his nets," and thanks either his fortune or
+his wit, and will rather make a false god than acknowledge the true;
+if contrary, he cries out of destiny, and blames Him to whom he will
+not be beholden.  His conscience would fain speak with him, but he
+will not hear it; sets the day, but he disappoints it; and when it
+cries loud for audience, he drowns the noise with good fellowship.  He
+never names God, but in his oaths; never thinks of him, but in
+extremity: and then he knows not how to think of him, because he
+begins but then.  He quarrels for the hard conditions of his pleasure,
+for his future damnation; and, from himself, lays all the fault upon
+his Maker; and from his decree fetcheth excuses of his wickedness.
+The inevitable necessity of God's counsel makes him desperately
+careless; so, with good food he poisons himself.  Goodness is his
+minstrel; neither is any mirth so cordial to him as his sport with
+God's fools.  Every virtue hath his slander, and his jest to laugh it
+out of fashion; every vice, his colour. His usuallest theme is the
+boast of his young sins; which he can still joy in, though he cannot
+commit: and, if it may be, his speech makes him worse than he is.  He
+cannot think of death with patience, without terror; which he
+therefore fears worse than hell, because this he is sure of, the other
+be but doubts of.  He comes to church as to the theatre, (saving that
+not so willingly,) for company, for custom, for recreation; perhaps
+for sleep, or to feed his eyes or his ears: as for his soul, he cares
+no more than if he had none.  He loves none but himself, and that not
+enough to seek his true good; neither cares he on whom he treads, that
+he may rise. His life is full of license, and his practice of outrage.
+He is hated of God as much as he hateth goodness; and differs little
+from a devil, but that he hath a body.  The malecontent+.
 
 
-PRESUMPTION is nothing but hope out of his wits; a high house upon weak pillars.  The presumptuous man loves to attempt great things, only because they are hard and rare; his actions are bold and venturous, and more full of hazard than use.  He hoisteth sail in a tempest, and saith, never any of his ancestors were drowned: he goes into an infected house, and says the plague dares not seize on noble blood: he runs on high battlements, gallops down steep hills, rides over narrow bridges, walks on weak ice, and never thinks, "What if I fall?" but, " What if I run over, and fall not?" He is a confident alcbymist; and braggeth that the womb of his furnace hath conceived a burden that will do all the world good: which yet be desires secretly born, for fear of his own bondage: in the mean time, his glass breaks; yet he, upon better luting, lays wagers of the success, and promiseth wedges beforehand to his friend.  He saith, "I
-will sin, and be sorry, and escape: either God will not see, or not be angry, or not punish it, or remit the measure: if I do well, he is just to reward; if ill, he is merciful to forgive." Thus his praises wrong God, no less than his offence; and hurt himself, no less than they wrong God. Any pattern is enough to encourage him: show him the way where any foot hath trod, he dare follow, although he see no steps returning: what if a thousand have attempted, and miscarried; if but one have prevailed, it sufficeth.  He suggests to himself false hopes of never too late; as if he could command either time or repentance: and dare defer the expectation of mercy till betwixt the bridge and the water.  Give him but where to set his foot, and he will remove the earth.  He foreknows the mutations of states, the events of war, the temper of the seasons: either his old prophecy tells it him, or his stars.  Yea, he is no stranger to the records of God's secret counsel; but he turns them over, and copies them out at pleasure.  I know not whether, in all his enterprises, he show less fear or wisdom: no man promises himself more, no man more believes himself. "I will go, and sell; and return, and purchase; and spend, and leave my sons such estates:" all which if it succeed, he thanks himself; if not, he blames not himself. His purposes are measured, not by his ability, but his will; and his actions by his purposes.  Lastly, he is ever credulous in assent; rash in undertaking; peremptory in resolving; witless in proceeding; and in his ending, miserable; which is never other, than either the laughter of the wise or the pity of fools. 
-The distrustful+.
+HE is neither well, full nor fasting; and though he abound with
+complaints, yet nothing dislikes him but the present; for what he
+condemned while it was, once past he magnifies, and strives to recall
+it out of the jaws of time.  What he hath, he seeth not; his eyes are
+so taken up with what he wants: and what he sees, he cares not for;
+because be cares so much for that which is not.  When his friend
+carves him the best morsel, he murmurs, "That it is a happy feast
+wherein each one may cut for himself." When a present is sent him, he
+asks, "Is this all?" and "What! no s. better?" and so accepts it as if
+he would have his friend know how much he is bound to him for
+vouchsafing to receive it: it is hard to entertain him with a
+proportionable gift: if nothing, he cries out of unthankfulness; if
+little, that he is basely regarded; if much, he exclaims of flattery
+and expectation of a large requital. {benefits+} Every blessing hath
+somewhat to disparage and distaste it; children bring cares; single
+life is wild and solitary; eminency is envious; retiredness, obscure;
+fasting, painful; satiety, unwieldy; religion, nicely severe; liberty
+is lawless; wealth burdensome; mediocrity contemptible: every thing
+faulteth either in too much or too little.  This man is ever
+headstrong and self-willed; neither is he always tied to esteem or
+pronounce according to reason; some things be must dislike, he knows
+not wherefore, but he likes them not; and otherwhere, rather than not
+censure, he will accuse a man of virtue.  Every thing he meddleth
+with, he either findeth imperfect or maketh so; neither is there any
+thing that soundeth so harsh in his ear as the commendation of
+another; whereto yet perhaps he fashionably and coldly assenteth, but
+with such an afterclause of exception as doth more than mar his former
+allowance; and if he list not to give a verbal disgrace, yet he shakes
+his head and smiles, as if his silence should say, "I could, and will
+not." And when himself is praised without excess, he complains that
+such imperfect kindness hath not done him right.  If but an
+unseasonable shower cross his recreation, he is ready to fall out with
+Heaven; and thinks he is wronged if God will not take his times, when
+to rain, when to shine.  He is a slave to envy, and loseth flesh with
+fretting, not so much at his own infelicity as at others' good;
+neither hath he leisure to joy in his own blessings, whilst another
+prospereth.  Fain would he see some mutinies, but dares not raise
+them, and suffers his lawless tongue to walk through the dangerous
+paths of conceited alterations; but so, as, in good manners, he had
+rather thrust every man before him when it comes to acting.  Nothing
+but fear keeps him from conspiracies, and no man is more cruel when he
+is not manacled with danger.  He speaks nothing but satires and
+libels, and lodgeth no guests in his heart but rebels.  The inconstant
+and he agree well in their felicity, which both place in change; but
+herein they differ, the inconstant man affects that which will be, the
+malecontent commonly that which was.  Finally, he is a querulous cur,
+whom no horse can pass by without barking at; yea, in the deep silence
+of night, the very moonshine openeth his clamorous mouth; he is the
+wheel of a well couched firework, that flies out on all sides, not
+without scorching itself. Every ear was long ago weary of him, and he
+is now almost weary of himself: give him but a little respite, and he
+will die alone; of no other death than others' welfare.  The
+unconstant+.
 
 
-THE distrustful man hath his heart in his eyes or in his hand; nothing is sure to him but what he sees, what he handles. He is either very simple or very false; and therefore believes not others, because he knows how little himself is worthy of belief.  In spiritual things, either God must leave a pawn with him, or seek some other creditor.  All absent things, and unusual, have no other but a conditional entertainment: they are strange, if true.  If he see two neighbours whisper in his presence, he bids them speak out; and charges them to say no more than they can justify. When he hath committed a message to his servant, he sends a second after him, to listen how it is delivered.  He is his own secretary, and of his own counsel, for what he hath, for what he purposeth; and when he tells over his bags looks
-through the keyhole, to see if he have any hidden witness, and asks aloud, "Who is there?" when no man hears him.  He borrows money when he needs not, for fear lest others should borrow of him.  He is ever timorous and cowardly, and asks every man's errand at the door ere he opens.  After his first sleep, he starts up, and asks if the farthest gate were barred; and, out of a fearful sweat, calls up his servant, and bolts the door after him; and then studies, whether it were better to lie still and believe, or rise and see.  Neither is his heart fuller of fears, than his head of strange projects and farfetched constructions: " What means the state, think you, in such an action; and whither tends this course?  Learn of me, if you know not: the ways of deep policies are secret, and full of unknown windings: that is tbeir act; this will be their issue:" so casting beyond the moon, he makes wise and just proceedings suspected.  In all his predictions and imaginations, he ever lights upon the worst: not what is most likely will fall out, but what is most ill.  There is nothing that he takes not with the left hand; no text which his gloss corrupts not.  Words, oaths, parchments, seals, are but broken reeds: these shall never deceive him: he loves no payments but real.  If but one in an age have miscarried, by a rare casualty, he misdoubts the same event.  If but a tile fallen from a high roof have brained a passenger, or the breaking of a coach wheel have endangered the burden; he swears he will keep home, or take him to his horse.  He dares not come to church, for fear of the crowd; nor spare the sabbath's labour, for fear of want; nor come near the parliament house, because it should have been blown up: what might have been affects him as much as what will be.  Argue, vow, protest, swear; he hears thee, and believes himself.  He is a sceptic; and dare hardly give credit to his senses, which he hath often arraigned of false intelligence. He so lives, as if he thought all the world were thieves, and were not sure whether himself were one.  He is uncharitable in his censures; unquiet in his fears: had enough always; but, in his own opinion, much worse than he is. 
-The ambitious+.
+THE inconstant man treads upon a moving earth, and keeps no pace.  His
+proceedings are ever heady and peremptory: for he hath not the
+patience to consult with reason+, but determines merely uponfancy+.
+No man is so hot in the pursuit of what he liketh, no man sooner
+weary.  He is fiery in his passions, which yet are not more violent
+than momentary: it is a wonder if his love or hatred last so many days
+as a wonder.  His heart is the inn of all good motions; wherein if
+they lodge for a night, it is well: by morning they are gone, and take
+no leave; and if they come that way again, they are entertained as
+guests, not as friends.  At first like another Ecebolius, he loved
+simple truth: thence diverting his eyes, he fell in love with
+idolatry; those heathenish shrines had never any more doting and
+besotted client; and now of late he is leaped from Rome to Munster,
+and is grown to giddy anabaptism.  What he will be next, as yet he
+knoweth not; but ere he have wintered his opinion, it will be
+manifest.  He is good to make an enemy of; ill, for a friend: because,
+as there is no trust in his affection, so no rancour in his
+displeasure.  The multitude of his changed purposes brings with it
+forgetfulness; and not of others more than of himself. He says,
+swears, renounces; because, what he promised, he meant not long enough
+to make an impression.  Herein alone he is good for a commonwealth,
+that he sets many on work, with building, ruining, altering; and makes
+more business than time itself: neither is he a greater enemy to
+thrift than to idleness.  Propriety is to him enough cause of dislike;
+each thing pleases him better that is not his own.  Even in the best
+things long continuance is a just quarrel: manna itself grows tedious
+with age; and novelty is the highest style of commendation to the
+meanest offers: neither doth he in books and fashions ask, "How good?"
+but, "How new?" Variety carries him away with delight; and no uniform
+pleasure can be without an irksome fulness.  He is so transformable
+into all opinions, manners, qualities, that he seems rather made
+immediately of the first matter, than of well tempered elements; and
+therefore is, in possibility, any thing or every thing; nothing, in
+present substance.  Finally, he is servile, in imitation; waxy, to
+persuasions; witty, to wrong himself; a guest, in his own house; an
+ape of others; and, in a word, any thing rather than
+himself. {integrity+} The flatterer+.
 
-AMBITIONN is a proud covetousness; a dry thirst of honour; the longing disease of reason; an aspiring and gallant madness.  The ambitiousl climbs up high and perilous stairs, and never cares how to come down: the desire of rising hath swallowed up his fear of a fall.  Having once cleaved, like a burr, to some great man's coat,
-he resolves not to be shaken off with any small indignities; and finding his hold thoroughly fast, casts how to insinuate yet nearer: and therefore he is busy and servile in his endeavours to please, and all his officious respect turns home to himself.  He can be at once a slave, to command; an intelligencer, to inform; a parasite, to soothe and flatter; a champion to defend; an executioner, to revenge: any thing for an advantage of favour. He hath projected a plot to rise, and woe be to the friend that stands in his way.  He still haunteth the court, and his unquiet spirit haunteth him; which, having fetched him from the secure peace of his country rest, sets him new and impossible tasks; and, after many disappointments, encourages him to try the same sea in spite of his shipwrecks, and promises better success: a small hope gives him heart against great difficulties, and draws on new expense, new servility; persuading him, like foolish boys, to shoot away a second shaft, that be may find the first: {Bassanio+} he yieldeth; and now, secure of the issue, applauds himself in that honour which be still affecteth, still misseth; and, for the last of all trials, will rather bribe for a troublesome preferment than return void of a title: but now, when he finds himself desperately crossed, and at once spoiled both of advancement and hope, both of fruition and possibility all his desire is turned into rage; his thirst is now only of revenge; {Iago+} his tongue sounds of nothing but detraction and slander: now, the place he sought for is base, his rival unworthy, his adversary injurious, officers corrupt, court infectious; and how well is he, that may be his own man, his own master; that may live safely in a mean distance at pleasure, free from starving, free from burning! but if his designs speed well, ere be be warm in that seat, his mind is possessed of an higher: {Macbeth+} what he hath, is but a degree to what he would have: now, be scorneth what he formerly aspired to; his success doth not give him so much contentment as provocation; neither can he be at rest, so long as he hath one either to overlook, or to match, or to emulate him.  When his country friend comes to visit him, he carries him up to the awful presence: and now, in his sight, crowding nearer to the chair of state, desires to be looked on, desires to be spoken to by the greatest; and studies how to offer an occasion, lest he should seem unknown, unregarded; and if any gesture of the least grace fall happily upon him, be looks back upon his friend, lest he should carelessly let it pass without a note: and what he wanteth in sense he supplies in history.  His disposition is never but
-shamefully unthankful; for unless he have all, be hath nothing.  It must be a large draught whereof he will not say, that those few drops do not slake, but inflame him: so still he thinks himself the worse for small favours.  His wit so contrives the likely plots of his promotion, as if be would steal it away without God's knowledge, besides his will: neither doth be ever look up and consult in his forecasts with the Supreme Moderator of all things; as one that thinks honour is ruled by fortune, and that heaven meddleth not with the disposing of these earthly lots: and therefore it is just with that wise God to defeat his fairest hopes, and to bring him to a loss in the hottest of his chase; and to cause honour to fly away so much the faster, by how much it is more eagerly pursued.  Finally, he is an importunate suitor; a corrupt client; a violent undertaker; a smooth factor, but untrusty; a restless master of his own; a bladder puffed up with the wind of hope and selflove: he is in the common body as a mole in the earth, ever unquietly casting; and, in one word, is nothing but a confused heap of envy, pride, covetousness. 
+FLATTERY is nothing, but false friendship, {Lear+} fawning hypocrisy,
+dishonest civility, base merchandise of words, a plausible discord of
+the heart and lips.  The flatterer is blear-eyed to ill, and cannot
+see vices; and his tongue walks ever in one track of unjust praises,
+and can no more tell how to discommend than to speak true.  His
+speeches are full of wondering interjections, and all his titles are
+superlative; and both of them seldom ever but in presence.  His base
+mind is well matched with a mercenary tongue, which is a willing slave
+to another man's ear; neither regardeth he how true, but how pleasing.
+His art is nothing but delightful cozenage; whose rules are smoothing
+and guarded with perjury; whose scope is, to make men fools in
+teaching them to overvalue themselves, and to tickle his friends to
+death.  This man is a porter of all good tales, and mends them in the
+carriage; one of fame's best friends, and his own; that helps to
+furnish her with those rumours that may advantage himself. Conscience
+hath no greater adversary; for when she is about to play her just part
+of accusation, he stops her mouth with good terms: and well-near
+strangleth her with shifts.  Like that subtle fish, he turns himself
+into the colour of every stone for a booty. {Oswald+} In himself he is
+nothing, but what pleaseth his great one; whose virtues he cannot more
+extol than imitate his imperfections, that he may think his worst
+graceful: let him say it is hot, he wipes his forehead, and unbraceth
+himself; if cold, he shivers, and calls for a warmer garment.  When he
+walks with his friend, he swears to him that no man else is looked at;
+no man talked of; and that, whomsoever he vouchsafes to look on and
+nod to is graced enough: that he knows not his own worth, lest he
+should be too happy; and when he tells what others say in his praise,
+he interrupts himself modestly, and dares not speak the rest: so his
+concealment is more insinuating than his speech. {Iago+} {Edmund+} He
+hangs upon the lips which he admireth, as if they could let fall
+nothing but oracles; and finds occasion to cite some approved
+sentence, under the name he honoureth; and when augbt is nobly spoken,
+both his hands are little enough to bless him.  Sometimes, even in
+absence, he extolleth his patron, where he may presume of safe
+conveyance to his ears; and in presence so whispereth his commendation
+to a common friend, that it may not be unheard where he meant it.  He
+hath salves for every sore, to hide them, not to heal them; complexion
+for every face. {Oswald+} Sin hath not any more artificial broker, or
+more impudent bawd.  There is no vice that hath not from him his
+colour, his allurement; and his best service is either to further
+guiltiness or smother it.  If he grant evil things inexpedient, or
+crimes errors, he hath yielded much: either thy estate gives privilege
+of liberty, or thy youth; or if neither, "What if it be ill, yet it is
+pleasant!" [H]onesty to him is nice singularity; repentance,
+superstitious melancholy; gravity, dulness; and all virtue, an
+innocent conceit of the base- minded.  In short, he is the moth of
+liberal men's coats; the earwig of the mighty; the bane of courts; a
+friend and a slave to the trencher; and good for nothing but to be a
+factor for the devil.  The slothful+.
+
+
+HE is a religious man, and wears the time in his cloister; and, as the
+cloak of his doing nothing, pleads contemplation: yet is he no whit
+the leaner for his thoughts; no whit learneder.  He takes no less care
+how to spend time, than others how to gain by the expense; and when
+business importunes him, is more troubled to forethink what he must
+do, than another to effect it.  Summer is out of his favour for
+nothing but long days, that make no haste to their even.  He loves
+still to have the sun witness of his rising; and lies long, more for
+loathness to dress him than will to sleep: and after some stretching
+and yawning, calls for dinner unwashed; which having digested with a
+sleep in his chair, he walks forth to the bench in the market-place,
+and looks for companions: whomsoever he meets, he stays with idle
+questions and lingering discourse: how the days are lengthened; how
+kindly the weather is; how false the clock; how forward the spring;
+and ends ever with, "What shall we do?" It pleases him no less to
+hinder others, than not to work himself.  When all the people are gone
+from church, he is left sleeping in his seat alone.  He enters bonds,
+and forfeits them by forgetting the day; and asks his neighbour when
+his own field was fallowed, whether the next piece of ground belong
+not to himself.  His care is either none, or too late; when winter is
+come, after some sharp visitations, he looks on his pile of wood, and
+asks how much was cropped the last spring.  Necessity drives him to
+every action; and what he cannot avoid he will yet defer.  Every
+change troubles him, although to the better; and his dulness
+counterfeits a kind of contentment.  When he is warned on a jury, he
+had rather pay the mulct than appear.  All but that which nature will
+not permit, he doth by a deputy: and counts it troublesome to do
+nothing; but, to do any thing, yet more.  He is witty in nothing but
+framing excuses to sit still; which, if the occasion yield not, he
+coineth with ease.  There is no work that is not either dangerous or
+thankless; and whereof he foresees not the inconvenience and
+gainlessness before he enters: which if it be verified in event, his
+next idleness hath found a reason to patronise it.  He had rather
+freeze than fetch wood; and chooses rather to steal than work; to beg,
+than take pains to steal; and, in many things, to want, than beg.  He
+is so loath to leave his neighbour's fire, that he is fain to walk
+home in the dark; and if he be not looked to, wears out the night in
+the chimney corner; or if not that, lies down in his clothes to save
+two labours.  He eats and prays himself asleep; and dreams of no other
+torment but work.  This man is a standing pool; and cannot choose but
+gather corruption: he is descried amongst a thousand neigbbours by a
+dry and nasty hand, that still savours of the sheet; a beard uncut,
+unkembed; an eye and ear yellow with their excretions; a coat, shaken
+on, ragged, unbrushed; by linen and face striving whether shall excel
+in uncleanness. For body, he hath a swollen leg, a dusky and swinish
+eye, a blown cheek, a drawling tongue, a heavy foot, and is nothing
+but a colder earth moulded with standing water: to conclude, is a man
+in nothing but in speech and shape.  The covetous+.
+
+
+HE is a servant to himself; yea, to his servant: and doth base homage
+to that which should be the worst drudge.  A lifeless piece of earth
+is his master; yea, his god: which he shrines in his coffer, and to
+which he sacrifices his heart.  Every face of his coin is a new image,
+which he adores with the highest veneration; yet takes upon him to be
+protector of that he worshippeth: which he fears to keep, and abhors
+to lose; not daring to trust+ either any other god or his own.  Like a
+true chemist, he turns every thing into silver; both what he should
+eat, and what he should wear: and that he keeps to look on, not to
+use.  When he returns from his field, he asks, not without much rage,
+what became of the loose crust in his cupboard, and who hath rioted
+amongst his leeks.  He never eats good meal, but on his neighbour's
+trencher; and there he makes amends to his complaining stomach for his
+former and future fasts. He bids his neighbours to dinner, and when
+they have done, sends in a trencher for the shot.  Once in a year,
+perhaps, he gives himself leave to feast; and, for the time, thinks no
+man more lavish; wherein he lists not to fetch his dishes from far;
+nor will he beholden to the shambles: his own provision shall furnish
+his board with an insensible cost; and when his guests are parted,
+talks how much every man devoured, and how many cups were emptied; and
+feeds his family with the mouldy remnants a month after.  If his
+servant break but an earthen dish for want of light, he abates it out
+of his quarter's wages.  He chips his bread, and sends it back to
+exchange for staler. {Shylock+} He lets money, and sells time for a
+price; and will not be importuned, either to prevent or defer his day;
+and in the mean time looks for secret gratuities, besides the main
+interest, which he sells and returns into the stock.  He breeds of
+money to the third generation, neither hath it sooner any being than
+he sets it to beget more.  In all things he affects secresy and
+propriety: he grudgeth his neighbour the water of his well{Cicero+};
+and, next to stealing, he hates borrowing.  In his short and unquiet
+sleeps, he dreams of thieves, and runs to the door, and names more men
+than he hath.  The least sheaf he ever culls out for tithe; and to rob
+God, holds it the best pastime, the clearest gain.  This man cries
+out, above other, of the prodigality of our times; and tells of the
+thrift of our forefathers: how that great prince thought himself
+royally attired when he bestowed thirteen shillings and four pence on
+half a suit: how one wedding gown served our grandmothers, till they
+exchanged it for a winding sheet: and praises plainness, not for less
+sin, but for less cost.  For himself, he is still known by his
+forefathers' coat; which he means, with his blessing, to bequeath to
+the many descents of his heirs.  He neither would be poor nor be
+accounted rich.  No man complains so much of want, to avoid a subsidy:
+no man is so importunate in begging, so cruel in exaction:{Shylock+}
+and when he most complains of want, he fears that which he complains
+to have.  No way is indirect to wealth, whether of fraud or violence:
+gain is his godliness, which if conscience go about to prejudice, and
+grow troublesome by exclaiming against, he is condemned for a common
+barretor.  Like another Ahab, he is sick of the next field; and thinks
+he is ill seated, while he dwells by neigbbours.  Shortiy, his
+neighbours do not much more hate him than he himself.  He cares not,
+for no great advantage, to lose his friend, pine his body, damn his
+soul: and would despatch himself when corn falls, but that he is loath
+to cast away money onl a cord.  The vainglorious+.
+
+
+ALL his humour rises up into the froth of ostentation, which, if it
+once settle, falls down into a narrow room.  If the excess be in the
+understanding part, all his wit is in print: the press hath left his
+head empty; yea, not only what he had, but what he could borrow
+without leave.  If his glory be in his devotion, be gives not an alms
+but on record; and if he have once done well, God hears of it often;
+for upon every unkindness he is ready to upbraid him with his merits.
+Over and above his own discharge, he hath some satisfactions to spare
+for the common treasure.  He can fulfil the law with ease, and earn
+God with superfluity.  If he have bestowed but a little sum in the
+glazing, paving, parieting of God's house, you shall find it in the
+church window.  Or if a more gallant humour possess him, he wears all
+his land on his back; {fop+} Sells all he has for clothes] and,
+walking high, looks over his left shoulder to see if the point of his
+rapier follow him with a grace.  He is proud of another man's horse;
+and, well-mounted, thinks every man wrongs him that looks not at him.
+A bare head in the street doth him more good than a meal's meat.  He
+swears big at an ordinary; and talks of the court with a sharp accent:
+neither vouchsafes to name any not honourable, nor those without some
+term of familiarity; and likes well to see the hearer look upon him
+amazedly, as if he said, "How happy is this man, that is so great with
+great ones!" Under pretence of seeking for a scroll of news, he draws
+out a handful of letters, indorsed with his own style to the height,
+half reading every title, passes over the latter part with a murmur;
+not without signifying what lord sent this, what great lady the other,
+and for what suits: the last paper, as it happens, is his news from
+his honourable friend in the French court.  In the midst of dinner,
+his lackey comes sweating in with a sealed note from his creditor, who
+now threatens a speedy arrest; and whispers the ill news in his
+master's ear: when he aloud names a counsellor of state, and professes
+to know the employment.  The same messenger he calls with an imperious
+nod; and after expostulation, where he hath left his fellows, in his
+ear sends him for some new spur-leathers, or stockings by this time
+footed; and when he is gone half the room, recalls him, and saith
+aloud, "It is no matter; let the greater bag alone till I come:" and
+yet again calling him closer, whispers, so that all the table may
+hear, that if his crimson suit be ready against the day, the rest need
+no haste.  He picks his teeth when his stomach is empty, and calls for
+pheasants at a common inn.  You shall find him prizing the richest
+jewels and fairest horses, when his purse yields not money enough for
+earnest.  He thrusts himself into the prease before some great ladies;
+and loves to be seen near the head of a great train.  His talk is, how
+many mourners he furnished with gowns at his father's funerals, how
+many messes; how rich his coat is, and how ancient; how great his
+alliance; what challenges he hath made and answered; what exploits he
+did at Calais or Nieuport; and when he hath commended others'
+buildings, furnitures, suits, compares them with his own.  When he
+hath undertaken to be the broker for some rich diamond, he wears it;
+and pulling off his glove, to stroke up his hair, thinks no eye should
+have any other object.  Entertaining his friend, he chides his cook
+for no better cheer; and names the disbes he meant, and wants.  To
+conclude, he is ever on the stage, and acts a still glorious part
+abroad; when no man carries a baser heart, no man is more sordid and
+careless, at home.  He is a Spanish soldier on an Italian theatre; a
+bladder full of wind, a skin full of words; a fool's wonder, and a
+wise man's fool.  The presumptuous+.
+
+
+PRESUMPTION is nothing but hope out of his wits; a high house upon
+weak pillars.  The presumptuous man loves to attempt great things,
+only because they are hard and rare; his actions are bold and
+venturous, and more full of hazard than use.  He hoisteth sail in a
+tempest, and saith, never any of his ancestors were drowned: he goes
+into an infected house, and says the plague dares not seize on noble
+blood: he runs on high battlements, gallops down steep hills, rides
+over narrow bridges, walks on weak ice, and never thinks, "What if I
+fall?" but, " What if I run over, and fall not?" He is a confident
+alcbymist; and braggeth that the womb of his furnace hath conceived a
+burden that will do all the world good: which yet be desires secretly
+born, for fear of his own bondage: in the mean time, his glass breaks;
+yet he, upon better luting, lays wagers of the success, and promiseth
+wedges beforehand to his friend.  He saith, "I will sin, and be sorry,
+and escape: either God will not see, or not be angry, or not punish
+it, or remit the measure: if I do well, he is just to reward; if ill,
+he is merciful to forgive." Thus his praises wrong God, no less than
+his offence; and hurt himself, no less than they wrong God. Any
+pattern is enough to encourage him: show him the way where any foot
+hath trod, he dare follow, although he see no steps returning: what if
+a thousand have attempted, and miscarried; if but one have prevailed,
+it sufficeth.  He suggests to himself false hopes of never too late;
+as if he could command either time or repentance: and dare defer the
+expectation of mercy till betwixt the bridge and the water.  Give him
+but where to set his foot, and he will remove the earth.  He foreknows
+the mutations of states, the events of war, the temper of the seasons:
+either his old prophecy tells it him, or his stars.  Yea, he is no
+stranger to the records of God's secret counsel; but he turns them
+over, and copies them out at pleasure.  I know not whether, in all his
+enterprises, he show less fear or wisdom: no man promises himself
+more, no man more believes himself. "I will go, and sell; and return,
+and purchase; and spend, and leave my sons such estates:" all which if
+it succeed, he thanks himself; if not, he blames not himself. His
+purposes are measured, not by his ability, but his will; and his
+actions by his purposes.  Lastly, he is ever credulous in assent; rash
+in undertaking; peremptory in resolving; witless in proceeding; and in
+his ending, miserable; which is never other, than either the laughter
+of the wise or the pity of fools.  The distrustful+.
+
+
+THE distrustful man hath his heart in his eyes or in his hand; nothing
+is sure to him but what he sees, what he handles. He is either very
+simple or very false; and therefore believes not others, because he
+knows how little himself is worthy of belief.  In spiritual things,
+either God must leave a pawn with him, or seek some other creditor.
+All absent things, and unusual, have no other but a conditional
+entertainment: they are strange, if true.  If he see two neighbours
+whisper in his presence, he bids them speak out; and charges them to
+say no more than they can justify. When he hath committed a message to
+his servant, he sends a second after him, to listen how it is
+delivered.  He is his own secretary, and of his own counsel, for what
+he hath, for what he purposeth; and when he tells over his bags looks
+through the keyhole, to see if he have any hidden witness, and asks
+aloud, "Who is there?" when no man hears him.  He borrows money when
+he needs not, for fear lest others should borrow of him.  He is ever
+timorous and cowardly, and asks every man's errand at the door ere he
+opens.  After his first sleep, he starts up, and asks if the farthest
+gate were barred; and, out of a fearful sweat, calls up his servant,
+and bolts the door after him; and then studies, whether it were better
+to lie still and believe, or rise and see.  Neither is his heart
+fuller of fears, than his head of strange projects and farfetched
+constructions: " What means the state, think you, in such an action;
+and whither tends this course?  Learn of me, if you know not: the ways
+of deep policies are secret, and full of unknown windings: that is
+tbeir act; this will be their issue:" so casting beyond the moon, he
+makes wise and just proceedings suspected.  In all his predictions and
+imaginations, he ever lights upon the worst: not what is most likely
+will fall out, but what is most ill.  There is nothing that he takes
+not with the left hand; no text which his gloss corrupts not.  Words,
+oaths, parchments, seals, are but broken reeds: these shall never
+deceive him: he loves no payments but real.  If but one in an age have
+miscarried, by a rare casualty, he misdoubts the same event.  If but a
+tile fallen from a high roof have brained a passenger, or the breaking
+of a coach wheel have endangered the burden; he swears he will keep
+home, or take him to his horse.  He dares not come to church, for fear
+of the crowd; nor spare the sabbath's labour, for fear of want; nor
+come near the parliament house, because it should have been blown up:
+what might have been affects him as much as what will be.  Argue, vow,
+protest, swear; he hears thee, and believes himself.  He is a sceptic;
+and dare hardly give credit to his senses, which he hath often
+arraigned of false intelligence. He so lives, as if he thought all the
+world were thieves, and were not sure whether himself were one.  He is
+uncharitable in his censures; unquiet in his fears: had enough always;
+but, in his own opinion, much worse than he is.  The ambitious+.
+
+AMBITIONN is a proud covetousness; a dry thirst of honour; the longing
+disease of reason; an aspiring and gallant madness.  The ambitiousl
+climbs up high and perilous stairs, and never cares how to come down:
+the desire of rising hath swallowed up his fear of a fall.  Having
+once cleaved, like a burr, to some great man's coat, he resolves not
+to be shaken off with any small indignities; and finding his hold
+thoroughly fast, casts how to insinuate yet nearer: and therefore he
+is busy and servile in his endeavours to please, and all his officious
+respect turns home to himself.  He can be at once a slave, to command;
+an intelligencer, to inform; a parasite, to soothe and flatter; a
+champion to defend; an executioner, to revenge: any thing for an
+advantage of favour. He hath projected a plot to rise, and woe be to
+the friend that stands in his way.  He still haunteth the court, and
+his unquiet spirit haunteth him; which, having fetched him from the
+secure peace of his country rest, sets him new and impossible tasks;
+and, after many disappointments, encourages him to try the same sea in
+spite of his shipwrecks, and promises better success: a small hope
+gives him heart against great difficulties, and draws on new expense,
+new servility; persuading him, like foolish boys, to shoot away a
+second shaft, that be may find the first: {Bassanio+} he yieldeth; and
+now, secure of the issue, applauds himself in that honour which be
+still affecteth, still misseth; and, for the last of all trials, will
+rather bribe for a troublesome preferment than return void of a title:
+but now, when he finds himself desperately crossed, and at once
+spoiled both of advancement and hope, both of fruition and possibility
+all his desire is turned into rage; his thirst is now only of revenge;
+{Iago+} his tongue sounds of nothing but detraction and slander: now,
+the place he sought for is base, his rival unworthy, his adversary
+injurious, officers corrupt, court infectious; and how well is he,
+that may be his own man, his own master; that may live safely in a
+mean distance at pleasure, free from starving, free from burning! but
+if his designs speed well, ere be be warm in that seat, his mind is
+possessed of an higher: {Macbeth+} what he hath, is but a degree to
+what he would have: now, be scorneth what he formerly aspired to; his
+success doth not give him so much contentment as provocation; neither
+can he be at rest, so long as he hath one either to overlook, or to
+match, or to emulate him.  When his country friend comes to visit him,
+he carries him up to the awful presence: and now, in his sight,
+crowding nearer to the chair of state, desires to be looked on,
+desires to be spoken to by the greatest; and studies how to offer an
+occasion, lest he should seem unknown, unregarded; and if any gesture
+of the least grace fall happily upon him, be looks back upon his
+friend, lest he should carelessly let it pass without a note: and what
+he wanteth in sense he supplies in history.  His disposition is never
+but shamefully unthankful; for unless he have all, be hath nothing.
+It must be a large draught whereof he will not say, that those few
+drops do not slake, but inflame him: so still he thinks himself the
+worse for small favours.  His wit so contrives the likely plots of his
+promotion, as if be would steal it away without God's knowledge,
+besides his will: neither doth be ever look up and consult in his
+forecasts with the Supreme Moderator of all things; as one that thinks
+honour is ruled by fortune, and that heaven meddleth not with the
+disposing of these earthly lots: and therefore it is just with that
+wise God to defeat his fairest hopes, and to bring him to a loss in
+the hottest of his chase; and to cause honour to fly away so much the
+faster, by how much it is more eagerly pursued.  Finally, he is an
+importunate suitor; a corrupt client; a violent undertaker; a smooth
+factor, but untrusty; a restless master of his own; a bladder puffed
+up with the wind of hope and selflove: he is in the common body as a
+mole in the earth, ever unquietly casting; and, in one word, is
+nothing but a confused heap of envy, pride, covetousness.
   
   
 
 The unthrift+.
 
 
-HE ranges beyond his pale, and lives without compass.  His expense is measured, not by ability, but will.  His pleasures are immoderate, and not honest.  A wanton eye, a liquorish tongue, a gamesome hand have impoverished him.  The vulgar sort call him bountiful; and applaud him while he spends; and recompense him with wishes when be gives, with pity when he wants: neither can it be denied that he wrought true liberality, but overwent it: no man could have lived more laudably, if, when he was at the best, he had stayed there.  While he is present, none of the wealthier guests may pay aught to the shot, without much vehemency, without danger of unkindness.  Use hath made it unpleasant to him not to spend.  He is in all things more ambitious of the title of good-fellowship than of wisdom. When be looks into the wealthy chest of his father, his conceit suggests that it cannot be emptied; and while he takes out some deal every day, he perceives not any diminution; and when the heap is sensibly abated, yet still flatters himself with enough: one hand cozens the other, and the belly deceives both.  He doth not so much bestow benefits, as scatter them: true merit doth not carry them, but smoothness of adulation.  His senses are too much his guides and his purveyors; and appetite is his steward. He is an impotent
-servant to his lusts, and knows not to govern either his mind or his purse.  Improvidence is ever the companion of unththriftiness.  This man cannot look beyond the present; and neither thinks nor cares what shall be; much less suspects what may be: and, while he lavishes out his substance in superfluities, thinks he only knows what the world is worth, and that others overprize it.  He feels poverty before he sees it; never complains till he be pinched with wants; never spares till the bottom, when it is too late either to spend or recover.  He is every man's friend save his own; and then wrongs himself most, when he courteth himself with most kindness. He vies time with the slothful; and it is an hard match, whether chases away good hours to worse purpose: the one, by doing nothing; the other, by idle pastime.  He hath so dilated himself with the beams of prosperity, that he lies open to all dangers; and cannot gather up himself, on just warning, to avoid a mischief.  He were good for an almoner, ill for a steward. Finally, he is the living tomb of his forefathers, of his posterity; and when he hath swallowed both, is more empty than before he devoured them. 
-The envious+.
+HE ranges beyond his pale, and lives without compass.  His expense is
+measured, not by ability, but will.  His pleasures are immoderate, and
+not honest.  A wanton eye, a liquorish tongue, a gamesome hand have
+impoverished him.  The vulgar sort call him bountiful; and applaud him
+while he spends; and recompense him with wishes when be gives, with
+pity when he wants: neither can it be denied that he wrought true
+liberality, but overwent it: no man could have lived more laudably,
+if, when he was at the best, he had stayed there.  While he is
+present, none of the wealthier guests may pay aught to the shot,
+without much vehemency, without danger of unkindness.  Use hath made
+it unpleasant to him not to spend.  He is in all things more ambitious
+of the title of good-fellowship than of wisdom. When be looks into the
+wealthy chest of his father, his conceit suggests that it cannot be
+emptied; and while he takes out some deal every day, he perceives not
+any diminution; and when the heap is sensibly abated, yet still
+flatters himself with enough: one hand cozens the other, and the belly
+deceives both.  He doth not so much bestow benefits, as scatter them:
+true merit doth not carry them, but smoothness of adulation.  His
+senses are too much his guides and his purveyors; and appetite is his
+steward. He is an impotent servant to his lusts, and knows not to
+govern either his mind or his purse.  Improvidence is ever the
+companion of unththriftiness.  This man cannot look beyond the
+present; and neither thinks nor cares what shall be; much less
+suspects what may be: and, while he lavishes out his substance in
+superfluities, thinks he only knows what the world is worth, and that
+others overprize it.  He feels poverty before he sees it; never
+complains till he be pinched with wants; never spares till the bottom,
+when it is too late either to spend or recover.  He is every man's
+friend save his own; and then wrongs himself most, when he courteth
+himself with most kindness. He vies time with the slothful; and it is
+an hard match, whether chases away good hours to worse purpose: the
+one, by doing nothing; the other, by idle pastime.  He hath so dilated
+himself with the beams of prosperity, that he lies open to all
+dangers; and cannot gather up himself, on just warning, to avoid a
+mischief.  He were good for an almoner, ill for a steward. Finally, he
+is the living tomb of his forefathers, of his posterity; and when he
+hath swallowed both, is more empty than before he devoured them.  The
+envious+.
 
-HE feeds on others' evils, and hath no disease but his neighbours' welfare: whatsoever God do for him, he cannot be happy with company; and if he were put to choose whether he would rather have equals in a common felecity, or superiors in misery, he would demur upon the election.  His eye casts out too much, and never returns home but to make comparisons with another's good.  He is an ill prizer of foreign commodity; worse, of his own: for that he rates too high; this, under value.  You shall have him ever inquiring into the estates of his equals and betters; wherein he is not more desirous to hear all, than loath to hear any thing over good: and if just report relate aught better than he would, he redoubles the question, as being hard to believe what he likes not; and hopes yet, if that be averred again to his grief, that there is somewhat concealed in the relation, which if it were known would argue the commended party miserable, and blemish him with secret shame.  He is ready to quarrel with God, because the next field is fairer grown; and angrily calculates his cost and time and tillage.  Whom he dares not openly backbite nor wound with a direct censure, he strikes smoothly, with an overecold praise: and when he sees that he must either maliciously oppugn the just praise of another (which were unsafe), or approve
-it by assent, he yieldeth; but shows withal, that his means were such, both by nature and education, that he could not, without much neglect, be less commendable: so his happiness shall be made the colour of detraction.  When an wholesome law is propounded, he crosseth it, either by open or close opposition; not for any incommodity or inexpedience, but because it proceeded from any mouth besides his own: and it must be a cause rarely plausible that will not admit some probable contradiction.  When his equal should rise to honour, he strives against it, unseen; and rather, with much cost, suborneth great adversaries: and when he sees his resistance vain, he can give an hollow gratulation in presence; but in secret disparages that advancement: either the man is unfit for the place, or the place for the man; or if fit, yet less gainful, or more common than opinion: whereto he adds, that himself might have had the same dignity upon better terms, and refused it.  He is witty in devising suggestions to bring his rival, out of love, into suspicion: {Iago+} {Edmund+} if he be courteous, he is seditiously popular; if bountiful, he binds over his clients to a faction; if successful in war, he is dangerous in peace; if wealthy, he lays up for a day; if powerful, nothing wants but opportunity of rebellion.  His submission is ambitious hypocrisy; his religion, politic insinuation: no action is safe from a jealous construction.  When he receives an ill report of him whom he emulates, he saith, "Fame is partial, and is wont to blanch mischiefs;" and pleaseth himself with hope to find it worse: and if ill-will have dispersed any more spiteful narration, he lays hold on that, against all witnesses; and broacheth that rumour for truest, because worst: and when he sees him perfectly miserable, he can at once pity him and rejoice.  What himself cannot do, others shall not: he hath gained well, if he have hindered the success of what he would have done, and could not.  He conceals his best skill, not so as it may not be known that he knows it, but so as it may not be learned; because he would have the world miss him.  He attained to a sovereign medicine by the secret legacy of a dying empiric; whereof he will leave no heir, lest the praise should be divided.  Finally, he is an enemy to God's favours, if they fall beside himself; the best nurse of ill fame; a man of the worst diet, for he consumes himself, and delights in pining; a thorn hedge, covered with nettles; a peevish interpreter of good things; and no other than a lean and pale carcass quickened with a fiend.
+HE feeds on others' evils, and hath no disease but his neighbours'
+welfare: whatsoever God do for him, he cannot be happy with company;
+and if he were put to choose whether he would rather have equals in a
+common felecity, or superiors in misery, he would demur upon the
+election.  His eye casts out too much, and never returns home but to
+make comparisons with another's good.  He is an ill prizer of foreign
+commodity; worse, of his own: for that he rates too high; this, under
+value.  You shall have him ever inquiring into the estates of his
+equals and betters; wherein he is not more desirous to hear all, than
+loath to hear any thing over good: and if just report relate aught
+better than he would, he redoubles the question, as being hard to
+believe what he likes not; and hopes yet, if that be averred again to
+his grief, that there is somewhat concealed in the relation, which if
+it were known would argue the commended party miserable, and blemish
+him with secret shame.  He is ready to quarrel with God, because the
+next field is fairer grown; and angrily calculates his cost and time
+and tillage.  Whom he dares not openly backbite nor wound with a
+direct censure, he strikes smoothly, with an overecold praise: and
+when he sees that he must either maliciously oppugn the just praise of
+another (which were unsafe), or approve it by assent, he yieldeth; but
+shows withal, that his means were such, both by nature and education,
+that he could not, without much neglect, be less commendable: so his
+happiness shall be made the colour of detraction.  When an wholesome
+law is propounded, he crosseth it, either by open or close opposition;
+not for any incommodity or inexpedience, but because it proceeded from
+any mouth besides his own: and it must be a cause rarely plausible
+that will not admit some probable contradiction.  When his equal
+should rise to honour, he strives against it, unseen; and rather, with
+much cost, suborneth great adversaries: and when he sees his
+resistance vain, he can give an hollow gratulation in presence; but in
+secret disparages that advancement: either the man is unfit for the
+place, or the place for the man; or if fit, yet less gainful, or more
+common than opinion: whereto he adds, that himself might have had the
+same dignity upon better terms, and refused it.  He is witty in
+devising suggestions to bring his rival, out of love, into suspicion:
+{Iago+} {Edmund+} if he be courteous, he is seditiously popular; if
+bountiful, he binds over his clients to a faction; if successful in
+war, he is dangerous in peace; if wealthy, he lays up for a day; if
+powerful, nothing wants but opportunity of rebellion.  His submission
+is ambitious hypocrisy; his religion, politic insinuation: no action
+is safe from a jealous construction.  When he receives an ill report
+of him whom he emulates, he saith, "Fame is partial, and is wont to
+blanch mischiefs;" and pleaseth himself with hope to find it worse:
+and if ill-will have dispersed any more spiteful narration, he lays
+hold on that, against all witnesses; and broacheth that rumour for
+truest, because worst: and when he sees him perfectly miserable, he
+can at once pity him and rejoice.  What himself cannot do, others
+shall not: he hath gained well, if he have hindered the success of
+what he would have done, and could not.  He conceals his best skill,
+not so as it may not be known that he knows it, but so as it may not
+be learned; because he would have the world miss him.  He attained to
+a sovereign medicine by the secret legacy of a dying empiric; whereof
+he will leave no heir, lest the praise should be divided.  Finally, he
+is an enemy to God's favours, if they fall beside himself; the best
+nurse of ill fame; a man of the worst diet, for he consumes himself,
+and delights in pining; a thorn hedge, covered with nettles; a peevish
+interpreter of good things; and no other than a lean and pale carcass
+quickened with a fiend.
 
