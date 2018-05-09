@@ -296,3 +296,11 @@
   (delete-blank-lines)
   (previous-line)
   (delete-blank-lines))
+
+(defun remove-line-james-1 ()
+  (interactive)
+  (remove-line-beginning-with
+   "<.*>\\|\\[.*\\]")
+  (delete-blank-lines)
+  (previous-line)
+  (delete-blank-lines))
