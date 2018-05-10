@@ -1,6 +1,7 @@
 (ns stl-website.views.home
   (:require
-   [stl-website.views.template :as template]))
+   [stl-website.views.template :as template]
+   [stl-website.config :refer [*root-path*]]))
 
 
 (defn p-home [ctx]
@@ -14,10 +15,13 @@
       [:div.section-title "Recommended Online Texts"]
       [:div.section-container
        [:ul
-        [:li [:a {:href "/marcus-aurelius/meditations/book-two/"}"Meditations by Marcus Aurelius"]]
-        [:li [:a {:href "/epictetus/the-enchiridion/full-text/"} "The Enchiridion by Epictetus"]]
-        [:li [:a {:href "/seneca/epistles/volume-one/"} "Senecas's Epistles"]]]
-       [:span.bottom-link [:a {:href "/texts.html"} "See all Online Texts"]]]]
+        [:li [:a {:href (str *root-path* "/marcus-aurelius/meditations/book-two/")}
+              "Meditations by Marcus Aurelius"]]
+        [:li [:a {:href (str *root-path* "/epictetus/the-enchiridion/full-text/")}
+              "The Enchiridion by Epictetus"]]
+        [:li [:a {:href (str *root-path* "/seneca/epistles/volume-one/")}
+              "Senecas's Epistles"]]]
+       [:span.bottom-link [:a {:href (str *root-path* "/texts.html")} "See all Online Texts"]]]]
 
      [:div.section-parent
       [:div.section-title "Recommended Books"]
