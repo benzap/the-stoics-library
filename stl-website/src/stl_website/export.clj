@@ -3,7 +3,7 @@
    [clojure.string :as string]
    [stasis.core :as stasis]
    [me.raynes.fs :as fs]
-   [stl-website.routes.main :refer [main-pages]]
+   [stl-website.www :refer [get-pages]]
    [stl-website.config :refer [*root-path*]]))
 
 
@@ -23,7 +23,7 @@
 
 (defn production-pages []
   (binding [*root-path* new-root-path]
-    (-> (main-pages) filter-compiled-js)))
+    (-> (get-pages) filter-compiled-js)))
 
 
 (defn empty-export-directory! [path]
