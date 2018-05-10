@@ -46,14 +46,28 @@
           (include-js "/js/compiled/stl-website.js")]))
 
 
+(defn menu-item [name url]
+  [:div.menu-item [:a {:href url} name]])
+
+
 (defn main [title & content]
   (skeleton
    title
    [:div.body-container
-    [:div.header-container "Header"]
+    [:div.header-container
+     [:div.header-title "The Stoics Library"]
+     [:div.header-nav
+      (menu-item "Home" "/index.html")
+      (menu-item "About" "/about.html")
+      (menu-item "Principles of Stoicism" "/principles_of_stoicism.html")
+      (menu-item "Online Texts" "/texts.html")
+      (menu-item "Other Resources" "/other_resources.html")]]
     [:div.content-container
-      content]
-    [:div.footer-container "Footer"]]))
+     content]
+    [:div.footer-container
+     [:div.acknowledgement "Several text resources can be credited to "
+      [:a {:href "http://stoics.com"} "stoics.com"] " and "
+      [:a {:href "http://classics.mit.edu"} "classics.mit.edu"]]]]))
     
    
    
