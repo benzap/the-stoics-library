@@ -4,7 +4,8 @@
    [clj-time.core :as t]
    [clj-time.format :as f]
    [cuerdas.core :as str]
-   [garden.core :refer [style]]))
+   [garden.core :refer [style]]
+   [stl-website.config :refer [*root-path*]]))
 
 
 (defn skeleton [title & content]
@@ -39,11 +40,11 @@
           ;; CSS Stylesheets
           (include-css "https://fonts.googleapis.com/css?family=Merriweather:400,700")
           (include-css "https://fonts.googleapis.com/css?family=Roboto")
-          (include-css "/css/compiled/stl-website.css")]
+          (include-css (str *root-path* "/css/compiled/stl-website.css"))]
 
          [:body
           (apply list content)
-          (include-js "/js/compiled/stl-website.js")]))
+          (include-js (str *root-path* "/js/compiled/stl-website.js"))]))
 
 
 (defn menu-item [name url]
@@ -57,10 +58,10 @@
     [:div.header-container
      [:div.header-title "The Stoics Library"]
      [:div.header-nav
-      (menu-item "Home" "/index.html")
+      (menu-item "Home" (str *root-path* "/index.html"))
       ;;(menu-item "About" "/about.html")
       ;;(menu-item "Principles of Stoicism" "/principles_of_stoicism.html")
-      (menu-item "Online Texts" "/texts.html")]]
+      (menu-item "Online Texts" (str *root-path* "/texts.html"))]]
       ;;(menu-item "Other Resources" "/other_resources.html")]]
     [:div.content-container
      content]

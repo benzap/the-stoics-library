@@ -3,10 +3,12 @@
    [clojure.string :as string]
    [stasis.core :as stasis]
    [me.raynes.fs :as fs]
-   [stl-website.routes.main :refer [main-pages]]))
+   [stl-website.routes.main :refer [main-pages]]
+   [stl-website.config :refer [*root-path*]]))
 
 
 (def export-directory "../dist_website")
+(def new-root-path "/the-stoics-library")
 
 
 (defn is-compiled-js? [path]
@@ -19,8 +21,9 @@
        (into {})))
 
 
-(defn production-pages [] 
-  (-> (main-pages) filter-compiled-js))
+(defn production-pages []
+  (binding [*root-path* new-root-path]
+    (-> (main-pages) filter-compiled-js)))
 
 
 (defn empty-export-directory! [path]

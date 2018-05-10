@@ -4,3 +4,8 @@
 
 
 (mount/defstate config :start {:port 8080})
+
+
+(def ^:dynamic *root-path* "")
+
+;;(def ^:dynamic *root-path* "/the-stoics-library")

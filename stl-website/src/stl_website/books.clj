@@ -2,6 +2,7 @@
   (:require
    [markdown.core :as markdown]
    [stl-website.views.template :as template]
+   [stl-website.config :refer [*root-path*]]
    [cuerdas.core :as str]))
 
 
@@ -170,7 +171,8 @@
            [:div.series-content
             (for [book-content (sort-by :number series-content)]
               [:div.book-listing
-               [:a {:href (generate-book-url book-content)} (:title book-content)]])]])])]]))
+               [:a {:href (str *root-path* (generate-book-url book-content))}
+                (:title book-content)]])]])])]]))
 
 
 (defn generate-books []
