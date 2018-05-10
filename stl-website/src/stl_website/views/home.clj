@@ -6,7 +6,7 @@
 (defn p-home [ctx]
   (template/main
    "Home"
-   [:div "Home Page2"]))
+   [:h1 "Home Page"]))
 
 
 ;;(p-home)

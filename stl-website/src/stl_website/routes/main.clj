@@ -3,4 +3,4 @@
    [stl-website.views.home :refer [p-home]]))
 
 
-(def pages {"/index.html" p-home})
+(defn main-pages [] {"/index.html" p-home})

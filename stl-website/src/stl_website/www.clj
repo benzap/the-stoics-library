@@ -20,14 +20,12 @@
 
 (defn get-pages []
   (merge
-   ;;(file-entry "/css/compiled/stl-website.css" "resources/public/css/compiled/stl-website.css")
-   ;;(file-entry "/js/compiled/stl-website.js" "resources/public/css/compiled/stl-website.js")
-   stl-website.routes.main/pages
+   (stl-website.routes.main/main-pages)
    (get-dev-directory-resources)))
 
 
 (def app 
-  (-> (stasis/serve-pages get-pages)
+  (-> (stasis/serve-pages #'get-pages)
       (routes (resources "/"))))
 
 

@@ -12,6 +12,8 @@
 
 (def main-stylesheet-output (str stylesheet-root stylesheet-output))
 
+(def font-serif "'Merriweather', serif")
+(def font-sans-serif "'Roboto', sans-serif")
 
 
 ;; Main CSS Stylesheet. Generates the file hsynapse.css.
@@ -19,4 +21,9 @@
   
 
   [:*
-   {:box-sizing "border-box"}])
+   {:box-sizing "border-box"}]
+
+  
+
+  [:body
+   {:font-family font-serif}])
