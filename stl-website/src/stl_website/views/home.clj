@@ -14,9 +14,9 @@
       [:div.section-title "Recommended Online Texts"]
       [:div.section-container
        [:ul
-        [:li [:a "Meditations by Marcus Aurelius"]]
-        [:li [:a "Discourses by Epictetus"]]
-        [:li [:a "Senecas's Epistles"]]]
+        [:li [:a {:href "/marcus-aurelius/meditations/book-two/"}"Meditations by Marcus Aurelius"]]
+        [:li [:a {:href "/epictetus/the-enchiridion/full-text/"} "The Enchiridion by Epictetus"]]
+        [:li [:a {:href "/seneca/epistles/volume-one/"} "Senecas's Epistles"]]]
        [:span.bottom-link [:a {:href "/texts.html"} "See all Online Texts"]]]]
 
      [:div.section-parent

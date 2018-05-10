@@ -225,6 +225,7 @@
     :padding (em 0.5)
     :padding-bottom (em 1.0)
     :border "1px solid black"
+    :border-color (rgba 140 14 14 0.3)
     :border-radius (px 3)}]
 
 
@@ -235,7 +236,6 @@
      :border-left "none"
      :border-right "none"
      :border-bottom "none"}])
-
 
 
   [:.section-parent>.section-container
@@ -253,4 +253,119 @@
    {:text-align "center"
     :width "100%"
     :padding-top (em 0.7)
-    :font-size (em 0.7)}])
+    :font-size (em 0.7)}]
+
+  ;;
+  ;; Online Texts Page
+  ;;
+
+  [:.texts-container
+   {}]
+
+
+  [:.text-listings
+   {:display "flex"
+    :flex-direction "row"
+    :justify-content "center"
+    :flex-wrap "wrap"}]
+
+
+  [:.author-listing
+   {:width (px 300)
+    :border-radius (px 3)
+    :margin (em 1.0)
+    :padding (em 0.5)
+    :padding-left (em 0.7)
+    :padding-right (em 0.7)
+    :padding-top (em 1)
+    :border-style "solid"
+    :border-width (px 1)
+    :border-color (rgba 140 14 14 0.3)}]
+
+
+  [:.author-listing>.author
+   {:text-align "center"
+    :font-family font-sans-serif
+    :font-size (em 1.2)
+    :padding-bottom (em 0.5)
+    :font-weight "bold"}]
+
+
+  [:.series-listing
+   {:display "flex"
+    :flex-direction "row"
+    :justify-content "center"}]
+
+
+  [:.series-listing>.series
+   {:padding (em 0.5)
+    :text-align "right"
+    :flex-basis (px 100)
+    :font-weight "bold"
+    :flex-grow 1}]
+
+
+  [:.series-listing>.series-content
+   {:padding (em 0.5)
+    :flex-basis (px 100)
+    :flex-grow 1}]
+
+  
+  [:.book-listing
+   {:padding-left (em 0.5)
+    :padding-bottom (em 0.5)}]
+
+
+  ;;
+  ;; Book Reader Styling
+  ;;
+
+  [:.book-container
+   {:margin (em 0.5)
+    :display "flex"
+    :flex-direction "column"
+    :align-items "center"}]
+
+
+  [:.book-container>.intro
+   {:padding (em 0.5)
+    :padding-bottom 0
+    :text-align "center"
+    :font-weight "bold"
+    :font-size (em 1.5)}]
+
+  [:.book-container>.intro>.series
+   {:font-size (em 1.5)}]
+
+  [:.book-container>.author
+   {:text-align "center"
+    :font-size (em 1)
+    :padding (em 0.5)}]
+
+
+  [:.book-container>.author>.author
+   {:font-style "italic"}]
+
+
+  [:.book-container>.content
+   {:width (px 600)}]
+
+
+  (at-media
+   {:max-width (px 600)}
+   [:.book-container>.content
+    {:width "auto"}])
+
+
+  [:.book-container>.content>p
+   {:line-height (em 1.5)
+    :text-indent (em 1)}]
+
+
+  [:.book-container>.content>h1
+   {:padding-top (em 1.2)
+    :display "block"}]
+
+  [:.book-container>.content>h2
+   {:padding-top (em 1.2)
+    :display "block"}])

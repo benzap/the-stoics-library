@@ -58,10 +58,10 @@
      [:div.header-title "The Stoics Library"]
      [:div.header-nav
       (menu-item "Home" "/index.html")
-      (menu-item "About" "/about.html")
-      (menu-item "Principles of Stoicism" "/principles_of_stoicism.html")
-      (menu-item "Online Texts" "/texts.html")
-      (menu-item "Other Resources" "/other_resources.html")]]
+      ;;(menu-item "About" "/about.html")
+      ;;(menu-item "Principles of Stoicism" "/principles_of_stoicism.html")
+      (menu-item "Online Texts" "/texts.html")]]
+      ;;(menu-item "Other Resources" "/other_resources.html")]]
     [:div.content-container
      content]
     [:div.footer-container
