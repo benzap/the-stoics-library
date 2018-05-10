@@ -18,6 +18,8 @@
                  [environ "1.1.0"]
                  [hiccup "1.0.5"]
                  [stasis "2.3.0"]
+                 [me.raynes/fs "1.4.6"]
+                 [me.raynes/conch "0.8.0"]
                  [com.rpl/specter "1.1.1"]
                  [funcool/cuerdas "2.0.5"]
                  [markdown-clj "1.0.2"]
@@ -39,6 +41,11 @@
              :css-dirs ["resources/public/css"]
              :server-logfile "log/figwheel.log"}
 
+  :aliases {"export-css" ["run" "-m" "garden-watcher.main" "stl-website.css.styles"]
+            "export-cljs" ["cljsbuild" "once" "prod"]
+            "export-resources" ["run" "-m" "stl-website.export/export-to-dist"]
+            "export" ["do" ["export-css"] ["export-resources"] ["export-cljs"]]}
+
   :cljsbuild {:builds
               [{:id "dev"
                 :source-paths ["src" "dev"]
@@ -57,11 +64,8 @@
                {:id "prod"
                 :source-paths ["src"]
                 :jar true
-                :compiler {:main hsynapse.core
-                           :output-to "resources/public/js/compiled/stl-website.js"
-                           :output-dir "target"
-                           :source-map "resources/public/js/compiled/stl-website.js.map"
-                           :source-map-timestamp true
+                :compiler {:main stl-website.core
+                           :output-to "../dist_website/js/compiled/stl-website.js"
                            :optimizations :simple
                            :pretty-print false}}]}
 
