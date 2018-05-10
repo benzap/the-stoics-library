@@ -19,5 +19,4 @@
   
 
   [:*
-
-   :box-sizing "border-box"])
+   {:box-sizing "border-box"}])

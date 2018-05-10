@@ -46,7 +46,7 @@
                            ;;:on-jsload "stl-website.dev.core/figwheel-reload-hook"}
                 :compiler {:main stl-website.core
                            :asset-path "/js/compiled/out"
-                           :output-to "resources/public/js/compiled/the-stoics-library.js"
+                           :output-to "resources/public/js/compiled/stl-website.js"
                            :output-dir "resources/public/js/compiled/out"
                            :optimizations :none
                            :pretty-print true
@@ -58,9 +58,9 @@
                 :source-paths ["src"]
                 :jar true
                 :compiler {:main hsynapse.core
-                           :output-to "resources/public/js/compiled/the-stoics-library.js"
+                           :output-to "resources/public/js/compiled/stl-website.js"
                            :output-dir "target"
-                           :source-map "resources/public/js/compiled/the-stoics-library.js.map"
+                           :source-map "resources/public/js/compiled/stl-website.js.map"
                            :source-map-timestamp true
                            :optimizations :simple
                            :pretty-print false}}]}
