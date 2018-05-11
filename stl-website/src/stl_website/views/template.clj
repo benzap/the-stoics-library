@@ -16,7 +16,7 @@
 
           ;; Viewport
           ;;"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
-          [:meta {:name "viewport" :content "width=device-width, initial-sacle=1.0"}]
+          [:meta {:name "viewport" :content "width=device-width, initial-scale=1.0"}]
 
           ;; Favicons
           ;;"<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/apple-icon-57x57.png\">"
