@@ -5325,7 +5325,7 @@ but among the Greeks it has come to be the distinguishing mark of a
 single individual.  You know that Homer is meant when you hear men say
 "the poet." What, then, is this pre-eminent Being?  God, surely, one
 who is greater and more powerful than anyone else.  The third class is
-made up of those things which exist in the proper sense of the term\c;
+made up of those things which exist in the proper sense of the term;
 they are countless in number, but are situated beyond our sight. "What
 are these?" you ask. They are Plato's own furniture, so to speak; he
 calls them "ideas," and from them all visible things are created, and

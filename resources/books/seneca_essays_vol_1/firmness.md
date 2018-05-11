@@ -50,7 +50,7 @@ rested on one man's shoulders. In an age when the old credulity had
 long been thrown aside, and knowledge had by time attained its highest
 development, he came into conflict with ambition+, a monster of many
 shapes, with the boundless greed for power which the division of the
-whole world among three men\a could not satisfy. He stood alone
+whole world among three men could not satisfy. He stood alone
 against the vices of a degenerate state that was sinking to
 destruction beneath its very weight, and he stayed the fall of the
 republic to the utmost that one man's hand could do to draw it back,
@@ -84,7 +84,7 @@ he is fortunate in possessing a common quality, one which is acquired
 from the very repetition of injuries - namely, endurance. If you say
 that he will not receive injury, that is, that no one will attempt to
 injure him, then, abandoning all other business, I am for becoming a
-Stoic."\a I assuredly did not intend to deck up the wise man with the
+Stoic." I assuredly did not intend to deck up the wise man with the
 fanciful honour of words, but to place him in the position where no
 injury may reach him. "What then?" you say; "will there be no one to
 assail him, no one to attempt it?" Nothing in the world is so sacred
@@ -122,7 +122,7 @@ and powerful in the support of their servitors, strive to injure him,
 all their assaults on wisdom will fall as short of their mark as do
 the missiles shot on high by bowstring or catapult, which though they
 leap beyond our vision, yet curve downwards this side of heaven. Tell
-me, do you suppose that when that stupid king\a darkened the day with
+me, do you suppose that when that stupid king darkened the day with
 the shower of his darts, any arrow fell upon the sun, or that he was
 able to reach Neptune when he lowered his chains into the deep? As
 heavenly things escape the hands of man and divinity suffers no harm
@@ -147,7 +147,7 @@ than insulting words. To such a pitch of absurdity have we come that
 we are harrowed not merely by pain but by the idea of pain, like
 children who are terror-stricken by darkness and the ugliness of masks
 and a distorted countenance; who are provoked even to tears by names
-that are unpleasant to their ears, by gesticulation of the fingers,\a
+that are unpleasant to their ears, by gesticulation of the fingers,
 and other things which in their ignorance they shrink from in a kind
 of blundering panic. Injury has as its aim to visit evil upon a
 person. But wisdom leaves no room for evil, for the only evil it knows
@@ -200,10 +200,10 @@ wrecking cities could snatch away nothing? Amid swords flashing on
 every side and the uproar of soldiers bent on pillage, amid flames and
 blood and the havoc of the smitten city, amid the crash of temples
 falling upon their gods, one man alone had peace. It is not for you,
-therefore, to call reckless this boast of mine\a; and if you do not
+therefore, to call reckless this boast of mine; and if you do not
 give me credence, I shall adduce a voucher for it. For you can hardly
 believe that so much steadfastness, that such greatness of soul falls
-to the lot of any man. But here is one\b who comes into our midst and
+to the lot of any man. But here is one who comes into our midst and
 says: "There is no reason why you should doubt that a mortal man can
 raise himself above his human lot, that he can view with unconcern
 pains and losses, sores and wounds, and nature's great commotions as
@@ -241,7 +241,7 @@ Serenus, that this perfect man, full of virtues human and divine, can
 lose nothing. His goods are girt about by strong and insurmountable
 defences. Not Babylon's walls, which an Alexander entered, are to be
 compared with these, not the ramparts of Carthage or Numantia, both
-captured by one man's hand,\a not the Capitol or citadel of Rome -
+captured by one man's hand, not the Capitol or citadel of Rome -
 upon them the enemy has left his marks. The walls which guard the wise
 man are safe from both flame and assault, they provide no means of
 entrance, -are lofty, impregnable, godlike. There is no reason for you
@@ -253,7 +253,7 @@ as we delineate him, and shall show him - though perchance not often,
 and after a long lapse of years only one. For greatness which
 transcends the limit of the ordinary and common type is produced but
 rarely. But this self-same Marcus Cato, the mention of whom started
-this discussion,\a I almost think surpasses even our exemplar. Again,
+this discussion, I almost think surpasses even our exemplar. Again,
 that which injures must be more powerful than that which is injured;
 but wickedness is not stronger than righteousness; therefore it is
 impossible for the wise man to be injured. Only the bad attempt to
@@ -359,7 +359,7 @@ so resolute and cheerful, for this reason he is elate with constant
 joy. So far, moreover, is he from shrinking from the buffetings of
 circumstances or of men, that he counts even injury profitable, for
 through it he finds a means of putting himself to the proof and makes
-trial of his virtue. Let us, I beseech you, be silent\a in the
+trial of his virtue. Let us, I beseech you, be silent in the
 presence of this proposition, and with impartial minds and ears give
 heed while the wise man is made exempt from injury! Nor because of it
 is aught diminished from your wantonness, or from your greediest
@@ -458,7 +458,7 @@ Campus Martius and the forum and the senate; while children rear their
 toy houses on the sea-shore with heaps of sand, these, as though
 engaged in a mighty enterprise, are busied in piling up stones and
 walls and roofs, and convert what was intended as a protection to the
-body into a menace.\a Therefore children and those who are farther
+body into a menace. Therefore children and those who are farther
 advanced in life are alike deceived, but the latter in different and
 more serious things. And so the wise man not improperly considers
 insult from such men as a farce, and sometimes, just as if they were
@@ -549,7 +549,7 @@ point. For who is not aware that none of the things reputed to be
 goods or ills appear to the wise man as they do to men at large? He
 does not regard what men consider base or wretched; he does not walk
 with the crowd, but as the planets make their way against the whirl of
-heaven,\a so he proceeds contrary to the opinion of the
+heaven, so he proceeds contrary to the opinion of the
 world. Therefore leave off saying: "Will the wise man, then, receive
 no injury if he is given a lashing, if he has an eye gouged out? Will
 he receive no insult if he is hooted through the forum by the vile
@@ -574,9 +574,9 @@ another intolerable, and restricts the greatness of his soul to
 definite bounds, does him wrong; Fortune conquers us, unless we wholly
 conquer her. Do not suppose that such austerity is Stoic
 only. Epicurus, whom you claim as the advocate of your policy of
-inaction,\a who, as you think, enjoins the course that is soft and
+inaction, who, as you think, enjoins the course that is soft and
 indolent and conducive to pleasure, has said, "Rarely does Fortune
-block the path of the wise man."\b How near he came to uttering a
+block the path of the wise man." How near he came to uttering a
 manly+ sentiment! Will you speak more heroically and clear Fortune
 from his path altogether? This house of the wise man is cramped,
 without adornment, without bustle, without pomp, is guarded by no
@@ -616,7 +616,7 @@ laugh; if several are present, we become indignant, and we do not
 allow others the liberty of saying the very things that we are in the
 habit of saying about ourselves. Jests, if restrained, amuse us; if
 unrestrained, they make us angry. Chrysippus says that a certain man
-grew indignant because someone had called him "a sea-wether."\a We saw
+grew indignant because someone had called him "a sea-wether." We saw
 Fidus Cornelius, the son-in-law of Ovidius Naso, shed tears in the
 senate, when Corbulo called him a plucked ostrich. In the face of
 other charges, damaging to his character and standing, the composure
@@ -633,7 +633,7 @@ anticipate it with a move on your part. No one becomes a
 laughing-stock who laughs at himself. It is common knowledge that
 Vatinius, a man born to be a butt for ridicule and hate, was a
 graceful and witty jester. He uttered many a jest at the expense of
-his own feet and his scarred jowls.\b So he escaped the wit of his
+his own feet and his scarred jowls. So he escaped the wit of his
 enemies - they outnumbered his afflictions - and, above all,
 Cicero's. If the man who, through constant abuse, had forgotten how to
 blush, was able, by reason of his brazen face, to do this, why should
@@ -673,7 +673,7 @@ unless you knew his deeds, was apt to stir distrust. When he asked for
 the watchword, Gaius would give him sometimes "Venus," sometimes
 "Priapus," seeking to taunt the man of arms, in one way or another,
 with wantonness. {effeminacy+} He himself, all the while, was in
-shining apparel, shod with sandals,\a and decked with gold. And so
+shining apparel, shod with sandals, and decked with gold. And so
 Chaerea was driven to use the sword in order to avoid having to ask
 for the watchword any more! Among the conspirators he was the first to
 lift his hand; it was he who with one blow severed the emperor's
@@ -683,22 +683,22 @@ appeared one. Yet this same Gaius would interpret everything as an
 insult, as is the way of those who, being most eager to offer an
 affront, are least able to endure one. He became angry at Herennius
 Macer because he addressed him as Gaius, while a centurion of the
-first maniple\b got into trouble because he said "Caligula." For in
+first maniple got into trouble because he said "Caligula." For in
 the camp, where he was born and had been the pet of the troops, this
 was the name by which he was commonly called, nor was there ever any
 other by which he was so well known to the soldiers. But now, having
-attained to boots, he considered "Little Boots"\c a reproach and
+attained to boots, he considered "Little Boots" a reproach and
 disgrace. This, then, will be our comfort: even if by reason of
 tolerance we omit revenge, some one will arise to bring the
 impertinent, arrogant, and injurious man to punish ment; for his
 offences are never exhausted upon one individual or in one insult. Let
 us turn now to the examples of those whose endurance we commend -for
 instance to that of Socrates, who took in good part the published and
-acted gibes directed against him in comedies,\a and laughed as
+acted gibes directed against him in comedies, and laughed as
 heartily as when his wife Xanthippe drenched him with foul
 water. Antisthenes was taunted with having a barbarian, a Thracian
 woman, for his mother; his retort was that even the mother of the gods
-was from Mount Ida.\b
+was from Mount Ida.
 
 Strife and wrangling we must not come near. We should flee far from
 these things, and all the provocations thereto of unthinking people -

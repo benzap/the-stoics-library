@@ -181,7 +181,77 @@
     :series "Essays Volume 1"
     :title "On Mercy"
     :number 4
-    :content (md-book-resource "seneca_essays_vol_1/mercy.md")}])
+    :content (md-book-resource "seneca_essays_vol_1/mercy.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 2"
+    :title "On Consolation"
+    :number 1
+    :content (md-book-resource "seneca_essays_vol_2/on_consolation.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 2"
+    :title "On The Happy Life"
+    :number 2
+    :content (md-book-resource "seneca_essays_vol_2/on_the_happy_life.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 2"
+    :title "On Leisure"
+    :number 3
+    :content (md-book-resource "seneca_essays_vol_2/on_leisure.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 2"
+    :title "On Tranquility of Mind"
+    :number 4
+    :content (md-book-resource "seneca_essays_vol_2/on_tranquility_of_mind.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 2"
+    :title "On Shortness of Life"
+    :number 5
+    :content (md-book-resource "seneca_essays_vol_2/on_shortness_of_life.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 3"
+    :title "On Benefits Book I"
+    :number 1
+    :content (md-book-resource "seneca_essays_vol_3/on_benefits_book_1.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 3"
+    :title "On Benefits Book II"
+    :number 2
+    :content (md-book-resource "seneca_essays_vol_3/on_benefits_book_2.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 3"
+    :title "On Benefits Book III"
+    :number 3
+    :content (md-book-resource "seneca_essays_vol_3/on_benefits_book_3.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 3"
+    :title "On Benefits Book IV"
+    :number 4
+    :content (md-book-resource "seneca_essays_vol_3/on_benefits_book_4.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 3"
+    :title "On Benefits Book V"
+    :number 5
+    :content (md-book-resource "seneca_essays_vol_3/on_benefits_book_5.md")}])
 
 
 (defn generate-book-url

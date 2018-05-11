@@ -1,0 +1,287 @@
+# BOOK VIII TO SERENUS ON LEISURE
+
+~~~~~~~~~~~~~~~~
+
+*Beginning of the essay is lost*
+
+~~~~~~~~~~~~~~~~
+
+. . . with great accord commend to us the vices.  Although we attempt
+nothing else that would be beneficial, nevertheless retirement in
+itself will do us good; we shall be better by ourselves.  And what of
+the opportunity to retire to the society of the best men, and to
+select some model by which we may direct our own lives?  But we can do
+this only in leisure. Only then is it possible for us to maintain what
+we have once resolved upon, when there is no one who can interfere and
+with the help of the crowd turn aside our decision while it is still
+weak; only then is it possible for life, in which we are now
+distracted by the most diverse aims, to progress along an even and
+single course.  For among all the rest of our ills this is the worst -
+the habit of changing our very vices.  So we do not have even the good
+fortune to persist in an evil that we already know.  We find pleasure
+first in one and then in another, and the trouble is that our choices
+are not only wrong, but also fickle.  We are tossed about and clutch
+at one thing after another; what we have sought we abandon, and what
+we have abandoned we seek again, and oscillate ever between desire and
+repentance.  For we depend wholly on the judgements of others, and
+that which the many seek and praise seems to us the best - not that
+which deserves to be sought and praised - and we do not consider
+whether the way in itself is good or bad, but the number of footprints
+it has; and none of these are of men who are coming back! You will say
+to me: "What are you doing, Seneca?  Are you deserting your party?
+Surely you Stoics say: 'We shall engage in affairs to the very end of
+life, we shall never cease to work for the common good, to help each
+and all, to give aid even to our enemies when our hand is feeble with
+age.  We are those who grant no exemption from service by reason of
+years, and, as that most gifted poet puts it,
+
+> Upon our hoary heads we thrust the helm.
+
+We are those who hold so strongly that there should be no leisure
+before death that, if circumstance permits, we take no leisure for
+death itself.' Why in the very headquarters of Zeno do you preach the
+doctrines of Epicurus?  Why, if you are tired of your party, do you
+not with all speed desert it rather than betray it?" For the present I
+shall have only this reply to make to you: "What more do you expect of
+me than that I should imitate my leaders?  And what then? I shall not
+go whither they despatch me, but whither they lead me."  {public
+service+}
+
+Right now I shall prove to you that I am not in revolt against the
+teachings of the Stoics; for they themselves have not revolted against
+their own teach- ings either.  And yet I might plead a very good
+excuse even if I did follow their examples and not their teachings.
+What I have to say I shall develop under two heads, showing, first,
+that it is possibfe for a man to surrender himself wholly to the
+contemplation of truth, to search out the art of living, and to
+practise it in retirement, even from his earliest years; secondly,
+that, when a man has now earned release from public service+ and his
+life is almost over, it is possible that he may with perfect justice
+do the same thing and turn his mind to quite different activities,
+after the manner of the Vestal virgins, whose years are allotted to
+varied duties while they are learning to perform the sacred rites,
+and, when they have learned, they begin to teach.  I shall show, too,
+that the Stoics also accept this doctrine, not because I have made it
+my rule to set up nothing contrary to the teaching of Zeno or
+Chrysippus, but because the matter itself suffers me to adopt their
+opinion; for if a man always follows the opinion of one person, his
+place is not in the senate, but in a faction.  Would that all things
+were now understood, that truth were uncovered and revealed, and that
+we never altered our mandates!  As it is, we are in search of truth in
+company with the very men that teach it.  The two sects, the
+Epicureans and the Stoics, are at variance, as in most things, in this
+matter also; they both direct us to leisure, but by different roads.
+Epicurus says: "The wise man will not engage in public affairs except
+in an emergency." Zeno says: "He Will engage in public affairs unless
+something prevents him."
+
+The one seeks leisure by fixed purpose the other for a special cause;
+but the term "cause" has here broad application.  If the state is too
+corrupt to be helped, if it is wholly dominated by evils, the wise man
+will not struggle to no purpose, nor spend himself when nothing is to
+be gained.  If he is lacking in influence or power and the state is
+unwilling to accept his services, if he is hampered by ill health, he
+will not enter upon a course for which he knows he is unfitted, just
+as he would not launch upon the sea a battered ship, just as he would
+not enlist for service in the army if he were disabled.  Consequently,
+it is also possible that a man whose fortunes are still unharmed may
+establish himself in a safe retreat before he experiences any of the
+storms of life, and thenceforth devote himself to the liberal_studies+
+and demand uninterrupted leisure to cultivate the virtues, which even
+those who are most retired are able to practise.  It is of course
+required of a man that he should benefit his fellow-men - many if he
+can, if not, a few; if not a few, those who are nearest; if not these,
+himself.  For when he renders himself useful to others, he engages in
+public affairs.  Just as the man that chooses to become worse injures
+not only himself but all those whom, if he had become better, he might
+have benefited, so whoever wins the approval of himself benefits
+others by the very fact that he prepares what will prove beneficial to
+them.
+
+Let us grasp the idea that there are two commonwealths+ - the one, a
+vast and truly common state, which embraces alike gods and men, in
+which we look neither to this corner of earth nor to that, but
+measure, the bounds of our citizenship by the path of the sun; the
+other, the one to which we have been assigned by the accident of
+birth.  This will be the commonwealth of the Athenians or of the
+Carthaginians, or of any other city that belongs, not to all, but to
+some particular race of men.  Some yield service to both commonwealths
+at the same time to the greater and to the lesser - some only to the
+lesser, some only to the greater.  This greater commonwealth we are
+able to serve even in leisure - nay, I im inclined to think, even
+better in leisure - so that we may inquire what virtue is, and whether
+it is one or many; whether it is nature or art that makes men good;
+whether this world, which embraces seas and lands and the things that
+are contained in the sea and land, is a solitary creation or whether
+God has strewn about many systems of the same sort; whether all the
+matter from which everythinng is formed is continuous and compact, or
+whether it is disjunctive and a void is interrnidgled with the solid;
+what God is - whether he idly gazes upon his handiwork, or directs it;
+whether he encompasses it without, or pervades the whole of it;
+whether the world is eternal, or is to be counted among the things
+that perish and are born only for a time.  And what service does he
+who ponders these things render unto god?  He keeps the mighty works
+of God from being without a witness!  We are fond of saying that the
+highest good is to live according to Nature.  Nature has begotten us
+for both purposes - for contemplation and for action.  Let me now
+prove the first statement.  But why anything more?  Will not this be
+proved if each one of us shall take counsel simply of himself, and
+ponder how great is his desire to gain knowledge of the unknown, and
+how this desire is stirred by tales of every sort?  Some sail the sea
+and endure the hardships of journeying to distant lands for the sole
+reward of discovering something hidden and remote.  It is this that
+collects people everywhere to see sights, it is this that forces them
+to pry into things that are closed, to search out the more hidden
+things, to unroll the past, and to listen to the tales of the customs
+of barbarous tribes.  Nature has bestowed upon us an inquisitive
+disposition, and being well aware of her own skill and beauty, has
+begotten us to be spectators of her mighty array, since she would lose
+the fruit of her labour if her works, so vast, so glorious, so
+artfully contrived, so bright and so beautiful in more ways than one,
+were displayed to a lonely solitude.  That you may understand how she
+wished us, not merely to behold her, but to gaze upon her, see the
+position in which she has placed us. She has set us in the centre of
+her creation, and has granted us a view that sweeps the universe; and
+she has not only created man erect, but in order to fit him for
+contemplation of herself, she has given him a head to top the body,
+and set it upon a pliant neck, in order that he might follow the stars
+as they glide from their rising to their setting and turn his face
+about with the whole revolving heaven.  And besides, guiding on their
+course six constellations by day, and six by night, she left no part
+of herself unrevealed, hoping that by these wonders which she had
+presented to man's eyes she might also arouse his curiosity in the
+rest.  For we have not beheld them all, nor the full compass of them,
+but our vision opens up a path for its investigation, and lays the
+foundations of truth so that our research may pass from revealed to
+hidden things and discover something more ancient than the world
+itself - whence yon stars came forth, what was the state of the
+universe before the several elements separated to form its parts, what
+principle separated the engulfed and confused elements, who appointed
+their places to things, whether the heavy elements sank and the light
+ones flew aloft by reason of their own nature, or apart from the
+energy and gravity of matter some higher power has appointed laws for
+each of them, or whether that theory is true which strives especially
+to prove that man is part of the divine spirit, that some part,
+sparks, as it were, of the stars fell down to earth and lingered here
+in a place that is not their own.  Our thought bursts through the
+ramparts of the sky, and is not content to know that which is
+revealed. "I search out that," it says, "which lies beyond the world
+whether the vastness of space is unending, or whether this also is
+enclosed within its own boundaries; what is the appearance of whatever
+exists outside, whether it is formless and disordered, occupying the
+same amount of room in every direction, or whether that also has been
+arranged into some show of elegance; whether it clings close to this
+world, or has withdrawn far from it and revolves there in the void;
+whether it is atoms by means of which everything that has been born
+and will be born is built up or whether the matter of things is
+continuous and throughout is capable of change; whether the elements
+are hostile to each other, or whether they are not at war, but while
+they differ are in harmony." Since man was born for inquiring into
+such matters as these, consider how little time has been allotted to
+him even if he claims the whole of it for himself.  Though he allows
+none of it to be snatched from him by ease, none of it to be lost
+through carelessness, though he guards his hours with most miserly
+care, and attains to the utmost limit of human life, though Fortune
+wrecks no part of that which Nature has appointed for him, yet man is
+too mortal to comprehend things immortal. {Pope+} Consequently I live
+according to Nature if I surrender myself entirely to her, if I become
+her admirer and worshipper.  But Nature intended me to do both - to be
+active 44and to have leisure for contemplation.  And really I do both,
+since even the contemplative life is not devoid of action.
+
+"But it makes a difference," you say, "whether you have resorted to
+that merely for the sake of pleasure, demanding nothing from it except
+unbroken contemplation without practical result; for that life is
+pleasant and has its own charms." In answer to this I say that it
+makes just as much difference in what spirit you engage in public life
+whether you are always distraught, and never take any time to turn
+your eyes from human affairs to the things of heaven.  Just as to seek
+wealth without any love of the virtues and without the cultivation of
+character, and to display an interest in bare work only is by no means
+to be commended - for all these must be combined and go hand in hand -
+so when virtue is banished to leisure without action it is an
+imperfect and spiritless good, that never brings what it has learned
+into the open. Who will deny that Virtue ought to test her progress by
+open deed, and should not only consider what ought to be done, but
+also at times apply her hand and bring into reality what she has
+conceived?  But if the hindrance is not in the wise man himself - if
+what is lacking is not the doer, but the things to be done, will you
+then permit him to court his own soul? And with what thought does the
+wise man retire into leisure?  In the knowledge that there also he
+will be doing something that will benefit posterity. Our school at any
+rate is ready to say that both Zeno and Chrysippus accomplished
+greater things than if they had led armies, held public office, and
+framed laws.  The laws they framed were not for one state only, but
+for the whole human race.  Why, therefore, should such leisure as this
+not be fitting for the good man, who by means of it may govern the
+ages to come, and speak, not to the ears of the few, but to the ears
+of all men of all nations, both those who now are and those who shall
+be?  In brief, I ask you whether Cleanthes and Chrysippus and Zeno
+lived in accordance with their teachings. Undoubtedly you will reply
+that they lived just as they taught that men ought to live.  And yet
+no one of them governed a state.  You reply: "They had neither the
+fortune nor the rank which ordinarily admit one to the management of
+public affairs." But, nevertheless, they did not lead a life of sloth;
+they found a way to make their own repose a greater help to mankind
+than all the pother and sweat of others.  Therefore, though they
+played no public part, they none the less have been thought to have
+played a great part.  Moreover, there are three kinds of life, and it
+is a common question as to which of them is best.  One is devoted to
+pleasure, a second to contemplation, a third to action. Having first
+put away our strife and having put away the hatred which we have
+relentlessly declared against those who pursue ends different from
+ours, let us see how all these, under different names, come to the
+same thing.  For he who sanctions pleasure is not without
+contemplation, nor he who surrenders to contemplation without
+pleasure, nor is he whose life is devoted to action without
+contemplation.  But you say: "Whether something is a chief aim or is
+merely attached to some other chief aim makes a very great
+difference." Yes, grant that there is a huge difference, nevertheless
+the one does not exist without the other.  That man is not given to
+contemplation without action, nor this one to action without
+contemplation, nor does that third one - concerning whom we have
+agreed to form a bad opinion - give sanction to idle pleasure, but to
+the pleasure that he renders stable for himself by his reason; thus
+even this pleasure-loving sect is itself committed to action.  Clearly
+is it committed to action!  since Epicurus himself declares that he
+will at times withdraw from pleasure, will even seek pain if he
+foresees that he will either repent of pleasure, or will be able to
+substitute a lesser pain for one that is greater. And what is my
+purpose in stating these things?  To make it clear that contemplation
+is favoured by all.  Some men make it their aim; for us it is a
+roadstead, but not the harbour.
+
+Add, further, that on the authority of Chrysippus a man has a right to
+live a life of leisure; I do not mean, that he may tolerate leisure,
+but that he may choose it.  Our school refuses to allow the wise man
+to attach himself to any sort of state.  But what difference does it
+make in what manner the wise man arrives at leisure - whether because
+no state is available to him or because he is not available to the
+state - if he is nowhere to find a state?  Besides, no state will ever
+be available to the fastidious searcher.  I ask you to what state
+should the wise man attach himself?  To that of the Athenians, in
+which Socrates was senteneed to death, from which Aristotle fled to
+avoid being sentenced?  in which all the virtues are crushed by envy?
+Surely you will say that no wise man will wish to attach himself to
+this state.  Shall the wise man, then, attach himself to the state of
+the Carthaginians, in which faction is always rife and all the best
+men find "freedom" their foe, in which justice and goodness have
+supreme contempt, and enemies are treated with inhuman cruelty and
+fellow-citizens like enemies?  From this state also will be flee.  If
+I should attempt to enumerate them one by one, I should not find a
+single one which could tolerate the wise man or which the wise man
+could tolerate.  But if that state which we dream of can nowhere be
+found, leisure begins to be a necessity for all of us, because the one
+thing that might have been preferred to leisure nowhere exists.  If
+anyone says that the best life of all is to sail the sea, and then
+adds that I must not sail upon a sea where shipwrecks are a common
+occurrence and there are often sudden storms that sweep the helmsman
+in an adverse direction, I conclude that this man, although he lauds
+navigation, really forbids me to launch my ship.
+
+
+~~~~~~~~~~~~~~~~
+
+*Rest of the essay is lost*
+
+~~~~~~~~~~~~~~~~

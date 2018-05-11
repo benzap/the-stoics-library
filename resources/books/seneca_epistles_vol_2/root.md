@@ -993,7 +993,7 @@ reduce a most glorious subject to a matter of syllables, and lower and
 wear out the soul by teaching fragments; then you will become like the
 men who discovered these precepts, instead of those who by their
 teaching do their best to make philosopliy seem difficult rather than
-great.\a
+great.
 
 Socrates, who recalled/b the whole of philosophy to rules of conduct,
 and asserted that the highest wisdom consisted in distinguishing
@@ -3389,7 +3389,7 @@ things are the real evils.  Boot out this idea from your soul;
 otherwise your apprehensions will remain undecided and will thus check
 the impulse to action.  You will be pushed into that towards which you
 ought to advance like a soldier. {Fortinbras+} Those of our school, it
-is true, would have men think that Zeno's syllogism\a is correct, but
+is true, would have men think that Zeno's syllogism is correct, but
 that the second/a I mentioned, which is set up against his, is
 deceptive and wrong.  But I for my part decline to reduce such
 questions to a matter of dialectical rules or to the subtleties of an

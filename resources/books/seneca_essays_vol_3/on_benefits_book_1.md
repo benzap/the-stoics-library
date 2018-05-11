@@ -1,0 +1,615 @@
+AMONG the many and diverse errors of those who live reckless and
+thoughtless lives, almost nothing that I can mention, excellent
+Liberalis, is more disgraceful than the fact that we do not know how
+either to give or to receive benefits.  For it follows that, if they
+are ill placed, they are ill acknowledged, and, when we complain of
+their not being returned, it is too late for they were lost at the
+time they were given.  Nor is it surprising that among all our many
+and great vices, none is so common as ingratitude. This I observe
+results from several causes.
+
+The first is, that we do not pick out those who are worthy of
+receiving our gifts.  Yet when we are about to open an account with
+anyone, we are careful to inquire into the means and manner of life of
+our debtor; we do not sow seed in worn-out and unproductive soil; but
+our benefits we give, or rather throw, away without any
+discrimination.
+
+Nor would it be easy to say whether it is more shameful to repudiate a
+benefit, or to ask the repayment of it; for from the nature of such a
+trust, we have a right to receive back only what is voluntarily
+returned.  To plead bankruptcy is, surely, most disgraceful, just for
+the reason that, in order to perform the promised payment, what is
+needed is, not wealth, but the desire; for, if a benefit is
+acknowledged, it is returned.  But, while those who do not even
+profess to be grateful are blameworthy, so also are we. Many men we
+find ungrateful, but more we make so, because at one time we are harsh
+in our reproaches and demands, at another, are fickle and repent of
+our gift as soon as we have made it, at another, are fault - finding
+and misrepresent the importance of trifles.  Thus we destroy all sense
+of gratitude, not only after we have given our benefits, but even
+while we are in the act of giving them.  Who of us has been content to
+have a request made lightly, or but once?  Who, when he suspected that
+something was being sought from him, has not knit his brows, turned
+away his face, pretended to be busy, by long-drawn conversation, which
+he purposely kept from ending, deprived another of the opportunity of
+making a request, and by various tricks baffled his pressing needs?
+Who, when actually caught in a corner, has not either deferred the
+favor, that is, been too cowardly to refuse it, or promised it with
+ungraciousness, with frowning brows, and with grudging words that were
+scarcely audible?  Yet no one is glad to be indebted for what he had,
+not received, but extorted.  Can anyone be grateful to another for a
+benefit that has been haughtily flung to him, or thrust at him in
+anger, or given out of sheer weariness in order to save further
+trouble? Whoever expects that a man whom he has wearied by delay and
+tortured by hope will feel any indebtedness deceives himself.  A
+benefit is acknowledged in the same spirit in which it is bestowed,
+and for that reason it ought not to be bestowed carelessly; for a man
+thanks only himself for what he receives from an unwitting giver. Nor
+should it be given tardily, since, seeing that in every service the
+willingness of the giver counts for much, he who acts tardily has for
+a long time been unwilling.  And, above all, it should not be given
+insultingly; for, since human nature is so constituted that injuries
+sink deeper than kindnesses, and that, while the latter pass quickly
+from the mind, the former are kept persistently in memory, what can he
+expect who, while doing a favor, offers an affront?  If you pardon
+such a man for giving a benefit, you show gratitude enough, There is
+no reason, however, why the multitude of ingrates should make us more
+reluctant to be generous.  For, in the first place, as I have said, we
+ourselves increase their number; and, in the second place, not even
+the mortal gods are deterred from showing lavish and unceasing
+kindness to those who are sacrilegious and indifferent to them.  For
+they follow their own nature, and in their universal bounty
+{great_soul+} include even those who are ill interpreters of their
+gifts.  Let us follow these as our guides in so far as human weakness
+permits; let us make our benefits, not investments, but gifts+.  The
+man who, when he gives, has any thought of repayment deserves to be
+deceived.  But suppose it has turned out ill.  Both children and wives
+have disappointed our hopes, yet we marry and rear children, and so
+persistent are we in the face of experience that, after being
+conquered, we go back to war and, after being shipwrecked, we go back
+to sea.  How much more fitting to persevere in bestowing benefits!
+For if a man stops giving them because they were not returned, his
+purpose in giving them was to have them returned, and he supplies a
+just excuse to the in ingrate, whose disgrace lies in not making a
+return, it is permissible. {GIFT+} How many are unworthy of seeing the
+light!  Yet the day dawns.  How many complain because they have been
+born!  Yet Nature begets new progeny, and even those who would rather
+not have been, she suffers to be.  To seek, not the fruit of benefits,
+but the mere doing of them, and to search for a good man even after
+the discovery of bad men - this is the mark of a soul that is truly
+great and good.  What glory would there be in doing good to many if
+none ever deceived you?  But as it is, it is a virtue to give benefits
+that have no surety of being returned, whose fruit is at once enjoyed
+by the noble mind.  So true is it that we ought not to allow such a
+consideration to rout us from our purpose and make us less prone to do
+a very beautiful thing, that, even were I deprived of the hope of
+finding a grateful man, I should prefer not recovering benefits to not
+giving them, because he who does not give them merely forestalls the
+fault of the ungrateful man.  I will explain what I mean.  He who does
+not return a benefit, sins more, he who does not give one, sins
+earlier.
+
+To shower bounties on the mob should you delight, xxx Full many must
+you lose, for one you place aright. In the first verse two points
+are open to criticism for, on the one hand, benefits ought not to be
+showered upon the mob, and, on the other, it is not right to be
+wasteful of any thing, least of all of benefits; for, if you eliminate
+discernment in giving them, they cease to be benefits, and will fall
+under any other name you please.  The sentiment of the second is
+admirable, for it allows a solitary benefit that is well placed to
+compensate for the loss of many that have been wasted.  But consider,
+I beg of you, whether it may not be truer doctrine and more in accord
+with the generous spirit of the benefactor to urge him to give even
+though not one of his benefits is likely to be well placed.  For "many
+must you lose" is a false sentiment; not one is lost, because a loser
+is one who had kept an account.  In benefits the book- keeping is
+simple - so much is paid out; if anything comes back, it is gain, if
+nothing comes back, there is no loss.  I made the gift for the sake of
+giving.  No one enters his benefactions in his account-book, or like a
+greedy tax-collector calls for payment upon a set day, at a set hour.
+The good man never thinks of them unless he is reminded of them by
+having them returned; otherwise, they transform themselves into a
+loan.  To regard a benefit as an amount advanced is putting it out at
+shameful interest.  No matter what the issue of former benefits has
+been, still persist in conferring them upon others; this will be
+better even if they fall unheeded into the hands of the ungrateful,
+for it may be that either shame or opportunity or example will some
+day make these grateful. Do not falter, finish your task, and complete
+the role of the good man. Help one man with money, another with
+credit, another with influence, another with advice, another with
+sound precepts.  Even wild beasts are sensible of good offices, and no
+creature is so savage that it will not be softened by kindness and
+made to love the hand that gives it.  The lion will let a keeper
+handle his mouth with impunity, the elephant, for all his fierceness,
+is reduced to the docility of a slave by food; so true is it that even
+creatures whose condition excludes the comprehension and appraisement
+of a benefit, are nevertheless won over by persistent and steadfast
+kindness.  Is a man ungrateful for one benefit? Perhaps he will not be
+so for a second.  Has he forgotten two benefits? Perhaps a third will
+recall to memory the others also that have dropped from his mind.
+That man will waste his benefits who is quick to believe that he has
+wasted them; but he who presses on, and heaps new benefits upon the
+old, draws forth gratitude even from a heart that is hard and
+unmindful.  In the presence of multiplied benefits the ingrate will
+not dare to lift his eyes; wherever he turns, fleeing his memory of
+them, there let him see you - encircle him with your benefits.
+
+Of the nature and property of these I shall speak later if you will
+permit me first to digress upon questions that are foreign to the
+subject - why the Graces+ {gratia+} are three in number and why they
+are sisters, why they have their hands interlocked, and why they are
+smiling and youthful and virginal, and are clad in loose and
+transparent garb.  Some would have it appear that there is one for
+bestowing a benefit, another for receiving it, and a third for
+returning it; others hold that there are three classes of benefactors
+those who earn benefits, those who return them, those who receive
+and return them at the same time.  But of the two explanations do you
+accept as true whichever you like; yet what profit is there in such
+knowledge?  Why do the sisters hand in hand dance in a ring which
+returns upon itself?  For the reason that a benefit passing in its
+course from hand to hand returns nevertheless to the giver; the beauty
+of the whole is destroyed if the course is anywhere broken, and it has
+most beauty if it is continuous and maintains an uninterrupted
+succession.{gift_as_link+} In the dance, nevertheless, an older sister
+has especial honour, as do those who earn benefits.  Their faces are
+cheerful, as are ordinarily the faces of those who bestow or receive
+benefits.  They are young because the memory of benefits ought not to
+grow old.  They are maidens because benefits are pure and undefiled
+and holy in the eyes of all; and it is fitting that there should be
+nothing to bind or restrict them, and so the maidens wear flowing
+robes, and these, too, are transparent because benefits desire to be
+seen.
+
+There may be someone who follows the Greeks so slavishly as to say
+that considerations of this sort are necessary; but surely no one will
+believe; also that the names which Hesiod assigned to the Graces have
+any bearing upon the subject.  He called the eldest Aglaia, the next
+younger Euphrosyne, the third Thalia.  Each one twists the
+significance of these names to suit himself, and tries to make them
+fit some theory although Hesiod simply bestowed on the maidens the
+name that suited his fancy.  And so Homer changed the name of one of
+them, calling her Pasithea, and promised her in marriage in order that
+it might be dear that, if they were maidens, they were not Vestals.
+I could find another poet in whose writings they are girdled and
+appear in robes of thick texture or of Phryxian wool. And the reason
+that Mercury stands with them is, not that argument or eloquence
+commends benefits, but simply that the painter chose to picture them
+so.
+ 
+Chrysippus, too, whose famous acumen is so keen and pierces to the
+very core of truth, who speaks in order to accomplish results, and
+uses no more words than are necessary to make himself intelligible -
+he fills the whole of his book with these puerilities, insomuch that
+he has very little to say about the duty itself of giving, receiving,
+and returning a benefit; and his fictions are not grafted upon his
+teachings, but his teachings upon his fictions.  For, not to mention
+what Hecaton copies from him, Chrysippus says that the three Graces
+are daughters of Jupiter and Eurynome, also that, while they are
+younger than the Hours, they are somewhat more beautiful, and
+therefore have been assigned as companions to Venus.  In his opinion,
+too, the name of their mother has some significance, for he says that
+she was called Eurynome <daughter of Ocean, "wide spreading">
+because the distribution of benefits is the mark of an extensive
+fortune; just as if a mother usually received her name after her
+daughters, or as if the names that poets bestow were genuine!  As a
+nomenclator lets audacity supply the place of memory, and every time
+that he is unable to call anyone by his true name, he invents one, so
+poets do not think that it is of any importance to speak the truth,
+but, either forced by necessity or beguiled by beauty.  They impose
+upon each person the name that works neatly into the verse.  Nor is it
+counted against them if they introduce a new name into the list; for
+the next poet orders the maidens to take the name that he devises.
+And to prove to you that this is so, observe that Thalia, with whom we
+are especially concerned, appears in Hesiod as Charis, {charisma+}
+in Homer as a Muse.
+
+But for fear that I shall be guilty of the fault that I am
+criticizing, I shall abandon all these questions, which are so remote
+that they do not even touch the subject.  Only do you defend me if
+anyone shall blame me for having put Chrysippus in his place - a great
+man, no doubt, but yet a Greek, one whose acumen is so finely pointed
+that it gets blunted and often folds back upon itself; even when it
+seems to be accomplishing something, it does not pierce, but only
+pricks.  But what has acumen to do here?  What we need is a discussion
+of benefits and the rules for a practice that constitutes the chief
+bond of human society;{Granville+} we need to be given a law of
+conduct in order that we may not be inclined to the thoughtless
+indulgence that masquerades as generosity, in order, too, that this
+very vigilance, while it tempers, may not check our liberality, of
+which there ought to be neither any lack nor any excess; we need to be
+taught to give willingly, to receive willingly, to return willingly,
+and to set before us the high aim of striving, not merely to equal,
+but to surpass in deed and spirit those who have placed us under
+obligation, for he who has a debt of gratitude to pay never catches up
+with the favor unless he outstrips it; the one should be taught to
+make no record of the amount, the other to feel indebted for more than
+the amount. To this most honourable rivalry in outdoing benefits by
+benefits Chrysippus urges us by saying that, in view of the fact that
+the Graces are the daughters of Jupiter, we should fear that by
+showing a lack of gratitude we might become guilty of sacrilege and do
+an injustice to such beautiful maidens! But teach thou me the secret
+of becoming more beneficent and more grateful to those who do me a
+service, the secret of the rivalry that is born in the hearts of the
+obligers and the obliged so that those who have bestowed forget, those
+who owe persistently remember.  As for those absurdities, let them be
+left to the poets, whose purpose it is to charm the car and to weave a
+pleasing tale. But those who wish to heal the human soul, to maintain
+faith in the dealings of men, and to engrave upon their minds the
+memory of services let these speak with earnestness and plead with all
+their power; unless, perchance, you think that by light talk and
+fables and old wives' reasonings it is possible to prevent a most
+disastrous thing - the abolishment of benefits.
+
+But, just as I am forced to touch lightly upon irrelevant questions,
+so I must now explain that the first thing we have to learn is what it
+is that we owe when a benefit has been received. For one man says that
+he owes the money which he has received, another the consulship,
+another the priesthood, another the administration of a province.  But
+these things are the marks of services rendered, not the services
+themselves.  A benefit cannot possibly be touched by the hand; its
+province is the mind.  There is a great difference between the matter
+of a benefit and the benefit itself; and so it is neither gold nor
+silver nor any of the gifts which are held to be most valuable that
+constitutes a benefit, but merely the goodwill+ of him who bestows it.
+But the ignorant regard only that which meets the eye, that which
+passes from hand to hand and is laid hold of, while they attach little
+value to that which is really rare and precious.  The gifts that we
+take in our hands, that we gaze upon, that in our covetousness we
+cling to, are perishable; for fortune or injustice may take them from
+us.  But a benefit endures even after that through which it was
+manifested has been lost; for it is a virtuous act, and no power can
+undo it.
+
+If I have rescued a friend from pirates, and afterwards a different
+enemy seized him and shut him up in prison, he has been robbed, not of
+my benefit, but of the enjoyment of my benefit.  If I have saved a
+man's children from shipwreck or a fire and restored them to him, and
+afterwards they were snatched from him either by sickness or some
+injustice of fortune, yet, even when they are no more, the benefit
+that was manifested in their persons endures.  All those things,
+therefore, which falsely assume the name of benefits, are but the
+services through which the goodwill of a friend reveals itself.  The
+same thing is true also of other bestowals - the form of the bestowal
+is one thing, the bestowal itself another.  The general presents a
+soldier with a breast-chain or with a mural and civic crown.  But what
+value has the crown in itself?  What the purple-bordered robe?  What
+the fasces?  What the tribunal and the chariot? No one of these things
+is an honour, they are the badges of honour.  In like manner that
+which falls beneath the eye is not a benefit - it is but the trace and
+mark of a benefit.
+
+What then is a benefit?  It is the act of a wellwisher who bestows joy
+and derives joy from the bestowal of it, and is inclined to do what he
+does from the prompting of his own will.  And so what counts is, not
+what is done or what is given, but the spirit of the action, because a
+benefit consists, not in what is done or given, but in the intention
+of the giver or doer.  The great distinction that exists between these
+things, moreover, may be grasped from the simple statement that a
+benefit is un- doubtedly a good, while what is done or given is
+neither a good nor an evil.  It is the intention that exalts small
+gifts, gives lustre to those that are mean, and discredits those that
+are great and considered of value; the things themselves that men
+desire have a neutral nature, which is neither good nor evil; all
+depends upon the end toward which these are directed by the Ruling
+Principle {God+} that gives to things their form.  The benefit
+itself is not something that is counted out and handed over, just as,
+likewise, the honour that is paid to the gods lies, not in the victims
+for sacrifice, though they be fat and glitter with gold, but in the
+upright and holy desire of the worshippers.  Good men, therefore, are
+pleasing to the gods with an offering of meal and gruel; the bad, on
+the other hand, do not escape impiety although they dye the altars
+with streams of blood.
+
+If benefits consisted, not in the very desire to benefit, but in
+things, then the greater the gifts are which we have received, the
+greater would be the benefits.  But this is not true; for sometimes we
+feel under greater obligations to one who has given small gifts out of
+a great heart, who "by his spirit matched the wealth of kings," who
+bestowed his little, but gave it gladly, who beholding my poverty
+forgot his own, who had, not merely the willingness, but a desire to
+help, who counted a benefit given as a benefit received, who gave it
+with no thought of having it returned, who, when it was returned, had
+no thought of having given it, who not only sought, but seized, the
+opportunity of being useful. On the other hand, as I have said before,
+those benefits win no thanks, which, though they seem great from their
+substance and show, are either forced from the giver or are carelessly
+dropped, and that comes much more gratefully which is given by a
+willing rather than by a full hand.  The benefit which one man
+bestowed upon me is small, but he was not able to give more; that
+which another gave me is great, but he hesitated, he put it off, he
+grumbled when he gave it, he gave it haughtily, he, published it
+abroad, and the person he tried to please was not the one on whom he
+bestowed his gift - he made an offering, not to me, but to his pride.
+
+Once when many gifts were being presented to Socrates by his pupils,
+each one bringing according to his means, Aeschines, who was poor,
+said to him: "Nothing that I am able to give to you do I find worthy
+of you, and only in this way do I discover that am a poor man. And so
+I give to you the only thing that I possess - myself.  This gift, such
+as it is, I beg you to take in good part, and bear in mind that the
+others, though they gave to you much, have left more for themselves."
+"And how," said Socrates, "could it have been anything but a great
+gift - unless maybe you set small value upon yourself?  And so I shall
+make it my care to return you to yourself a better man than when I
+received you." By this present Aeschines surpassed Alcibiades, whose
+heart matched his riches, and the wealthy youths with all their
+splendid gifts.  You see how even in pinching poverty the heart finds
+the means for generosity.  These, it seems to me, were the words of
+Aeschines: "You, O Fortune, have accomplished nothing by wishing to
+make me poor; I shall none the less find for this great man a gift
+that is worthy of him, and, since I cannot give to him from your
+store, I shall give from my own." Nor is there any reason for you to
+supposethat he counted himself cheap: the value he set upon himself
+was himself.  And so clever a young man was he that he discovered a
+way of giving to himself -Socrates!  It is not the size of our
+respective benefits, but the character of the one from whom they come
+that should be our concern.
+
+a man is shrewd if he does not make himself difficult of access to
+those who come with immoderate desires, and encourages their wild
+expectations by his words although in reality he intends to give them
+no help; but his reputation suffers if he is sharp of tongue, stern in
+countenance, and arouses their jealousy by flaunting his own good
+fortune.  For they court, and yet loathe, the prosperous man, and they
+hate him for doing the same things that they would do if they could.
+
+They make a laughing-stock of other men's wives, not even secretly,
+but openly, and then surrender their own wives to others.  If a man
+forbids his wife to appear in public in a sedan-chair and to ride
+exposed on every side to the view of observers who everywhere approach
+her, he is boorish and unmannerly and guilty of bad form, and the
+married women count his demands detestable.  If a man makes himself
+conspicuous by not having a mistress, and does not supply an allowance
+to another man's wife, the married women say that he is a poor sort
+and is addicted to low pleasures and affairs with maidservants.  The
+result of this is that adultery has become the most seemly sort of
+betrothal, and the bachelor is in accord with the widower, since the
+only man who takes a wife is one who takes away a wife.  Now men vie
+in squandering what they have stolen and then in regaining by fierce
+and sharp greed what they have squandered; they have no scruples; they
+esteem lightly the poverty of others and fear poverty for themselves
+more than any other evil; they upset peace with their injustices, and
+hard press the weaker with violence and fear.  That the provinces are
+plundered, that the judgement-seat is for sale, and, when two bids
+have been made, is knocked down to one of the bidders is of course not
+surprising, since it is the law of nations that you can sell what you
+have bought!
+
+But, because the subject is alluring, my ardour has carried me too
+far; and so let me close by showing that it is not our generation only
+that is beset by this fault.  The complaint our ancestors made, the
+complaint we make, the complaint our posterity will make, is that
+morality is overturned, that wickedness holds sway, and that human
+affairs and every sin are tending toward the worse.  Yet these things
+remain and will continue to remain in the same position, with only a
+slight movement now in this direction, now in that, like that of the
+waves, which a rising tide carries far inland, and a receding tide
+restrains within the limits of the shoreline.  Now adultery will be
+more common than other sins, and chastity will tear off its reins; now
+a furore for feasting and the most shameful scourge that assails
+fortunes, the kitchen, will prevail, and now excessive adornment of
+the body and the concern for its beauty that displays an unbeauteous
+mind; now ill-controlled liberty will burst forth into wantonness and
+presumption; and now the progress will be toward cruelty, on the part
+both of the state and of the individual, and to the insanity of civil
+war, which desecrates all that is holy and sacred; sometimes it will
+be drunkenness on which honour is bestowed, and he who can hold the
+most wine will be a hero.
+
+Vices do not wait expectantly in just one spot, but are always in
+movement and, being at variance with each other, are in constant
+turmoil, they rout and in turn are routed; but the verdict we are
+obliged to pronounce upon ourselves will always be the same: wicked we
+are, wicked we have been, and, I regret to add, always shall be.
+Homicides, tyrants, thieves, adulterers, robbers, sacrilegious men,
+and traitors there always will be; but worse than all these is the
+crime of ingratitude, unless it be that all these spring from
+ingratitude, without which hardly any sin has grown to great size.
+
+Do you beware of committing this crime as being the greatest there is;
+if another commits it, pardon it as being the most trivial.  For the
+sum of your injury is this - you have wasted a benefit.  For you have
+the best part of it still unharmed - the fact that you gave it.  But,
+although we ought to be careful to confer benefits by preference upon
+those who will be likely to respond with gratitude, yet there are some
+that we shall do even if we expect from them poor results, and we
+shall bestow benefits upon those who, we not only think will be, but
+we know have been, ungrateful.  For example, if I shall be able to
+restore to someone his sons by rescuing them from great danger without
+any risk to myself, I shall not hesitate to do so.  If a man is a
+worthy one, I shall defend him even at the cost of my own blood, and
+share his peril; if he is unworthy, and I shall be able to rescue him
+from robbers by raising an outcry, I shall not be slow to utter the
+cry that will save a human being.
+
+I pass next to the discussion of what benefits ought to be given and
+the manner of their bestowal.  Let us give what is necessary first,
+then what is useful, then what is pleasurable, particularly things
+that will endure.  But we should begin with necessities; for that
+which supports life impresses the mind in one way, that which adorns
+or equips life, in quite another.  It is possible for a man to be
+scornful in his estimate of a gift which he can easily do without, of
+which he may say: "Take it back, I do not want it; I am content with
+what I have." Sometimes it is a pleasure, not merely to give back, but
+to hurl from you, what you have received.
+
+Of the benefits that are necessary, some, those without which we are
+not able to live, have the first place, others, those without which we
+ought not to live, the second, and still others, those without which
+we are not willing to live, the third.  The first are of this stamp -
+to be snatched from the hands of the enemy, from the wrath of a
+tyrant, from proscription, and the other perils which in diverse and
+uncertain forms beset human life.  The greater and the more formidable
+the danger from any one of these, the greater will be the gratitude
+that we shall receive when we have banishes it; for the thought of the
+greatness of the ills from which they have been freed will linger in
+men's minds, and their earlier fear will enhance the value of our
+service.  And yet we ought not to be slower in saving a man than we
+might be, solely in order that his fear may add weight to our service.
+Next to these come the blessings without which, indeed, we are able to
+live, yet death becomes preferable, such as liberty and chastity and a
+good conscience.  After these will be the objects that we hold dear by
+reason of kinship and blood and experience and long habit, such as
+children, wives, household gods, and all the other things to which the
+mind becomes so attached that to be robbed of them seems to it more
+serious than to be robbed of life.
+
+Next in order are the useful benefits, the matter of which is wide and
+varied; here will be money, not in excess, but enough to provide for a
+reasonable standard of living; here will be public office and
+advancement for those who are striving for the higher positions, for
+nothing is more useful than to be made useful to oneself.
+
+All benefits beyond these come as superfluities and tend to pamper a
+man.  In the case of these, our aim shall he to make them acceptable
+by reason of their timeliness, to keep them from being commonplace,
+and to give the sort of things that either few or few in our own time
+or in this fashion, have possessed, the sort of things that, even if
+they are not intrinsically valuable, may become valuable by reason of
+the time and place.  Let us consider what will be likely to give the
+greatest pleasure after it has been bestowed, what is likely to meet
+the eyes of the owner ov.y case we shall be careful not to send gifts
+that are superfluous, for example, the arms of the chase to a woman or
+to an old man, books to a bumpkin, or nets to one who is devoted to
+study and letters.  On, the other hand we shall be equally careful,
+while wishing to send what will be acceptable, not to send gifts that
+will reproach a man with his weakness, as for example wines to a
+drunkard and medicines to a valetudinarian.  For a gift that
+recognizes a vice of the recipient tends to be, not a boon, but a
+bane.
+
+If the choice of what is to be given is in our own hands, we shall
+seek especially for things that will last, in order that our gift may
+be as imperishable as possible.  For they are few indeed who are so
+grateful that they think of what they have received even if they do
+not see it.  Yet even the ungrateful have their memory aroused when
+they encounter the gift itself, when it is actually before their eyes
+and does not let them forget it, but instead brings up the thought of
+its giver and impresses it upon their mind.  And let us all the more
+seek to make gifts that will endure because we ought never to remind
+anyone of them; let the object itself revive the memory that is
+fading.  I shall be more willing to give wrought than coined silver;
+more willing to give statues than clothing or something that will wear
+out after brief usage.  Few there are whose gratitude survives longer
+than the object given; there are more who keep gifts in mind only so
+long as they are in use.  For my part, if it is possible, I do not
+want my gift to perish; let it survive, let it cling fast to my
+friend, let it live with him.
+
+No one is so stupid as to need the warning that he should not send
+gladiators or wild beasts to a man who has just given a public
+spectacle, or send a present of summer clothing in midwinter and
+winter clothing in midsummer.  Common sense should be used in
+bestowing a benefit; there must be regard for time, place, and the
+person, for some gifts are acceptable or unacceptable according to
+circumstances.  How much more welcome the gift will be if we give
+something that a man does not have, rather than something with which
+he is abundantly supplied, something that he has long searched for and
+has not yet found, rather than something which he is likely to see
+everywhere! Presents should be, not so much costly, as rare and choice
+the sort which even a rich man will make a place for; just as the
+common fruits, of which we shall grow tired after a few days, give us
+pleasure if they have ripened out of season.  And, too, people will
+not fail to appreciate the gifts which either no one else has given to
+them, or which we have given to no one else.
+
+When Alexander of Macedonia, being victorious over the East, was
+puffed up with more than human pride, the Corinthians sent their
+congratulations by an embassy, and bestowed upon him the right of
+citizenship in their state.  This sort of courtesy made Alexander
+smile, whereupon one of the ambassadors said to him: "To no one
+besides Hercules and yourself have we ever given the right of
+citizenship." Alexander gladly accepted so marked an honour, and
+bestowed hospitality and other courtesy upon the ambassadors,
+reflecting, not who they were who had given him the privilege of
+citizenship, but to whom they had given it; and, slave as he was to
+glory, {Hotspur+} of which he knew neither the true nature nor the
+limitations, following the footsteps of Hercules and of Bacchus, and
+not even halting his course where they ceased, he turned his eyes from
+the givers of the honour to his partner in it, just as if heaven, to
+which in supreme vanity he aspired, were now his because he was put on
+a level with Hercules!  Yet what resemblance to him had that mad youth
+who instead of virtue showed fortunate {Plutarch's_Fortune+}
+rashness?  Hercules conquered nothing for himself; he traversed the
+world, not in coveting, but in deciding what to conquer, a foe of the
+wicked, a defender of the good, a peacemaker on land and sea.  But
+this other was from his boyhood a robber and a plunderer of nations, a
+scourge alike to his friends and to his foes, one who found his
+highest happiness in terrorizing all mortals, forgetting that it is
+not merely the fiercest creatures, but also the most cowardly, that
+are feared on account of their deadly venom. {Iago+}
+
+But let me return now to my subject.  Whoever gives a benefit to
+anyone you please, gives acceptably to no one; in an inn or a hotel no
+one regards himself as the guest of the landlord, or at a public feast
+as the intimate friend of the man who is giving it, for one may well
+say: "What favor, pray, has he conferred upon me?  The same, to be
+sure, that he has conferred onhat other fellow, whom he scarcely
+knows, and on that one over there, who is his enemy and a most
+disreputable man.  Did he consider that I was worthy of it?  He merely
+indulged a personal weakness!" If you want to give what will be
+acceptable, make the gift a rare one - anyone can endure being
+indebted for that!  Let no one gather from my words that I desire to
+restrain liberality, to bridle it in with tighter reins; let it indeed
+go forth as far as it likes, but let it go by a path, and not wander.
+It is possible to distribute bounty in such a way that each person,
+even if he has received his gift in company with others, will think
+that he is simply one of a crowd.  Let everyone have some mark of
+intimacy which permits him to hope that he has been admitted to
+greater favor than others.  He may say: "I received the same thing
+that So-and-so did, but without asking for it.  I received the same
+thing that So-and-so did, but at the end of a short time, whereas he
+had long since earned it. There are those who have the same thing, but
+it was not given to them with the same words, with the same,
+friendliness, on the part of the bestower. So-and-so received his gift
+after he had asked for it; I did not ask for mine.  So-and-so received
+a gift, but he could easily make return, but his old age and his
+irresponsible childlessness afforded great expectation, to me more
+was given although the same thing was given, because it was given
+without expectation of any return." A courtesan will distribute her
+favours among her many lovers in such a way that each one of them will
+get some sign of her intimate regard; just so the man who wishes his
+benefactions to be appreciated should contrive both to place many
+under obligation, and yet to see that each one of them gets something
+that will make him think he is preferred above all the others.
+
+In truth, I place no obstacles in the way of benefits; the more there
+are and the greater they are, the more honour will they have.  But let
+judgement be used; for what is given in a haphazard and thoughtless
+manner will be prized by no one.  Wherefore, if anyone supposes that
+in laying down these rules we mean to narrow the bounds of liberality,
+and to open to it a less extensive field, he really has heard my
+admonitions incorrectly.  For what virtue do we Stoics venerate more?
+What virtue do we try more to encourage?  Who are so fitted to give
+such admonition as ourselves - we who would establish the fellowship
+of the whole human race?  What, then, is the case?  Since no effort of
+the mind is praiseworthy even if it springs from right desire, unless
+moderation turns it into some virtue, I protest against the
+squandering of liberality.  The benefit that it is a delight to have
+received, yea, with outstretched hands, is the one that reason
+delivers to those who are worthy, not the one that chance and
+irrational impulse carry no matter where - one that it is a pleasure
+to display and to claim as one's own. Do you give the name of benefits
+to the gifts whose author you are ashamed to admit?  But how much more
+acceptable are benefits, how much deeper do they sink into the mind,
+never to leave it, when the pleasure of them comes from thinking, not
+so much of what has been received, as of him from whom it was
+received!
+
+Crispus Passienus used often to say that from some men he would rather
+have their esteem than their bounty, and that from others he would
+rather have their bounty than their esteem; and he would add examples.
+"In the case of the deified Augustus," he would say, "I prefer his
+esteem, in the case of Claudius, his bounty." I, for my part, think
+that we should never seek a benefit from a man whose esteem is not
+valued.  What, then, is the case?  Should not the gift that was
+offered by Claudius have been accepted?  It should, but as it would
+have been accepted from Fortune, who you were well aware might the
+next moment become unkind. And why do we differentiate the two cases
+that thus have merged?  A gift is not a benefit if the best part of it
+is lacking - the fact that it was given as a mark of esteem.  Moreover
+the gift of a huge sum of money, if neither reason nor rightness of
+choice has prompted it, is no more a benefit than is a treasure trove.
+There are many gifts that ought to be accepted, and yet impose no
+obligation.
