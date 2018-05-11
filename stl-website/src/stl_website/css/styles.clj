@@ -271,7 +271,7 @@
 
 
   [:.author-listing
-   {:width (px 300)
+   {:width (px 350)
     :border-radius (px 3)
     :margin (em 1.0)
     :padding (em 0.5)
@@ -334,8 +334,10 @@
     :font-weight "bold"
     :font-size (em 1.5)}]
 
+
   [:.book-container>.intro>.series
    {:font-size (em 1.5)}]
+
 
   [:.book-container>.author
    {:text-align "center"
@@ -344,6 +346,17 @@
 
 
   [:.book-container>.author>.author
+   {:font-style "italic"}]
+
+
+  [:.book-container>.translated-by
+   {:text-align "center"
+    :font-size (em 0.7)
+    :padding (em 0.5)
+    :padding-top 0}]
+
+
+  [:.book-container>.translated-by>.translated-by
    {:font-style "italic"}]
 
 
@@ -361,6 +374,13 @@
    {:line-height (em 1.5)
     :text-indent (em 1)}]
 
+  [:.book-container>.content>blockquote
+   {:margin (em 0.3)
+    :font-style "italic"}]
+
+  [:.book-container>.content>blockquote>p
+   {:line-height (em 1.5)
+    :text-indent (em 1)}]
 
   [:.book-container>.content>h1
    {:padding-top (em 1.2)

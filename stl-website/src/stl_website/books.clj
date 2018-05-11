@@ -16,124 +16,172 @@
 (def book-listing
   [
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book One"
     :number 1
     :content (md-book-resource "marcus_aurelius_meditations/book01.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Two"
     :number 2
     :content (md-book-resource "marcus_aurelius_meditations/book02.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Three"
     :number 3
     :content (md-book-resource "marcus_aurelius_meditations/book03.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Four"
     :number 4
     :content (md-book-resource "marcus_aurelius_meditations/book04.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Five"
     :number 5
     :content (md-book-resource "marcus_aurelius_meditations/book05.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Six"
     :number 6
     :content (md-book-resource "marcus_aurelius_meditations/book06.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Seven"
     :number 7
     :content (md-book-resource "marcus_aurelius_meditations/book07.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Eight"
     :number 8
     :content (md-book-resource "marcus_aurelius_meditations/book08.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Nine"
     :number 9
     :content (md-book-resource "marcus_aurelius_meditations/book09.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Ten"
     :number 10
     :content (md-book-resource "marcus_aurelius_meditations/book10.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Eleven"
     :number 11
     :content (md-book-resource "marcus_aurelius_meditations/book11.md")}
 
    {:author "Marcus Aurelius"
+    :translated-by "George Long"
     :series "Meditations"
     :title "Book Twelve"
     :number 12
     :content (md-book-resource "marcus_aurelius_meditations/book12.md")}
 
    {:author "Epictetus"
+    :translated-by "Elizabeth Carter"
     :series "The Enchiridion"
     :title "Full Text"
     :number 1
     :content (md-book-resource "epictetus_enchiridion/root.md")}
 
    {:author "Epictetus"
+    :translated-by "N/A"
     :series "Discourses"
     :title "Book One"
     :number 1
     :content (md-book-resource "epictetus_discourses/book01.md")}
 
    {:author "Epictetus"
+    :translated-by "N/A"
     :series "Discourses"
     :title "Book Two"
     :number 2
     :content (md-book-resource "epictetus_discourses/book02.md")}
 
    {:author "Epictetus"
+    :translated-by "N/A"
     :series "Discourses"
     :title "Book Three"
     :number 3
     :content (md-book-resource "epictetus_discourses/book03.md")}
 
    {:author "Epictetus"
+    :translated-by "N/A"
     :series "Discourses"
     :title "Book Four"
     :number 4
     :content (md-book-resource "epictetus_discourses/book04.md")}
 
    {:author "Seneca"
+    :translated-by "Richard M. Gummere"
     :series "Epistles"
     :title "Volume One"
     :number 1
     :content (md-book-resource "seneca_epistles_vol_1/root.md")}
 
    {:author "Seneca"
+    :translated-by "Richard M. Gummere"
     :series "Epistles"
     :title "Volume Two"
     :number 2
     :content (md-book-resource "seneca_epistles_vol_2/root.md")}
 
    {:author "Seneca"
+    :translated-by "Richard M. Gummere"
     :series "Epistles"
     :title "Volume Three"
     :number 3
-    :content (md-book-resource "seneca_epistles_vol_3/root.md")}])
+    :content (md-book-resource "seneca_epistles_vol_3/root.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 1"
+    :title "On Providence"
+    :number 1
+    :content (md-book-resource "seneca_essays_vol_1/providence.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 1"
+    :title "On Firmness"
+    :number 2
+    :content (md-book-resource "seneca_essays_vol_1/firmness.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 1"
+    :title "On Anger"
+    :number 3
+    :content (md-book-resource "seneca_essays_vol_1/on_anger.md")}
+
+   {:author "Seneca"
+    :translated-by "John W. Basore"
+    :series "Essays Volume 1"
+    :title "On Mercy"
+    :number 4
+    :content (md-book-resource "seneca_essays_vol_1/mercy.md")}])
 
 
 (defn generate-book-url
@@ -184,6 +232,8 @@
                                [:div.intro [:div.series (:series book)]
                                            [:div.title (:title book)]]
                                [:div.author "by " [:span.author (:author book)]]
+                               [:div.translated-by
+                                "Translated by " [:span.translated-by (:translated-by book)]]
                                [:div.content (:content book)]])]))
        (into {})))
 

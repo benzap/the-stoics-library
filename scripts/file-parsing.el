@@ -322,3 +322,10 @@
   (delete-blank-lines)
   (previous-line)
   (delete-blank-lines))
+
+
+(defun re-find-title ()
+  (interactive)
+  (setq case-fold-search nil)
+  (re-search-forward "^[A-Z]\\{2,\\}")
+  (setq case-fold-search 1))

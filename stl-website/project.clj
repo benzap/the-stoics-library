@@ -24,6 +24,7 @@
                  [funcool/cuerdas "2.0.5"]
                  [markdown-clj "1.0.2"]
                  [mount "0.1.12"]
+                 [rum "0.11.2"]
                  [clj-time "0.14.2"]
                  [garden "1.3.5"]]
 
