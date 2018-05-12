@@ -329,3 +329,15 @@
   (setq case-fold-search nil)
   (re-search-forward "^[A-Z]\\{2,\\}")
   (setq case-fold-search 1))
+
+
+(defun format-header-lines ()
+  (interactive)
+  (when (re-search-forward "^[0-9]+")
+    (let ((num (match-string 0)))
+      (kill-region (match-beginning 0) (match-end 0))
+      (beginning-of-line)
+      (delete-forward-char 1)
+      (insert "# ")
+      (insert num)
+      (insert "\n\n"))))

@@ -251,7 +251,28 @@
     :series "Essays Volume 3"
     :title "On Benefits Book V"
     :number 5
-    :content (md-book-resource "seneca_essays_vol_3/on_benefits_book_5.md")}])
+    :content (md-book-resource "seneca_essays_vol_3/on_benefits_book_5.md")}
+
+   {:author "Cicero"
+    :translated-by "Walter Miller"
+    :series "De Officiis"
+    :title "Moral Goodness Book I"
+    :number 1
+    :content (md-book-resource "ciceros_de_officiis/moral_goodness.md")}
+
+   {:author "Cicero"
+    :translated-by "Walter Miller"
+    :series "De Officiis"
+    :title "Expediency Book II"
+    :number 1
+    :content (md-book-resource "ciceros_de_officiis/expediency.md")}
+
+   {:author "Cicero"
+    :translated-by "Walter Miller"
+    :series "De Officiis"
+    :title "The Conflict Between The Right and The Expedient Book III"
+    :number 1
+    :content (md-book-resource "ciceros_de_officiis/conflict__expedient.md")}])
 
 
 (defn generate-book-url
